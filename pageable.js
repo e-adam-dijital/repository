@@ -855,7 +855,7 @@
                 // && (Number(localStorage.getItem("thisIndexPA")) == this.index || localStorage.getItem("firstScrollWheelPA") != 1)
                 if (
                     (this.scrolling == undefined || this.scrolling == false) &&
-                    (n - localStorage.getItem("firstScrollTimePA") > 1750 ||
+                    (n - localStorage.getItem("firstScrollTimePA") > 1500 ||
                         !localStorage.getItem("firstScrollTimePA"))
                 ) {
                     localStorage.setItem("thisIndexPA", this.index);
