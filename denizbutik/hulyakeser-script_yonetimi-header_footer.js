@@ -1,4 +1,5 @@
 // Tüm Sayfalar - Header 
+
   $(document).ready(function(){
   $(".mobilMenu #HeaderMenu2 > li:first-child").before(`<li><a href="/" target="_self" title="anasayfa"><img src="/Uploads/EditorUploads/anasayfa.jpg" alt="mobilMenu"></a></li>`)
 	 $(".mobilMenu #HeaderMenu2 > li > a").each(function(){
@@ -65,7 +66,20 @@
         
       
   }
-  
+
+
+// Site Footer
+
+    $(document).ready(function () {
+        $('#divNewsLetter').prependTo('.ticiBultenContent');
+
+        $(".ticiFooterMenu .footerCol h3").on("click", function (event) {
+            $(this).parents(".footerCol").toggleClass("active");
+            event.preventDefault();
+
+        });
+    });
+
  
 //  Tüm Sayfalar 
 
@@ -98,9 +112,7 @@ $(document).ready(function () {
 	`)
 });
 
-
 /**/
-
 
 $(document).ready(function () {
  
