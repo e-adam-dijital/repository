@@ -1026,7 +1026,7 @@ body .header-top-container .header-top-links a:nth-child(3)::before {
     background-image: url(/Uploads/EditorUploads/siparis-takip.png);
 }
 </style>
-<!-->
+<!--
 <script>
 $(document).ready(function () {
  
