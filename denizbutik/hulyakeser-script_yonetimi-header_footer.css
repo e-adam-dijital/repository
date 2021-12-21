@@ -110,7 +110,7 @@ body .CartProduct .headerOrderBtn {
       body .headerHesabim::before,
       body .headerUyeGiris a::before {
           content: "";
-          background-image: url(/Uploads/EditorUploads/artboard-1.jpg);
+          background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/artboard-1.jpg);
           width: 26px;
           height: 21px;
           background-size: contain;
@@ -118,7 +118,7 @@ body .CartProduct .headerOrderBtn {
       }
       body .mycart > a::before {
           content: "";
-          background-image: url(/Uploads/EditorUploads/artboard-2.jpg);
+          background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/artboard-2.jpg);
           width: 26px;
           height: 21px;
           background-size: contain;
@@ -127,7 +127,7 @@ body .CartProduct .headerOrderBtn {
       }
       body .fa-search::before {
           content: "";
-          background-image: url(/Uploads/EditorUploads/artboard-3.jpg);
+          background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/artboard-3.jpg);
           width: 26px;
           height: 23px;
           background-size: contain;
@@ -277,7 +277,7 @@ body .CartProduct .headerOrderBtn {
           margin: 0 auto;
       }
       body #header .headerContentContainer #btnKelimeAra {
-          background-image: url(/Uploads/EditorUploads/search.png);
+          background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/search.png);
           width: 25px;
           height: 24px;
           background-size: 23px;
@@ -295,7 +295,7 @@ body .CartProduct .headerOrderBtn {
   @media (max-width: 768px) {
       body .mycartClick .fa-shopping-cart::before {
           content: "";
-          background-image: url(/Uploads/EditorUploads/artboard-2.jpg);
+          background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/artboard-2.jpg);
           width: 32px;
           height: 25px;
           background-size: cover;
@@ -361,7 +361,7 @@ body .CartProduct .headerOrderBtn {
       }*/
      body .mobilMenuAcButton .fa-bars::before {
 content: "";
-background: url(/Uploads/EditorUploads/mobilmenu.PNG);
+background: url(https://www.hulyakeser.com/Uploads/EditorUploads/mobilmenu.PNG);
 background-size: contain;
 width: 41px;
 height: 28px;
@@ -502,7 +502,7 @@ margin-bottom:40px;
 }
 .mobilMenu .mobilContainer .mobilMenuHesap .giris a::before {
     content: "";
-    background-image: url(/Uploads/EditorUploads/account.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/account.png);
     width: 24px;
     height: 23px;
     background-size: 25px;
@@ -511,7 +511,7 @@ margin-bottom:40px;
 }
 .mobilMenu .mobilContainer .mobilMenuHesap .favorii a::before {
     content: "";
-    background-image: url(/Uploads/EditorUploads/favourites.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/favourites.png);
     width: 26px;
     height: 23px;
     background-size: 26px;
@@ -520,7 +520,7 @@ margin-bottom:40px;
 }
 .mobilMenu .mobilContainer .mobilMenuHesap .siparis a::before {
     content: "";
-    background-image: url(/Uploads/EditorUploads/online-store-60px.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/online-store-60px.png);
     width: 24px;
     height: 23px;
     background-size: 25px;
@@ -529,7 +529,7 @@ margin-bottom:40px;
 }
 .mobilMenu .mobilContainer .mobilMenuHesap .sirarisT a::before {
     content: "";
-    background-image: url(/Uploads/EditorUploads/delivery-64px.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/delivery-64px.png);
     width: 24px;
     height: 23px;
     background-size: 25px;
@@ -538,7 +538,7 @@ margin-bottom:40px;
 }
 .mobilMenu .mobilContainer .mobilMenuHesap .iletisim a::before {
     content: "";
-    background-image: url(/Uploads/EditorUploads/phone-48px.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/phone-48px.png);
     width: 24px;
     height: 28px;
     background-size: 28px;
@@ -602,13 +602,13 @@ body .header-top-container .header-top-links a::before {
     margin-right: 5px;
 }
 body .header-top-container .header-top-links a:first-child::before {
-    background-image: url(/Uploads/EditorUploads/yardim.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/yardim.png);
 }
 body .header-top-container .header-top-links a:nth-child(2)::before {
-    background-image: url(/Uploads/EditorUploads/kolay-iade.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/kolay-iade.png);
 }
 body .header-top-container .header-top-links a:nth-child(3)::before {
-    background-image: url(/Uploads/EditorUploads/siparis-takip.png);
+    background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/siparis-takip.png);
 }
 
 
@@ -651,7 +651,7 @@ body .header-top-container .header-top-links a:nth-child(3)::before {
   }
 
 	.fixed-whatsapp::before{
-	background-image: url("/Uploads/EditorUploads/whatsapp-white.png");
+	background-image: url("https://www.hulyakeser.com/Uploads/EditorUploads/whatsapp-white.png");
     }
      .fixed-whatsapp::before {
 	content: " " !important;

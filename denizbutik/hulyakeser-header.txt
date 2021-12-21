@@ -1,4 +1,4 @@
-<a class="logo" href="/"><img src="/Uploads/EditorUploads/website-logo-2.png" /></a>
+<a class="logo" href="/"><img src="https://www.hulyakeser.com/Uploads/EditorUploads/website-logo-2.png" /></a>
 <div class="htop">
 <div class="ticiContainer">
 <div class="header-top-container"><span class="info"> <span class="icSpan"> +90 850 259 34 86</span> - Destek Hattı</span>
