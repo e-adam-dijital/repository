@@ -10,7 +10,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-3dc6bda1-5.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-3dc6bda1-5.jpg"
                             alt="title"
                     /></a>
                 </div>
@@ -47,8 +47,8 @@
                                                 >
                                                     <img
                                                         class="resimOrginal owl-lazy"
-                                                        src="/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
+                                                        src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
                                                         alt="Mısra Elbise - Siyah"
                                                     />
                                                 </a>
@@ -150,7 +150,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-yesil-747-29.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-yesil-747-29.jpeg"
                                                         alt="Mısra Elbise - Yeşil"
                                                     />
                                                 </a>
@@ -252,7 +252,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-mor-7-fbd6.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-mor-7-fbd6.jpeg"
                                                         alt="Mısra Elbise - Mor"
                                                     />
                                                 </a>
@@ -350,7 +350,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/oyku-abiye-lila-324ade.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/oyku-abiye-lila-324ade.jpeg"
                                                         alt="Öykü Abiye - Lila"
                                                     />
                                                 </a>
@@ -448,7 +448,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/su-abiye-lila--6369-.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/su-abiye-lila--6369-.jpeg"
                                                         alt="Su Abiye - Lila"
                                                     />
                                                 </a>
@@ -553,7 +553,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-f52afd2e-1.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-f52afd2e-1.jpg"
                             alt="title"
                     /></a>
                 </div>
@@ -590,8 +590,8 @@
                                                 >
                                                     <img
                                                         class="resimOrginal owl-lazy"
-                                                        src="/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-camel-6fb74-.jpeg"
-                                                        data-src="/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-camel-6fb74-.jpeg"
+                                                        src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-camel-6fb74-.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-camel-6fb74-.jpeg"
                                                         alt="Omuzu Çiçekli Abaya - Camel"
                                                     />
                                                 </a>
@@ -695,7 +695,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-gul-ab8f-4.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/omuzu-cicekli-abaya-gul-ab8f-4.jpeg"
                                                         alt="Omuzu Çiçekli Abaya - Gül"
                                                     />
                                                 </a>
@@ -799,7 +799,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/hena-elbise-siyah-b-4422.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/hena-elbise-siyah-b-4422.jpeg"
                                                         alt="Hena Elbise - Siyah"
                                                     />
                                                 </a>
@@ -901,7 +901,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/sare-elbise-siyah-c-4f85.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/sare-elbise-siyah-c-4f85.jpeg"
                                                         alt="Sare Elbise - Siyah"
                                                     />
                                                 </a>
@@ -1003,7 +1003,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/almila-abiye-lila-6c0f-4.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/almila-abiye-lila-6c0f-4.jpeg"
                                                         alt="Almila Abiye - Lila"
                                                     />
                                                 </a>
@@ -1108,7 +1108,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-0ce97a8f-c.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-0ce97a8f-c.jpg"
                             alt="title"
                     /></a>
                 </div>
@@ -1145,8 +1145,8 @@
                                                 >
                                                     <img
                                                         class="resimOrginal owl-lazy"
-                                                        src="/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-lacivert-217522.jpeg"
-                                                        data-src="/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-lacivert-217522.jpeg"
+                                                        src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-lacivert-217522.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-lacivert-217522.jpeg"
                                                         alt="Saten Fırfırlı Abiye - Lacivert"
                                                     />
                                                 </a>
@@ -1250,7 +1250,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/yirtmac-detay-abiye-siyah-07c1f9.jpg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/yirtmac-detay-abiye-siyah-07c1f9.jpg"
                                                         alt="Yırtmaç Detay Abiye - Siyah"
                                                     />
                                                 </a>
@@ -1354,7 +1354,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/yarim-altin-yaprak-desenli-abiye-altin-48e3-8.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/yarim-altin-yaprak-desenli-abiye-altin-48e3-8.jpeg"
                                                         alt="Yarım Altın Yaprak Desenli Abiye - Altın"
                                                     />
                                                 </a>
@@ -1458,7 +1458,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-su-yesili-3d1b0-.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/saten-firfirli-abiye-su-yesili-3d1b0-.jpeg"
                                                         alt="Saten Fırfırlı Abiye - Su Yeşili"
                                                     />
                                                 </a>
@@ -1562,7 +1562,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/biricik-abiye-turuncu-7-b07d.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/biricik-abiye-turuncu-7-b07d.jpeg"
                                                         alt="Biricik Abiye - Turuncu"
                                                     />
                                                 </a>
@@ -1673,7 +1673,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-1b63b974-c.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-1b63b974-c.jpg"
                             alt="title"
                     /></a>
                 </div>
@@ -1710,8 +1710,8 @@
                                                 >
                                                     <img
                                                         class="resimOrginal owl-lazy"
-                                                        src="/Uploads/UrunResimleri/thumb/omuzu-tasli-abaya-bej-e88a21.jpeg"
-                                                        data-src="/Uploads/UrunResimleri/thumb/omuzu-tasli-abaya-bej-e88a21.jpeg"
+                                                        src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/omuzu-tasli-abaya-bej-e88a21.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/omuzu-tasli-abaya-bej-e88a21.jpeg"
                                                         alt="Omuzu Taşlı Abaya - Bej"
                                                     />
                                                 </a>
@@ -1815,7 +1815,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/cisem-abaya-siyah-56bd4a.jpg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/cisem-abaya-siyah-56bd4a.jpg"
                                                         alt="Çisem Abaya - Siyah"
                                                     />
                                                 </a>
@@ -1917,7 +1917,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/cisem-abaya-altin-9-41bd.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/cisem-abaya-altin-9-41bd.jpeg"
                                                         alt="Çisem Abaya - Altın"
                                                     />
                                                 </a>
@@ -2019,7 +2019,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/cisem-abaya-gri--bc78-.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/cisem-abaya-gri--bc78-.jpeg"
                                                         alt="Çisem Abaya - Gri"
                                                     />
                                                 </a>
@@ -2117,7 +2117,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/cisem-abaya-lila-4486-9.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/cisem-abaya-lila-4486-9.jpeg"
                                                         alt="Çisem Abaya - Lila"
                                                     />
                                                 </a>
@@ -2222,7 +2222,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-1018978f-7.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-1018978f-7.jpg"
                             alt="title"
                     /></a>
                 </div>
@@ -2259,8 +2259,8 @@
                                                 >
                                                     <img
                                                         class="resimOrginal owl-lazy"
-                                                        src="/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
+                                                        src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-siyah--074b9.jpeg"
                                                         alt="Mısra Elbise - Siyah"
                                                     />
                                                 </a>
@@ -2362,7 +2362,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-yesil-747-29.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-yesil-747-29.jpeg"
                                                         alt="Mısra Elbise - Yeşil"
                                                     />
                                                 </a>
@@ -2464,7 +2464,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/misra-elbise-mor-7-fbd6.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/misra-elbise-mor-7-fbd6.jpeg"
                                                         alt="Mısra Elbise - Mor"
                                                     />
                                                 </a>
@@ -2562,7 +2562,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/elis-elbise-siyah-3d2e12.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/elis-elbise-siyah-3d2e12.jpeg"
                                                         alt="Elis Elbise - Siyah"
                                                     />
                                                 </a>
@@ -2664,7 +2664,7 @@
                                                     <img
                                                         class="resimOrginal owl-lazy"
                                                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                                                        data-src="/Uploads/UrunResimleri/thumb/sare-elbise-siyah-c-4f85.jpeg"
+                                                        data-src="https://www.hulyakeser.com/Uploads/UrunResimleri/thumb/sare-elbise-siyah-c-4f85.jpeg"
                                                         alt="Sare Elbise - Siyah"
                                                     />
                                                 </a>
@@ -2773,7 +2773,7 @@
                         ><img
                             class="lazyImage editable"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-                            data-original="/Uploads/SayfaTasarim/Sayfa1/title-a279765d-3.jpg"
+                            data-original="https://www.hulyakeser.com/Uploads/SayfaTasarim/Sayfa1/title-a279765d-3.jpg"
                             alt="title"
                     /></a>
                 </div>
