@@ -325,7 +325,7 @@ background: #000;
   }
   body .topFilter-Block_Text .mobilFilterBtn::before {
       content: '';
-      background-image: url(/Uploads/EditorUploads/filtre-1.png);
+      background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/filtre-1.png);
       width: 15px;
       height: 15px;
       background-size: contain;
@@ -338,7 +338,7 @@ background: #000;
   
   body .brandlistselection .sortingContent::before {
       content: '';
-      background-image: url(/Uploads/EditorUploads/sirala-2.png);
+      background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/sirala-2.png);
       width: 18px;
       height: 15px;
       background-size: cover;

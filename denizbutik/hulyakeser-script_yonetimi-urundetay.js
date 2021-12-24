@@ -18,25 +18,25 @@
 <div class="Features" style="float: left;">
 <div class="item">
 <span class="Icon hulyaf-1">
-<img src="/Uploads/EditorUploads/guvenli-alisveris.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/guvenli-alisveris.jpg">
 </span>
 <p>Güvenli Alışveriş</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-2">
-<img src="/Uploads/EditorUploads/hizli-gonderim.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/hizli-gonderim.jpg">
 </span>
 <p>Hızlı Gönderim</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-3">
-<img src="/Uploads/EditorUploads/kapida-odeme.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/kapida-odeme.jpg">
 </span>
 <p>Kapıda Ödeme</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-4">
-<img src="/Uploads/EditorUploads/taksit-imkani.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/taksit-imkani.jpg">
 </span>
 <p>Taksit İmkanı</p>
 </div>
@@ -60,25 +60,25 @@ $(".leftImage .PhoneAction .pCode >span").text(productDetailModel.productId)
 <div class="Features" style="float: left;">
 <div class="item">
 <span class="Icon hulyaf-1">
-<img src="/Uploads/EditorUploads/guvenli-alisveris.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/guvenli-alisveris.jpg">
 </span>
 <p>Güvenli Alışveriş</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-2">
-<img src="/Uploads/EditorUploads/hizli-gonderim.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/hizli-gonderim.jpg">
 </span>
 <p>Hızlı Gönderim</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-3">
-<img src="/Uploads/EditorUploads/kapida-odeme.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/kapida-odeme.jpg">
 </span>
 <p>Kapıda Ödeme</p>
 </div>
 <div class="item">
 <span class="Icon hulyaf-4">
-<img src="/Uploads/EditorUploads/taksit-imkani.jpg">
+<img src="https://www.hulyakeser.com/Uploads/EditorUploads/taksit-imkani.jpg">
 </span>
 <p>Taksit İmkanı</p>
 </div>

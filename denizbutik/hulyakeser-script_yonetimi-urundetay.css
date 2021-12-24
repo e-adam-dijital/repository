@@ -7,7 +7,7 @@ background: #000;
 }
  .PhoneAction .wp > span::before {
   content: "";
-  background: url(/Uploads/EditorUploads/layer-1.png);
+  background: url(https://www.hulyakeser.com/Uploads/EditorUploads/layer-1.png);
   width: 18px;
   height: 18px;
   background-size: cover;
@@ -16,7 +16,7 @@ background: #000;
 
  .PhoneAction .phone > span::before {
   content: "";
-  background: url(/Uploads/EditorUploads/untitled-2.png);
+  background: url(https://www.hulyakeser.com/Uploads/EditorUploads/untitled-2.png);
   width: 26px;
   height: 23px;
   background-size: cover;
