@@ -109,6 +109,10 @@ $(".PhoneAction .pCode >span").text(productDetailModel.productId)
 	}, 1000);
 
   
+  	
+});
+  
+
   $(document).ready(function(){
   
 
