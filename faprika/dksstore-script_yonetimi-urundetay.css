@@ -1,0 +1,581 @@
+      @media screen and (min-width: 1200px) {
+body .taksitWrapper .taksitBlock {
+width: 50%;
+}
+}
+       body #divOzelAlan4 {
+position: absolute;
+left: 0;
+top: 5px;
+}
+    body .eksecenekLine.kutuluvaryasyon:first-child .right_line .size_box {
+width: 100% !important;
+}      
+body .RightDetail .puanVer {
+display: none;
+}
+body .discountIcon {
+display: none;
+}
+body .ProductDetailMainRow .middleBottomBlock {
+display: none;
+}
+.owl-carousel .owl-nav .ProductListnext::before {
+  font-size: 40px;
+}
+
+.owl-carousel .owl-nav .ProductListprev::before {
+  font-size: 40px;
+}
+
+.owl-carousel .owl-nav .ProductListprev {
+  background: unset;
+}
+
+.owl-carousel .owl-nav .ProductListnext {
+  background: unset;
+}
+
+      .newIcon {
+display: none;
+}
+            .ozelAlan5 {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      }
+    body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav span {
+        color: #000;
+        font-size: 62px;
+        border: unset;
+    }
+
+    body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav span:hover {
+        color: #000;
+        border: unset;
+    }
+
+    body .PriceList {
+        position: static;
+    }
+
+    body .RightDetail .TopList {
+        position: static;
+    }
+
+    body .RightDetail {
+        position: static;
+    }
+
+
+    body #divOzelAlan5 {
+        position: relative;
+        left: 11%;
+        top: 10px;
+    }
+
+
+    body .divIcerikContainer #divSatinAl #divAdetCombo {
+        display: none !important;
+    }
+
+    body .urunOzellik {
+        margin-top: 10px;
+    }
+
+    body .TopDet #IlgiliUrunDiv {
+        background: #fff;
+        border: 1px solid #e2e6eb;
+        padding: 15px;
+        margin-top: 5px;
+    }
+
+    body .cloudzoom-blank,
+    body .cloudzoom-zoom {
+        display: none !important;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine:first-child {
+        padding: 15px;
+        border: 1px solid #e2e6eb;
+        background: #fff;
+        margin-top: 0;
+    }
+
+    body #divAdetCombo select {
+        -webkit-appearance: none;
+        appearance: none;
+        background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='000000F2'><polygon points='0,0 100,0 50,50'/></svg>") no-repeat;
+        background-color: rgba(0, 0, 0, 0);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-size: 12px;
+        background-position: calc(100% - 20px) center;
+        background-repeat: no-repeat;
+        background-color: #fff;
+        background-position-x: 80% !important;
+        background-position-y: 60% !important;
+    }
+
+    .ticiDialog {
+        overflow-y: visible !important;
+    }
+
+    body #divUrunEkSecenek {
+        border: unset;
+        margin-top: 5px;
+        padding-top: 0;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine.resimlivaryasyon {
+        background: #fff;
+        padding: 15px;
+        border: 1px solid #e2e6eb;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine:last-child {
+        padding: 15px;
+        background: #fff;
+        border: 1px solid #e2e6eb;
+        border-bottom: unset;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover {
+        background: #000;
+        color: #fff;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine .right_line .size_box.selected {
+        background: #000;
+        color: #ffff;
+        width: 50px;
+        height: 30px;
+        display: grid;
+        animation: ;
+        align-content: center;
+    }
+
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+        background: #000;
+    }
+
+    html body .ticiDialog {
+        overflow-y: visible !important;
+    }
+
+    body .cargoIcon {
+        display: none;
+    }
+
+    .RightDetail .MiddleList .basketBtn::after {
+        content: "";
+        background-image: url(/Uploads/EditorUploads/checkmark_52px.png);
+        width: 26px;
+        height: 23px;
+        background-size: 26px;
+        position: absolute;
+        top: 10px;
+        left: 50%;
+        display: none;
+    }
+
+    html body .ticimaxDialogContent {
+        display: none !important;
+    }
+
+    body .sepeteEklendi {
+        text-align: center;
+        background: green;
+        color: #fff;
+        padding: 5px;
+        display: none;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999;
+    }
+
+    body .yetersizStok {
+        text-align: center;
+        background: red;
+        color: #fff;
+        padding: 5px;
+        display: none;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999;
+    }
+
+    body a#linkOncekiSayfa {
+        display: none;
+    }
+
+    body #divIndirimOrani {
+        background: #000 !important;
+    }
+
+    body .breadcrumb li span {
+        color: #666 !important;
+    }
+
+    body #mainHolder_divDesign .JKatAdi.categoryTitle .bold .satir1,
+    .JKatAdi .bold .satir1 {
+        font-size: 15px;
+        font-weight: 600;
+        color: #212121;
+        background: #f3f6f9;
+    }
+
+    body #mainHolder_divDesign .JKatAdi.categoryTitle,
+    .JKatAdi {
+        margin-bottom: 0 !important;
+    }
+
+    body .urunTab {
+        background: #000;
+        padding: 10px;
+    }
+
+    body .JKatAdi .bold::after {
+        border: 1px solid #e2e6eb;
+    }
+
+    body .urunTab>ul>li.active>a {
+        color: #fff;
+    }
+
+    body .urunTab>ul>li>a {
+        color: #fff;
+    }
+
+    body .urunTab>ul>li.active>a {
+        border: unset;
+    }
+
+    body .TopDet .Images img {
+        margin-top: 0;
+    }
+
+    body .RightDetail .TopList {
+        background: #fff;
+        padding: 15px;
+        border: 1px solid #e2e6eb;
+    }
+
+    body .RightDetail {
+        padding: 0 0 0 20px;
+    }
+
+    body .PriceList {
+        border-bottom: 0;
+        margin-bottom: 5px;
+        padding-bottom: 0;
+    }
+
+    body .fa-heart::before {
+        content: "";
+        background-image: url(https://siustore.ticimaxeticaret.com/Uploads/EditorUploads/heart-48px.png?t=20211001161443);
+        background-size: 20px;
+        height: 20px;
+        width: 20px;
+        display: block;
+        margin: 10px 8px;
+    }
+
+    body .UFavorilerimeEkle .box1 {
+        width: 48px;
+        height: 40px;
+        border-radius: 3px;
+    }
+
+    body #divSatinAl {
+        border-top: 1px solid #e2e6eb;
+        background: #fff;
+        margin: 0;
+        border-top: unset;
+        padding: 15px;
+    }
+
+    body .BasketBtn {
+        display: flex;
+    }
+
+    body #divAdetCombo {
+        width: 20%;
+        margin-bottom: 0;
+    }
+
+    body .basketBtn {
+        margin: 0 10px 0 10px;
+        width: 100%;
+    }
+
+    body .basketBtn input {
+        background: #000 !important;
+        border-radius: 3px;
+    }
+
+    body .UFavorilerimeEkle .box1 {
+        background: #000;
+        color: #fff;
+        width: 48px;
+        height: 40px;
+        border-radius: 3px;
+    }
+
+    body .RightDetail .BottomList {
+        display: none;
+    }
+
+    body #footer {
+        display: none;
+    }
+
+    body .ProductDetailMainRow {
+        float: right;
+        width: 100%;
+    }
+
+    .urunDetayPanel {
+        background: #fff;
+        padding: 15px;
+    }
+ body .urunTab {
+z-index: 3;
+position: relative;
+}
+@media(min-width: 1200px){
+  body .leftImage {
+background: #fff;
+}
+  body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav {
+left: 0;
+}
+  body img.wm-zoom-default-img {
+margin: 0 auto;
+}  
+      
+      body .ProductGallery .gallery-container .GalleryArea {
+margin: unset;
+  order: 1;
+}
+
+body .ProductGallery .galleryOwl-thumb {
+  width: 100%;
+  overflow-x: auto;
+  order: 2;
+  position: unset;
+}
+
+body .ProductGallery .galleryOwl-thumb .thumb-list {
+  overflow-y: unset;
+  overflow-x: auto;
+  display: flex;
+  justify-content: center;;
+}
+
+body .ProductGallery .galleryOwl-thumb .thumb-list .thumb-item {
+  height: 88px !important;
+  width: 84.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin-bottom: 0;
+  margin-right: 6px;
+}
+
+body .gallery-container {
+  display: flex;
+  flex-direction: column;
+}
+}
+
+    @media (max-width: 768px) {
+        body #divMobileImageList {
+            float: right;
+        }
+
+
+
+
+
+        body .RightDetail {
+            padding: 0;
+        }
+
+        html body .UFavorilerimeEkle .box1 {
+            width: 40px;
+            border-radius: 47px;
+        }
+
+        body .urunOzellik .mobilTab>ul>li.active>a {
+            background: #000;
+        }
+
+        body .urunOzellik .mobilTab .button {
+            background: #000;
+        }
+
+        .SmallImages div img {
+            display: block !important;
+            visibility: visible !important;
+        }
+
+        body .categoryTitle {
+            display: none !important;
+        }
+
+        .urunOzellik .mobilTab>ul>li>a {
+            color: #fff;
+            background: #000;
+        }
+
+        body .ProductGallery {
+            display: none;
+        }
+
+        .gallery-thumbs .swiper-slide {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+
+        .gallery-top {
+            width: 100%;
+        }
+
+        .gallery-top .swiper-slide {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        body .TopDet .leftImage .swiper-container.swiper-container-horizontal .swiper-wrapper img {
+            display: block !important;
+        }
+
+        body .swiper-button-prev,
+        .swiper-container-rtl .swiper-button-next,
+        body .swiper-button-next,
+        .swiper-container-rtl .swiper-button-prev {
+            filter: brightness(0%);
+        }
+
+        body #divOzelAlan5 {
+
+            left: 20%;
+            z-index: 2;
+        }
+        body #ProductDetailMain .TopDet .leftImage .gallery-thumbs {
+          margin-top: 5px;
+          }
+
+        body .swiper-container.gallery-thumbs.swiper-container-vertical {
+            float: left;
+            width: 16%;
+            height: 480px;
+        }
+
+
+        body .gallery-thumbs .swiper-slide {
+            height: 88px !important;
+        }
+
+.RightDetail #divUrunEkSecenek .eksecenekLine .size_box {
+margin-bottom: 7px;
+}
+
+    }
+	
+	
+    .kampanyaYazisi {
+        font-size: 22px;
+        position: absolute;
+        bottom: -10px; /* -40px vb. */
+        text-align: center;
+        line-height: 24px;
+        border-top: 1px solid #d7d7d7;
+    }
+    .kampanyaYazisi > span:first-of-type {
+        font-size: 16px;
+    }
+    .kampanyaYazisi > span:last-of-type {
+        font-weight: 600;
+        display: block;
+        font-size: 26px;
+        color: #cc1a1a;
+    }
+
+    .ozelEtiketGorseli {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 60px;
+        z-index: 1;
+    }
+
+    .PriceList {
+        border-bottom: none;
+		margin-bottom: 0;
+    }
+	
+	#divIndirimOrani {
+		position: relative;
+		width: 100px;
+		height: 28px;
+		padding: 0 5px;
+		float: right;
+		margin-right: calc(85% - 200px);
+		margin-bottom: -25px;
+	}
+	
+    @media (max-width: 768px) {
+        .PriceList {
+            border-bottom: 15px solid transparent;
+        }
+		
+		#divIndirimOrani {
+			margin-bottom: -10px;
+		}
+    }
+
+    #BenzerUrunDiv .productIcon > div:last-child {
+        /* .ozelAlanX */
+        display: none;
+    }
+	
+	
+.PriceList {
+  position: relative;
+}
+.kampanyaYazisi {
+position: relative;
+float: left;
+clear: both;
+}
+
+
+.thumb-item img{
+max-height: 105px;
+}
+
+@media (min-width: 1200px) {
+  body .ProductGallery .galleryOwl-thumb .thumb-list .thumb-item {
+    margin-right: -6px;
+  }
+}
+
+@media (max-width: 767.98px) {
+.gallery-thumbs img {
+  max-height: 95px;
+  margin-top: -10px;
+} 
+}

@@ -1,0 +1,10 @@
+<!-- Bu Alandaki CSS vs JS Kodları dksstore-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<a class="logo" href="/"><img src="https://www.dksstore.com/Uploads/EditorUploads/website-logo.png" /></a>
+<div class="htop">
+<div class="ticiContainer">
+<div class="header-top-container"><span class="info">Çağrı Merkezi:&nbsp;0312 363 7020</span>
+<div class="header-top-links"><a href="/siparisTakip#/Hesabim-Anasayfa">Sipariş Takibi</a> <a href="/iletisim">Yardım</a> <a href="/iletisim">Bize Ulaşın</a></div>
+</div>
+</div>
+</div>

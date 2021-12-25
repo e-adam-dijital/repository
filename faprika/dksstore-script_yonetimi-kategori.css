@@ -1,0 +1,304 @@
+    html body .cargoIcon {
+bottom: 140px;
+      line-height: 30px;
+font-size: 11px;
+width: 50%;
+border-radius: 26px;
+left: unset;
+right: 5px;
+}
+    body .ozelAlan4 {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  }
+    body .productItem .discountPrice {
+  float: right !important;
+  }
+    body #divCenterBlock .middleTopBlock #mainHolder_divKategoriBaslik {
+  display: none;
+  }
+   body .categoryTitleText .breadcrumb li a {
+  z-index: 2;
+  position: relative;
+  }
+   body .newIcon {
+  display: none;
+  }
+  body .discountIcon {
+  display: none;
+  }
+    .ozelAlan5 {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  }
+  #divSayfalamaUst .brandlistselection #filterOrderSelect option:nth-child(4), #divSayfalamaUst .brandlistselection #filterOrderSelect option:nth-child(5) {
+  display: none;
+  }
+  
+  body .productItem  {
+  background: #fff;
+   border: 1px solid #e2e6eb;;
+   margin: 0 !important;
+  }
+  body .productItem .productDetail {
+  padding: 15px;
+  }
+
+    body .breadcrumb li span {
+        color: #666 !important;
+    }
+    body .discountIcon {
+        left: 0;
+        background: #000;
+    }
+    @media (min-width: 1200px) {
+       body .categoryContainer .ProductListContent {
+  margin-top: 20px;
+  }
+      body #divSayfalamaUst .filterDeleteContent {
+  position: absolute;
+  top: 85%;
+  left: 0;
+  }
+        body .ItemOrj {
+  padding: 10px;
+  }
+      html body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+  -webkit-appearance: none;
+  appearance: none;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='000000F2'><polygon points='0,0 100,0 50,50'/></svg>") no-repeat !important;
+  background-color: rgba(0, 0, 0, 0);
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 12px !important;
+  background-position: calc(100% - 20px) center;
+  background-repeat: no-repeat;
+  background-color: #fff !important;
+  background-position-x: 95% !important;
+  background-position-y: 60% !important;
+  }
+  
+  body .categoryTitleText {
+  position: absolute;
+  }
+  
+  #divIcerik .KategoriTitle {
+  font-size: 17px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 20%;
+  margin-top: 10px;
+  }
+  
+  
+   body .brandlistselection {
+    justify-content: flex-end;
+  }
+  
+  
+        body .breadcrumb li:last-child span {
+            text-transform: uppercase;
+        }
+        html body .leftBlock .category-vertical-filters {
+            margin-top: 25px;
+        }
+  
+        body .favori {
+            right: 5px;
+            top: 15px;
+            display: none;
+        }
+  
+        body .favori a {
+            background: #fff;
+            border-radius: 35px;
+            padding: 6px;
+        }
+  
+        body .ItemOrj:hover .favori {
+            display: block;
+        }
+        html body ul.breadcrumb {
+            display: flex !important;
+            width: 60%;
+            margin: 0 auto;
+            justify-content: start;
+            order: 1;
+            margin-top: 10px !important;
+        }
+  
+        body .brandlistselection {
+            display: flex;
+            margin-top: 20px;
+        }
+  
+     
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent li {
+            float: right;
+            margin-right: 0;
+        }
+  
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent {
+            display: flex !important;
+            justify-content: end;
+            width: 50%;
+            float: right;
+            order: 2;
+        }
+  
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+            min-width: 180px;
+            background: #fff;
+            height: 35px;
+        }
+  
+        body .leftBlock .category-vertical-filters {
+            background: #fff;
+            padding: 10px;
+        }
+  
+        html body #divSayfalamaUst .blockSelect .sort_4 {
+            border: unset;
+            margin-left: 0 !important;
+        }
+  
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent li:nth-child(2) {
+            position: absolute;
+            bottom: 35px;
+            right: 10px;
+        }
+  
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent .appliedFilter > span {
+            display: none;
+        }
+  
+        html body #divSayfalamaUst .blockSelect a.Active i::before {
+            content: "";
+            background-image: url(https://dgn.ticimaxeticaret.com/Uploads/EditorUploads/3lu-active.png?t=20211004112512);
+            width: 50px;
+            height: 35px;
+            background: ;
+            background-size: 50px;
+            display: block;
+        }
+  
+        html body #divSayfalamaUst .blockSelect .sort_3 i::before {
+            content: "";
+            background-image: url(/Uploads/EditorUploads/3lu-inactive.png);
+            width: 50px;
+            height: 35px;
+            background-size: 50px;
+            display: block;
+        }
+  
+        html body #divSayfalamaUst .blockSelect .sort_3.Active i::before {
+            background-image: url(/Uploads/EditorUploads/3lu-active.png);
+        }
+  
+        html body #divSayfalamaUst .blockSelect .sort_4.Active i::before {
+            content: "";
+            background-image: url(/Uploads/EditorUploads/4lu-active.png);
+            width: 55px;
+            height: 30px;
+            background-size: 55px;
+            display: block;
+        }
+  
+        html body #divSayfalamaUst .blockSelect .sort_4 i::before {
+            content: "";
+            background-image: url(/Uploads/EditorUploads/4lu-inactive.png);
+            width: 55px;
+            height: 30px;
+            background-size: 55px;
+            display: block;
+        }
+  
+        body #divSayfalamaUst {
+            margin-bottom: 0;
+            border: unset;
+            padding-bottom: 0;
+        }
+  
+        body #divSayfalamaUst.Slct .brandlistselection .sortingContent li {
+            margin-right: 0;
+        }
+  
+        body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock::before {
+            background: #fff;
+        }
+  
+        html body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+            margin-top: 10px;
+        }
+    }
+    @media (max-width: 768px) {
+        body .favori {
+            right: 5px;
+            top: 10px;
+        }
+  
+        body .favori a {
+            background: #fff;
+            border-radius: 35px;
+            padding: 6px;
+        }
+  
+        body .ItemOrj:hover .favori {
+            display: block;
+        }
+        body .categoryContainer .ProductList {
+            background: #f3f6f9;
+        }
+  
+       
+  
+  body .filterBlock.active .category-vertical-filters.top-filters {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  body .category-vertical-filters.top-filters .FiltreUst span {
+    background: #000 !important;
+  }
+      body #divSayfalamaUst {
+  margin-bottom: 0;
+  }
+  body .ItemOrj {
+  padding-top: 10px;
+  }
+  .categoryTitle {
+  top: 50px;
+  z-index: 4;
+  transition: 2s ease-in-out;
+  }
+  
+  
+    }
+	
+	
+    .kampanyaYazisi {
+        display: block !important;
+    }
+    .kampanyaYazisi > span:first-of-type {
+        font-size: 16px;
+    }
+    .kampanyaYazisi > span:last-of-type {
+        color: #cc1a1a;
+        font-weight: 600;
+    }
+  
+    .ozelEtiketGorseli {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 60px;
+    }
+  
+    .productIcon .favori {
+        bottom: 55px;
+    }
