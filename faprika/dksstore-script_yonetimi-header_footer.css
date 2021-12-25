@@ -132,7 +132,7 @@ margin-bottom: 10px;
 
         body .header-top-container .info::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/chat-1.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/chat-1.png);
             width: 16px;
             height: 11px;
             background-size: 16px;
@@ -143,7 +143,7 @@ margin-bottom: 10px;
         }
 
         body #header .headerContentContainer #btnKelimeAra {
-            background-image: url(/Uploads/EditorUploads/search.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/search.png);
             width: 31px;
             height: 29px;
             background-size: 27px;
@@ -153,7 +153,7 @@ margin-bottom: 10px;
         body .headerHesabim::before,
         body .headerUyeGiris a::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/artboard-1.jpg);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-1.jpg);
             width: 26px;
             height: 23px;
             background-size: 30px;
@@ -161,7 +161,7 @@ margin-bottom: 10px;
 
         body .mycart > a::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/artboard-2.jpg);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-2.jpg);
             background-size: 30px;
             width: 26px;
             height: 23px;
@@ -170,7 +170,7 @@ margin-bottom: 10px;
 
         body .fa-search::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/artboard-3.jpg);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-3.jpg);
             width: 26px;
             height: 23px;
             background-size: 30px;
@@ -614,7 +614,7 @@ display: none;
 
 .topFilter-Block_Text .mobilFilterBtn::before{
 content: '';
-background-image: url(/Uploads/EditorUploads/filtre.png);
+background-image: url(https://www.dksstore.com/Uploads/EditorUploads/filtre.png);
 width: 25px;
 height: 26px;
 background-size: 25px;
@@ -629,7 +629,7 @@ display: flex;
 }
 .brandlistselection .sortingContent::before {
     content: '';
-    background-image: url(/Uploads/EditorUploads/editor.png);
+    background-image: url(https://www.dksstore.com/Uploads/EditorUploads/editor.png);
     width: 20px;
     height: 20px;
     background-size: 20px;
@@ -707,7 +707,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .giris a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/account.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/account.png);
   width: 24px;
   height: 23px;
   background-size: 25px;
@@ -717,7 +717,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .favorii a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/favourites.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/favourites.png);
   width: 26px;
   height: 23px;
   background-size: 26px;
@@ -727,7 +727,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .taksit a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/debit-card-64px.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/debit-card-64px.png);
   width: 24px;
   height: 23px;
   background-size: 25px;
@@ -737,7 +737,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .siparis a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/online-store-60px.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/online-store-60px.png);
   width: 24px;
   height: 23px;
   background-size: 25px;
@@ -747,7 +747,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .sirarisT a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/delivery-64px.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/delivery-64px.png);
   width: 24px;
   height: 23px;
   background-size: 25px;
@@ -757,7 +757,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .magaza a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/online-shop-48px.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/online-shop-48px.png);
   width: 24px;
   height: 23px;
   background-size: 25px;
@@ -767,7 +767,7 @@ filter: brightness(0%);
 
 .mobilMenu .mobilContainer .mobilMenuHesap .iletisim a::before {
   content: "";
-  background-image: url(/Uploads/EditorUploads/phone-48px.png);
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/phone-48px.png);
   width: 24px;
   height: 28px;
   background-size: 28px;
