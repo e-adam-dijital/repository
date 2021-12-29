@@ -11,7 +11,7 @@
     '<img class="slideRightBTNimg" src="/Uploads/EditorUploads/right.jpg" >' +
     '</div>' +
     '</div>');
-  $("#mainHolder_divDesign > section:first-child").before(html);
+  //$("#mainHolder_divDesign > section:first-child").before(html);
 
   $(".slideRightBTN").on("click", function () {
     var aaRight = document.querySelector("#story > div.hiza");

@@ -1695,3 +1695,224 @@ html body .mycart .sepetUrunSayisi {
 	.GuvenList ul li .gimg img{display:inline-block;vertical-align:top;height: 22px;}
 	.GuvenList ul li .gtex{width: 100%;font-size: 11px;}
 }
+
+
+/* DenizButik'ten alınan kodlar: */
+.HomeTitle {
+ float:left;
+ width:100%;
+ text-align:center;
+ margin-bottom:16px
+}
+.HomeTitle .T {
+ float:left;
+ width:100%;
+ font-weight:700;
+ font-size:18px;
+ color:#212529;
+ line-height:27px
+}
+.HomeTitle .sT {
+ float:left;
+ width:100%;
+ color:#86838c;
+ font-size:14px;
+ line-height:21px
+}
+
+.OnTab {
+ float:left;
+ width:100%;
+ background-color:#f9f9f9;
+ padding:10px 20px;
+ margin-bottom:20px
+}
+.OnTab .tab-content {
+ width:100%;
+ padding:0;
+ float:left;
+ position:relative
+}
+.OnTab .tab-content ul {
+ margin:0 -10px;
+ list-style:none
+}
+.OnTab .tab-content ul li {
+ float:left;
+ width:20%;
+ padding:0 10px
+}
+.OnTab .tab-content ul li a {
+ background-color:#fff;
+ float:left;
+ width:100%
+}
+.OnTab .tab-content ul li a .product-info {
+ text-align:center;
+ padding:10px
+}
+.OnTab .tab-content ul li a .product-info .T {
+ margin:0;
+ font-size:16px;
+ font-weight:700
+}
+.OnTab .tab-content ul li a .product-info .sT {
+ display:block;
+ font-weight:100;
+ font-size:13px;
+ margin-top:0
+}
+
+.DenizTube {
+ display:block;
+ position:relative;
+ padding:40px 0 60px;
+ background-color:#ffeedf;
+ margin-bottom:16px;
+ float:left;
+ width:100%
+}
+.DenizTube .m-head {
+ float:left;
+ width:100%;
+ text-align:center;
+ margin-bottom:25px
+}
+.DenizTube .m-head .shadow-title {
+ float:left;
+ width:100%;
+ margin-bottom:4px
+}
+.DenizTube .m-head .shadow-title img {
+ display:inline-block;
+ max-width:165px
+}
+.DenizTube .tubeOwl {
+ float:left;
+ width:100%
+}
+.DenizTube .tubeOwl ul {
+ float:left;
+ width:100%;
+ padding:0 29px;
+ list-style:none
+}
+.DenizTube .tubeOwl ul li {
+ float:left
+}
+.DenizTube .tubeOwl ul li .module-item {
+ float:left;
+ width:100%;
+ background-color:#fff;
+ padding:10px;
+ text-align:center
+}
+.DenizTube .tubeOwl ul li .module-item .vidBox {
+ float:left;
+ width:100%;
+ margin-bottom:8px;
+ position:relative
+}
+.DenizTube .tubeOwl ul li .module-item .vidBox .vidPlay {
+ position:absolute;
+ left:50%;
+ top:50%;
+ transform:translate(-50%,-50%);
+ font-size:34px;
+ color:#fff;
+ padding:20px;
+ z-index:4;
+ cursor:pointer
+}
+.DenizTube .tubeOwl ul li .module-item .vidBox .Vid {
+ position:absolute;
+ left:0;
+ right:0;
+ top:0;
+ bottom:0;
+ width:100%;
+ height:100%;
+ z-index:0
+}
+.DenizTube .tubeOwl ul li .module-item .vidBox .vidCover {
+ z-index:2;
+ position:relative
+}
+.DenizTube .tubeOwl ul li .module-item .Txt {
+ float:left;
+ width:100%;
+ text-align:center;
+ font-size:14px;
+ color:#444;
+ font-weight:400;
+ margin-bottom:8px;
+ overflow:hidden;
+ text-overflow:ellipsis;
+ white-space:nowrap
+}
+.DenizTube .tubeOwl ul li .module-item .goTo {
+ float:left;
+ width:100%;
+ display:block;
+ width:100%;
+ border:1px solid #333;
+ border-radius:5px;
+ font-size:12px;
+ padding:7px 8px;
+ color:#333;
+ transition:.3s;
+ font-weight:600
+}
+.DenizTube .tubeOwl ul li .module-item .goTo:hover {
+ background-color:#333;
+ color:#fff
+}
+.DenizTube .tubeOwl ul li .module-item.Playing .Vid {
+ z-index:6;
+ background-color:#fff
+}
+.DenizTube .tubeOwl .owl-carousel .owl-nav {
+ left:0;
+ right:0
+}
+.DenizTube .tubeOwl .owl-carousel .owl-nav .ProductListprev:before,
+.DenizTube .tubeOwl .owl-carousel .owl-nav .ProductListnext:before {
+ font-size:26px
+}
+.DenizTube .tubeOwl .owl-carousel .owl-nav .ProductListprev:before {
+ content:'\e978'
+}
+.DenizTube .tubeOwl .owl-carousel .owl-nav .ProductListnext:before {
+ content:'\e979'
+}
+.DenizTube .tubeOwl .owl-carousel .owl-dots {
+ display:block;
+ position:absolute!important;
+ bottom:-39px!important;
+ right:10px!important;
+ left:10px!important;
+ text-align:center;
+ margin:0;
+ width:auto!important
+}
+.DenizTube .tubeOwl .owl-carousel .owl-dots .owl-dot span {
+ width:9px;
+ height:9px;
+ margin:0 3px;
+ background-color:transparent;
+ border:0;
+ border:1px solid #fff;
+ position:relative;
+ display:inline-block;
+ border-radius:50%
+}
+.DenizTube .tubeOwl .owl-carousel .owl-dots .owl-dot.active span {
+ background:#fff
+}
+.DenizTube .ticiContainer2 { /* .ticiContainer2 */
+  max-width: 1110px;
+  margin: 0 auto;
+  position: relative;
+  clear: both;
+  display: block;
+}

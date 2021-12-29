@@ -400,3 +400,92 @@ function mobilFooter(){
         }
     });
 }
+
+
+// DenizButik'ten alınan kodlar
+$(document).ready(function () {
+	// blockCompleteCallback():
+	if (globalModel.pageType == "homepage") {
+		$(".SliderYan").appendTo("#divSliderYani");
+		$(".header-banners ul").each(function () {
+			if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel"))
+				$(this).owlCarousel({
+					autoplay: false,
+					loop: false,
+					rewind: true,
+					nav: false,
+					dots: false,
+					margin: 15,
+					responsive: { 0: { items: 2, margin: 5 }, 768: { items: 3 } },
+				});
+		});
+		$(".tubeOwl ul").each(function () {
+			if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel"))
+				$(this).owlCarousel({
+					autoplay: false,
+					loop: false,
+					rewind: true,
+					nav: true,
+					dots: true,
+					navClass: ["ProductListprev", "ProductListnext"],
+					margin: 16,
+					responsive: {
+						0: { items: 1, margin: 16, stagePadding: 50 },
+						768: { items: 3 },
+						1023: { items: 3 },
+						1042: { items: 4 },
+					},
+				});
+		});
+		if (windowidth > 768) {
+			$(".KategoriLink ul").each(function () {
+				if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel"))
+					$(this).owlCarousel({
+						autoplay: false,
+						loop: false,
+						rewind: false,
+						nav: false,
+						dots: false,
+						navClass: ["ProductListprev", "ProductListnext"],
+						margin: 25,
+						responsive: { 768: { items: 7 }, 1023: { items: 8 }, 1042: { items: 9 } },
+					});
+			});
+		}
+		if (windowidth < 768) {
+			$(".tab-content ul").each(function () {
+				if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel"))
+					$(this).owlCarousel({
+						autoplay: false,
+						loop: false,
+						rewind: true,
+						nav: false,
+						dots: true,
+						navClass: ["ProductListprev", "ProductListnext"],
+						margin: 16,
+						responsive: { 0: { items: 2, margin: 5 } },
+					});
+			});
+		}
+		$(".socialOwl").owlCarousel({
+			loop: true,
+			items: 1,
+			margin: 0,
+			dots: false,
+			nav: false,
+			autoplay: true,
+			autoplayTimeout: 4000,
+			autoplayHoverPause: true,
+		});
+		$(".campaign-text ul").owlCarousel({
+			loop: true,
+			items: 1,
+			margin: 0,
+			dots: false,
+			nav: false,
+			autoplay: true,
+			autoplayTimeout: 4000,
+			autoplayHoverPause: true,
+		});
+	}
+});

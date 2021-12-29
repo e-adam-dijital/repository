@@ -1374,6 +1374,7 @@
             </div>
         </div>
     </section>
+	<!--
     <section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-2 hide-mobile">
         <div class="ticiContainer hazirBlokContent">
             <div class="txrow">
@@ -1420,6 +1421,7 @@
             </div>
         </div>
     </section>
+	-->
     <section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-9 hide-mobile">
         <div class="ticiContainer hazirBlokContent">
             <div class="txrow">
@@ -1530,7 +1532,7 @@
                             <ul>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_1.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_1.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">ELBİSELE</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1538,7 +1540,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_2.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_2.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">TRİKOLAR</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1546,7 +1548,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_3.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_3.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">BLUZLAR</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1554,7 +1556,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_4.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_4.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">GÖMLEKLER</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1562,7 +1564,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_5.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_5.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">PANTOLON</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1570,7 +1572,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_1.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_1.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">ELBİSELE</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1578,7 +1580,7 @@
                                     </a> </li>
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                            data-original="/customcss/images/showroom_2.png" alt="">
+                                            data-original="https://www.denizbutik.com/customcss/images/showroom_2.png" alt="">
                                         <div class="product-info">
                                             <h3 class="T">TRİKOLAR</h3> <span class="sT">1 AlANA 1
                                                 BEDAVA</span>
@@ -1591,6 +1593,7 @@
             </div>
         </div>
     </section>
+	<!--
     <section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-2 hide-tablet">
         <div class="ticiContainer hazirBlokContent">
             <div class="txrow">
@@ -1612,6 +1615,7 @@
             </div>
         </div>
     </section>
+	-->
 <!--
 </div>
 -->
