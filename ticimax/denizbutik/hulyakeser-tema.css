@@ -1698,6 +1698,36 @@ html body .mycart .sepetUrunSayisi {
 
 
 /* DenizButik'ten alınan kodlar: */
+.KategoriLink ul li {
+  padding: 0;
+  width: 100%;
+  float: none;
+  display: inline-block;
+  vertical-align: top;
+}
+.KategoriLink ul li .ktimg {
+  float: left;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 100%;
+}
+.KategoriLink ul li .kttex {
+  float: left;
+  width: 100%;
+  color: #000;
+  font-size: 14px;
+  margin: 0;
+    margin-top: 0px;
+  font-weight: 400;
+  margin-top: 5px;
+  text-align: center;
+}
+.KategoriLink ul li .kttex img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
 .HomeTitle {
  float:left;
  width:100%;
