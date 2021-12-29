@@ -191,3 +191,9 @@ max-width: 100% !important;
       top: 60px;
     }
   }
+  
+  
+/* DKS hata düzeltme için eklenen ek kodlar: */
+.anasayfa_tek_slider.owl-carousel .owl-stage-outer {
+  max-height: 350px;
+}

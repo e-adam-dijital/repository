@@ -1570,6 +1570,7 @@
                                                 BEDAVA</span>
                                         </div>
                                     </a> </li>
+								<!--
                                 <li> <a href="#" class="showroom-product"> <img class="lazyImage"
                                             src="https://cdn.ticimax.com/Uploads/Images/blank.png"
                                             data-original="https://www.denizbutik.com/customcss/images/showroom_1.png" alt="">
@@ -1586,6 +1587,7 @@
                                                 BEDAVA</span>
                                         </div>
                                     </a> </li>
+								-->
                             </ul>
                         </div>
                     </div>

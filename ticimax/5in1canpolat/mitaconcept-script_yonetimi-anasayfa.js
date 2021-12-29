@@ -1180,11 +1180,13 @@
     });
 
     $("#divIcerik").append(`<div id="containerCustom">
-      <div data-anchor="yeniyilkampanyasi" class="scrollBg_0_1"> <!-- sabahlik -->
+      <!--
+	  <div data-anchor="yeniyilkampanyasi" class="scrollBg_0_1"> <!-- sabahlik -->
         <a href="/yeni-yil-kampanyasi"> <!-- /gecelik -->
             <div class="subBg subBg_0_1"></div>
         </a>
     </div>
+	-->
     <div data-anchor="bride" class="scrollBg_0">
         <a href="/bride-koleksiyonu">
             <div class="subBg subBg_0"></div>

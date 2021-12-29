@@ -1727,6 +1727,9 @@ html body .mycart .sepetUrunSayisi {
   vertical-align: middle;
   margin-left: 5px;
 }
+.KategoriLink .owl-item {
+  max-width: 100px;
+}
 
 .HomeTitle {
  float:left;
