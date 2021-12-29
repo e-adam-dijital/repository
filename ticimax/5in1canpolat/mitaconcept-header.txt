@@ -1,0 +1,3 @@
+<!-- Bu Alandaki CSS vs JS Kodları mitaconcept-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="/"><img src="/Uploads/Images/e-adam-logo.png" style="" /></a>

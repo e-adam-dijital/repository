@@ -163,10 +163,10 @@
    $(document).ready(function(){
   
       if($(window).width() > 1200){
-    $("#header").before('<a href="/en-yeniler"><img src="https://www.dksstore.com/Uploads/Slider/-3.jpg?t=20211216122917"><</a>')
+    //$("#header").before('<a href="/en-yeniler"><img src="https://www.dksstore.com/Uploads/Slider/-3.jpg?t=20211216122917"><</a>')
   }
   else{
-      $(".headerContent").before('<a href="/en-yeniler"><img src="https://www.dksstore.com/Uploads/Slider/-4.jpg?t=20211216122924"></a>')
+      //$(".headerContent").before('<a href="/en-yeniler"><img src="https://www.dksstore.com/Uploads/Slider/-4.jpg?t=20211216122924"></a>')
   }
   })
   

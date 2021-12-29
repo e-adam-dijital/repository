@@ -1,0 +1,322 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-9 hide-mobile"
+		data-ayar='{"items":1,"autoplay":true,"loop":false,"autoplayTimeout":4000,"stagePadding":0,"margin":0}'>
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="owl-carousel owl-theme anasayfa_tek_slider">
+						<a class="blokResimLink" href="https://www.dgn.com.tr/Arama?1&kelime=JEANS"
+							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+								class="lazyImage editable"
+								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-b5fa.jpg"
+								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+						<a class="blokResimLink" href="https://www.dgn.com.tr/Arama?1&kelime=BAD%20BEAR"
+							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+								class="lazyImage editable"
+								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-70a9.jpg"
+								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+						<a class="blokResimLink" href="https://www.dgn.com.tr/Arama?1&kelime=KAPPA"
+							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+								class="lazyImage editable"
+								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-78df.jpg"
+								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-12">
+					<div class="txrow">
+						<div class="txcol-6 tm-mb-10 txcol-sm-3 t-mb-20 box-t-mb-15">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/firsat-urunleri"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9fd0546d-0.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 tm-mb-10 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/out-door"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-a7dd1888-4.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 tm-mb-10 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/sweatler"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-96caebed-f.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 tm-mb-10 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/mont-ve-ceket"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-f7b7d7af-d.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 tm-mb-10 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/botlar-ve-cizmeler"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-e4af5d26-a.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 tm-mb-10 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/jean-modelleri"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-fe3c4401-7.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/saatler"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9daa80e5-6.jpg"
+									alt="title"></a>
+						</div>
+						<div class="txcol-6 txcol-sm-3">
+							<a class="blokResimLink" href="https://www.dgn.com.tr/cocuk-urunleri"
+								title="title"><img class="lazyImage editable"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-aad301a0-d.jpg"
+									alt="title"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/dgn-49"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-a049.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/marka_mavi"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-c0ba.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/cat-32"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-ace9.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/marka_jackjones"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-f699.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/matmazel-131"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-70fe.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/bad-bear-14"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-d624.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/benetton-18"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-90e9.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/only-153"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-aa80.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/hammer-jack-91"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-d5b7.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/defacto-46"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-a40a.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/lescon-117"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-a2a9.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/loft-119"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-9dd4.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/puma-168"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-b8ee.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="/Arama?1&kelime=soul"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-8f60.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/guja-89"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-8789.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/fashion-friends-63"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-8cc4.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/vicco-212"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-7fe0.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/pierre-cardin-156"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-a6d9.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/ccs-35"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-f353.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.dgn.com.tr/venus-208"
+						title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
+							class="lazyImage editable"
+							src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+							data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-ada5.jpg"
+							alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+<!--
+</div>
+-->

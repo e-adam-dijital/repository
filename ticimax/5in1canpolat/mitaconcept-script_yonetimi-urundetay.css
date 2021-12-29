@@ -1,0 +1,231 @@
+  @media(min-width: 1200px){
+  body .CartProduct {
+transform: unset; !important;
+}
+  body .mycart:hover .CartProduct {
+transform: unset !important;
+}
+  }
+  body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav {
+  display: none;
+  }
+  body .urunTab > ul > li.active > a {
+  color: #000;
+  }
+  body .urunTab > ul > li {
+  margin-right: 25px;
+  }
+  body #divUrunEkSecenek {
+  margin-top: 0;
+  padding-top: 0;
+  }
+  body #divUrunEkSecenek .eksecenekLine {
+  margin-bottom: 0;
+  }
+  
+  body #divUrunKodu span {
+  font-size: 13px;
+  }
+  
+  bod #divUrunKodu {
+  font-size: 13px;
+  }
+  
+  
+  body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover {
+  background: #000;
+  }
+  
+  body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+  background: #000 !important;
+  }
+  
+  body #divIndirimOrani {
+  display: none;
+  }
+  
+  body #divAdetCombo {
+  display: none !important;
+  }
+  body .RightDetail .BottomList {
+  display: none;
+  }
+  body #divUrunEkSecenek {
+  border: unset;
+  }
+  
+  body .PriceList {
+  border: unset;
+  }
+  
+  body #divUrunEkSecenek .eksecenekLine {
+  border: unset;
+  }
+  
+  body .basketBtn input {
+  background: #000 !important;
+  height: 45px;
+  }
+  
+  body .UFavorilerimeEkle {
+  display: none;
+  }
+  body a#linkOncekiSayfa {
+  display: none;
+  }
+  body ul.breadcrumb * {
+  color: #000 !important;
+  }
+  body .basketBtn {
+  width: 100%;
+  }
+  body .cargoIcon {
+  display: none;
+  }
+  body .favori a::before {
+    font-size: 15px;
+  }
+  body .favori a {
+    background: #fff;
+    border-radius: 35px;
+    padding: 6px 7px;
+  }
+  body .favori {
+    right: 5px;
+    top: 15px;
+  }
+  body .discountIcon {
+  display: none;
+  }
+  body .urunTab > ul > li > a{
+  font-size: 12px;
+  }
+  
+  body .urunTab > ul > li {
+    margin-right: 10px;
+  }
+  @media(min-width: 1200px){
+  body.margin {
+  overflow-x: hidden;
+  }
+
+  }
+  @media screen and (min-width: 1240px) and (max-width: 1700px) {
+    body ul.breadcrumb {
+  padding-left: 17.5%;
+  }
+  body .navigation {
+  width: 260px;
+      z-index: auto;
+    position: absolute;
+    top: 151px;
+  left: 0;
+  
+  }
+  body .navigation .navUl > li > a {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  body .productDetailContainer {
+    padding-left: 220px !important;
+  }
+  }
+  @media screen and (max-width: 767px) {
+  .galleryOwl-thumb {
+        display: none!important;
+    }
+
+  body .favNum {
+  background: #000;
+  }
+  body .ProductName h1 span {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  
+  body .categoryTitle {
+    display: none;
+  }
+  
+  body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav span {
+    color: #000 !important;
+    border-color: #000;
+  }
+  
+  body .ProductGallery .gallery-container .owl-carousel.galleryOwl .owl-nav {
+    width: 96%;
+  }
+    
+    body .bottomHead {
+      display: none;
+  }
+    body #divSatinAl {
+      position: fixed;
+      bottom: 0;
+      z-index: 99;
+      background: #fff;
+    }
+  
+  body .BasketBtn {
+    width: 100%;
+    float: unset;
+    right: 4px;
+    bottom: 0px;
+  }
+  
+  body .PriceList {
+    width: 47%;
+    position: relative;
+    z-index: unset;
+    bottom: 0;
+    margin: 0;
+    margin-left: 7px;
+  }
+  
+  body .urunOzellik .mobilTab > ul > li.active > a::after {
+    content: "-";
+    font-size: 35px;
+    position: relative;
+    bottom: 5px;
+  }
+   body .urunOzellik .mobilTab > ul > li > a::after {
+      content: "+";
+      font-size: 27px;
+    
+  }
+  .urunOzellik .mobilTab > ul > li.active > a {
+  background: #fff;
+  color: #000;
+  }
+  .lg-outer .lg-item, .lg-outer .lg-img-wrap {
+    display: grid;
+  }
+  
+  
+  }
+  
+      
+        body .sepeteEklendi {
+        text-align: center;
+        background: green;
+        color: #fff;
+        padding: 5px;
+        display: none;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999;
+    }
+
+    body .yetersizStok {
+        text-align: center;
+        background: red;
+        color: #fff;
+        padding: 5px;
+        display: none;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999;
+    }

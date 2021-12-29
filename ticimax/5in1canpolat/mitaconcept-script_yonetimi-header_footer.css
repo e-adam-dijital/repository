@@ -1,0 +1,974 @@
+/* Tüm Sayfalar - Header */
+
+  body.sepetimBody .basketCompletebtn {
+background: #000;
+}
+    html body .BasketPage .pasif.bOdeme span {
+    color: #000 !important;
+ }
+body #mainHolder_divUserLoginContent #divUyeGirisContent .userDivRow {
+display: flex;
+justify-content: center;
+}
+  body .ticiFooterContent .footerCol.f-col-4 {
+width: 100%;
+display: flex;
+justify-content: center;
+}
+body .ticiFooterContent .ticiCopyDiv {
+color: #000 !important;
+letter-spacing: 0.9px;
+}
+body .ticiFooterBottom {
+background: unset;
+border: unset;
+text-align: ;
+display: flex;
+}
+
+body .bulten .ticiBulten h3 {
+text-align: center;
+font-weight: 500;
+font-size: 17px;
+}
+body .footerSosyalMedya a {
+color: #000;
+font-size: 15px;
+}
+body .footerSosyalMedya a i {
+font-size: 18px;
+margin-right: 10px;
+}
+body .footerSosyalMedya a {
+margin-right: 15px;
+}
+body .ticiFooterContent #txtbxNewsletterMail {
+border: unset;
+border-bottom: 1px solid #000;
+}
+
+body .ticiFooterContent .ticiBulten {
+color: #000;
+}
+@media(min-width:1200px){
+body .welcome .headerUyeOl {
+display: none;
+}
+body .headerUyeGiris a {
+font-size: 12px;
+line-height: 25px;
+}
+body .CartProduct .headerCartBtn {
+width: 97%;
+}
+body .CartProduct .headerOrderBtn {
+display: none !important;
+}
+body .CartProduct {
+width: 360px;
+}
+.headerUyeGiris a, .headerUyeOl a, .headerHesabim, .headerCikis {
+font-weight: 500;
+}
+.yardim {
+float: right;
+z-index: 99;
+position: relative;
+line-height: 24px;
+margin-left: 11px;
+order: 3;
+}
+
+.yardim a {
+color: #000;
+text-transform: uppercase;
+font-weight: 500;
+font-size: 12px;
+}
+
+
+.siparisTakip {
+float: right;
+z-index: 99;
+position: relative;
+line-height: 24px;
+margin-right: 11px;
+order: 1;
+}
+
+.siparisTakip a {
+color: #000;
+text-transform: uppercase;
+font-weight: 500;
+font-size: 12px;
+}
+
+body .welcome li a {
+text-transform: uppercase;
+font-weight: 500;
+}
+
+body .icons {
+display: flex;
+}
+
+body .welcome {
+order: 2;
+}
+
+body .mycart {
+order: 4;
+}
+
+body .headerUyeOl a, body .headerCikis {
+display: block;
+font-size: 12px !important;
+text-transform: uppercase;
+letter-spacing: .25px;
+line-height: 25px;
+}
+body .headerUyeOl a::before, body .headerUyeGiris a::before, body .headerHesabim::before, body .headerCikis::before {
+content: "";
+content: "" !important;
+line-height: ;
+}
+body .mycart > a::before {
+content: "";
+background: url(https://www.mitaconcept.com/Uploads/EditorUploads/cart.png);
+background-size: auto;
+display: block;
+background-size: cover;
+width: 21px;
+height: 23px;
+}
+
+.CartProduct .headerOrderBtn {
+background: #000 !important;
+}
+
+.arabtn {
+display: none;
+}
+
+html body .headerContent .mycart .sepetUrunSayisi {
+background: unset !important;
+color: #000;
+right: 1px;
+top: 5.5px;
+font-size: 11px;
+}
+
+body .searchContent {
+width: 50%;
+margin: 0 auto;
+background: #fff;
+border-bottom: 1px solid #000;
+}
+body .navigation #HeaderMenu2 > li:last-child {
+margin-top: 10%;
+}
+body .userLoginBtn {
+background: #000 !important;
+}
+
+body .userSignUp {
+color: #000;
+}
+
+body .uyegirisPopup a.fancybox-close {
+right: 5px;
+top: 5px;
+}
+
+
+.SearchToggle::after {
+content: '';
+width: 380px;
+position: absolute;
+right: 0;
+top: 0;
+bottom: 0;
+height: 1px;
+background: #000;
+margin: auto;
+z-index: 1;
+max-width: 100%;
+transition: ease .3s all;
+}
+.SearchToggle {
+position: absolute;
+width: 420px;
+left: 0;
+right: 0;
+margin: auto;
+top: 60px;
+font-size: 13.5px;
+font-weight: 500;
+color: #000;
+line-height: 12px;
+text-align: left;
+cursor: pointer;
+}
+body .navigation .navUl > li > .Flexscroll {
+background: #fff0;
+}
+body .navigation {
+background: #ffffff59;
+}
+body .sepetimBody {
+background: #fff;
+}
+body .CartProduct .headerOrderBtn:hover {
+background: #000;
+}
+body .CartProduct .headerCartBtn:hover {
+background: #000;
+color: #fff;
+}
+body .navigation .navUl li.ulVar > a {
+pointer-events: unset !important;
+}
+body .navigation .navUl li.ulVar {
+pointer-events: unset !important;
+cursor: pointer;
+}
+body .navigation .navUl > li:hover > a::after {
+background: unset;
+}
+
+body .navigation .navUl > li:hover > a {
+color: #000;
+}
+
+html body .navigation #HeaderMenu2 .ulVar .Flexscroll > ul {
+display: grid;
+}
+body .navigation .navUl > li > .Flexscroll {
+position: relative;
+}
+body .navigation .navUl > li > a {
+float: none;
+}
+body .navigation .navUl > li:hover > .Flexscroll {
+display: none;
+}
+
+body .ticiFooterContent .footerCol.f-col-3 {
+margin-bottom: 100px;
+}
+
+body .ticiFooterBottom {
+margin-top: 30px;
+}
+
+body .footerSosyalMedya {
+margin-bottom: 45px;
+}
+
+
+body .subBg_8 {
+align-items: center;
+}
+
+
+body .ticiFooterContent .footerCol.f-col-3 {
+width: 100%;
+}
+body .pg-vertical .pg-pips {
+display: none;
+}
+body .navigation #HeaderMenu2 .ulVar .Flexscroll > ul{
+display: block;
+}
+body .navigation #HeaderMenu2 > .ulVar::before {
+content: "+";
+font-size: 30px;
+display: block;
+position: absolute;
+right: 45px;
+font-weight: 600;
+top: -7px;
+}
+
+body .navigation {
+position: absolute;
+left: 0;
+top: 151px;
+width: 350px;
+z-index: auto;
+margin-left: 0 !important;
+
+}
+body .navigation > div{
+max-width: 1800px;
+margin: 0 auto;
+position: relative;
+clear: both;
+display: block;
+z-index: 1;
+text-align: center;
+padding: 0 !important;
+}
+body .navigation .navUl {
+display: inline-block;
+font-size: 0;
+padding: 0;
+float: left;
+width: 100%;
+position: relative;
+text-align: left;
+}
+body .navigation ul {
+list-style-type: none;
+}
+body .navigation .navUl > li {
+width: 100%;
+position: relative;
+}
+body navigation .navUl li.ulVar {
+position: relative;
+}
+body .navigation .navUl > li > a {
+color: #000;
+font-size: 20px;
+line-height: 32px;
+display: block;
+font-weight: 500;
+}
+body .navigation .navUl > li ul {
+padding-left: 22px;
+display: none;
+}
+body .navigation .navUl li.ulVar > span {
+position: absolute;
+right: 20px;
+top: 0;
+padding: 0 20px;
+cursor: pointer;
+left: 0;
+text-align: right;
+}
+body .navigation .navUl li.ulVar {
+position: relative;
+}
+body .navigation .navUl > li ul li a {
+font-size: 13px;
+font-weight: 500;
+line-height: 32px;
+color: #000;
+}
+body #header.homeHeader .headerContent {
+background: 0 0 !important;
+}
+body .headerContent {
+margin: 0;
+}
+body .headerContent {
+box-shadow: unset;
+}
+body .searchContent {
+display: none;
+}
+body .searchContent.active {
+display: block;
+}
+body .headerContent{
+max-width: 1800px;
+margin: 0 auto;
+clear: both;
+position: relative;
+}
+}
+@media screen and (min-width: 1240px) and (max-width: 1400px) {
+body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box {
+margin-right: 5px;
+}
+body .navigation {
+width: 260px;
+z-index: auto;
+position: absolute;
+top: 151px;
+
+
+}
+body .navigation .navUl > li > a {
+font-size: 14px;
+line-height: 28px;
+}
+body .footerSosyalMedya {
+width: 65%;
+margin: 0 auto;
+}
+body .footerSosyalMedya a {
+margin-top: 10px;
+}
+}
+@media(max-width: 768px){
+.homeHeader .searchContent {
+display: none;
+}
+.homeHeader .arabtn {
+display: block;
+}
+
+#logo {
+float: left;
+margin-left: 14%;
+}
+
+#logo img {
+max-height: 45px;
+}
+.mycartClick {
+top: 15px;
+}
+body .headerContent .fa-shopping-cart::before{
+content: "";
+background: url(https://www.mitaconcept.com/Uploads/EditorUploads/cart.png);
+background-size: auto;
+background-size: auto;
+display: block;
+background-size: cover;
+width: 22px;
+height: 24px;
+}
+html body .headerContent .mycart .sepetUrunSayisi {
+background: unset !important;
+color: #000;
+right: 1px;
+top: 3.5px;
+font-size: 11px;
+position: absolute;
+}
+body .CartProduct .headerOrderBtn {
+background: #000;
+}
+body .SepetUst {
+background: #000;
+}
+body .urunDetayPanel .button {
+background: #000;
+}
+body .menuUstBolum {
+    background: #fff;
+    border: unset;
+  }
+body .mobilMenu .navUl > li, .mobilMenu .navUl > li > ul li {
+    border: unset;
+  }
+
+body .mobilMenu .navUl > li > a, .mobilMenu .navUl > li > ul li a {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+body .fa-times::before {
+  color: #000;
+}
+.mobilMenu #HeaderMenu2 .mobilUye a {
+    font-size: 16.5px;
+}
+.mobilMenu #HeaderMenu2 .mobilUye a.giris::before {
+    content: "";
+    background: url(https://www.mitaconcept.com/Uploads/EditorUploads/layer-1.png);
+        background-size: auto;
+    background-size: contain;
+    display: inline-block;
+    width: 22px;
+    height: 24px;
+    margin-right: 10px;
+    position: relative;
+    top: 5px;
+
+}
+.mobilMenu #HeaderMenu2 .mobilUye a.uye::before {
+    content: "";
+    background: url(https://www.mitaconcept.com/Uploads/EditorUploads/layer-2.png);
+        background-size: auto;
+    background-size: contain;
+    display: inline-block;
+    width: 30px;
+    height: 24px;
+    margin-right: 10px;
+    position: relative;
+    top: 5px;
+}
+.mobilMenu #HeaderMenu2 .mobilUye a.giris::after {
+content: "";
+float: right;
+margin: 0 12px;
+margin-top: 0px;
+height: 25px;
+width: 1px;
+background: #000;
+margin-top: 7.5px;
+position: relative;
+top: 5px;
+}
+.mobilMenu #HeaderMenu2 .mobilUye a.giris {
+
+padding-right: 0;
+}
+.mobilMenu #HeaderMenu2 .mobilUye a.uye {
+padding-left: 0;
+}
+body #divPopupUyeGiris .userLoginBtn {
+background: #000;
+}
+body #divPopupUyeGiris .userSignUp {
+color: #000;
+}
+}
+
+  button.userLoginBtn.button {
+  background: black
+}
+
+
+/* Site Footer */
+
+.ticiFooterContent ul {
+    margin: 0;
+    padding: 0;
+  }
+  .ticiFooterContent * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .ticiFooterContent .img-responsive {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  .ticiFooterCenter {
+    background-color: #000;
+    padding: 40px 0;
+  }
+  .ticiFooterBottom {
+    background-color: #000;
+    border-top: 1px solid #3b3b3b;
+  }
+  .ticiFooterContent li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  .ticiFooterContent .footerRow {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .ticiFooterContent .footerRow:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .footerCol {
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    position: relative;
+    min-height: 1px;
+  }
+  .ticiFooterContent .footerCol {
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    position: relative;
+    min-height: 1px;
+  }
+  .ticiFooterContent .footerCol.f-col-4 {
+    width: 33.333333333%;
+  }
+  .ticiFooterContent .footerCol.f-col-3 {
+    width: 25%;
+  }
+  .ticiFooterContent .footerCol.f-col-8 {
+    width: 66.66666666%;
+  }
+  .ticiFooterContent .footerCol.f-col-12 {
+    width: 100%;
+  }
+  .ticiFooterContent .fRight {
+    float: right;
+  }
+  .footerLogo {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+  }
+  .footerSosyalMedya {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footerSosyalMedya a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #5f5f5f;
+    font-size: 18px;
+  }
+  .footerSosyalMedya a:hover {
+    color: #616c70;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #fff;
+    padding: 0;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 span {
+    float: left;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 span:before {
+    font-size: 20px;
+    line-height: 15px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List {
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li {
+    width: 50%;
+    float: left;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item {
+    margin-bottom: 5px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link {
+    color: #fff;
+    font-size: 13px;
+    padding: 0;
+    font-weight: normal;
+    line-height: 23px;
+    width: 100%;
+    text-decoration: none;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link:hover {
+    text-decoration: underline !important;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li.Item a.Link {
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li.Item a.Link i {
+    width: 20px;
+    height: 23px;
+    line-height: 23px;
+    text-align: left;
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterApp li.Item a.Link i {
+    font-size: 18px;
+    line-height: 23px;
+    float: left;
+    margin-right: 5px;
+  }
+  .ticiFooterContent .ticiBankaLogo {
+    padding: 30px 0;
+    width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .ticiFooterContent .ticiCopyDiv {
+    padding: 35px 0;
+    text-align: right;
+    font-size: 12px;
+    color: #fff;
+  }
+  .ticiFooterContent .ticiSeoText {
+    font-size: 10px;
+    margin-top: 20px;
+    color: #b7b7b7;
+    text-align: center;
+  }
+  .ticiFooterContent .ticiFooterTop {
+  }
+  .ticiFooterContent .ticiBulten {
+    display: block;
+    margin: 0 auto;
+    max-width: 490px;
+    text-align: left;
+  }
+  .ticiFooterContent .ticiBulten:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .ticiBulten h2 {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #fff;
+  }
+  .ticiFooterContent .ticiBulten p {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  .ticiFooterContent .ticiBultenContent {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .ticiFooterContent #divNewsLetter {
+    display: block;
+    padding: 0;
+    margin: 0;
+    float: right;
+    position: relative;
+    width: 100%;
+  }
+  .ticiFooterContent #divNewsLetter label {
+    display: none;
+  }
+  .ticiFooterContent #UpdatePanel1 {
+    position: relative;
+    float: right;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  .ticiFooterContent #txtbxNewsletterMail {
+    display: inline-block;
+    color: #999999;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    width: 100%;
+    height: 36px;
+    padding: 0 120px 0 10px;
+    font-size: 13px;
+    text-align: left;
+    font-weight: normal;
+    border-radius: 0;
+    opacity: 1;
+  }
+  .ticiFooterContent #txtbxNewsletterMail::-webkit-input-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:-moz-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail::-moz-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:-ms-input-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:focus {
+    color: #999999;
+  }
+  .ticiFooterContent #btnMailKaydet {
+    float: right;
+    position: absolute;
+    top: 3px;
+    right: 6px;
+    width: auto !important;
+    height: 30px;
+    text-transform: uppercase;
+    color: #000 !important;
+    border: none !important;
+    border-radius: 0;
+    line-height: 30px;
+    background: #fff !important;
+    font-weight: normal;
+    font-size: 12px !important;
+    padding: 0;
+    text-align: center;
+  }
+  .ticiFooterContent #btnMailKaydet:hover {
+    background: #000 !important;
+    color: #fff !important;
+  }
+  .ticiFooterContent .ebultenGelecek #divNewsLetter {
+    display: block;
+    padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    .ticiFooterContent {
+      margin: 0 15px;
+    }
+    .ticiFooterCenter {
+      background-color: #000;
+      padding: 0 0;
+    }
+    .ticiFooterBottom {
+      background-color: #000;
+      border-top: 1px solid #3b3b3b;
+    }
+    .ticiFooterContent .footerCol.f-col-2 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-3 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-4 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-xs-12 {
+      width: 100%;
+    }
+    .fRight {
+      float: none;
+    }
+    .ticiFooterContent .ticiBankaLogo {
+      text-align: center;
+    }
+    .ticiFooterContent .ticiCopyDiv {
+      text-align: center;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol .fmenu-wrap {
+      border: 1px solid #3b3b3b;
+      margin-bottom: -1px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol:last-child .fmenu-wrap {
+      margin-bottom: 0;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3 {
+      line-height: 30px;
+      position: relative;
+      text-align: left;
+      padding-left: 10px;
+      margin-bottom: 0;
+      font-size: 12px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3 span:before {
+      font-size: 12px !important;
+      line-height: 30px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active h3 {
+      border-bottom: 1px solid #3b3b3b;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3:after {
+      content: "+";
+      position: absolute;
+      right: 0;
+      width: 30px;
+      text-align: center;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active h3:after {
+      content: "-";
+    }
+    .ticiFooterContent .ticiFooterMenu ul.List {
+      display: none;
+      margin: 10px 0px;
+    }
+    .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link {
+      padding: 0;
+      font-size: 12px;
+      text-align: left;
+      display: block;
+      padding-left: 10px;
+      line-height: 20px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active ul.List {
+      display: block;
+    }
+    .ticiFooterContent .ticiBulten {
+      margin: 10px;
+    }
+    .ticiFooterContent .ticiBulten h2 {
+      font-size: 12px;
+    }
+  }
+
+
+/*  Tüm Sayfalar  */
+
+      @media (min-width: 1200px) {
+      body .sTemp2 .ticimax-search-products, .sTemp4 .ticimax-search-products {
+  height: 100%;
+  max-height: 100%;
+}
+
+body .sTemp2.ticimax-search-content, .sTemp4.ticimax-search-content {
+  top: 50px;
+  width: 100%;
+}
+
+body .searchContent ul.categories, .searchContent ul.brands {
+  display: none;
+}
+
+  body .SearchToggle {
+    display: none !important;
+  }
+
+  body .searchContent {
+    display: block !important;
+    width: 30%;
+    top: 20% !important;
+    z-index: 9999;
+  }
+
+body #btnKelimeAra {
+  border: unset;
+}
+
+body .searchContent {
+  background: unset;
+}
+}
+
+
+    .fixed-whatsapp {
+        width: 50px;
+        padding: 8px 11px;
+        position: fixed;
+        bottom: 70px;
+        left: 10px;
+        background-color: #25d366;
+        border-radius: 25px;
+        color: #fff !important;
+        overflow: hidden;
+        white-space: nowrap;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -ms-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        align-items: center;
+        transition: all ease 1s;
+        -webkit-transition: all ease 1s;
+        -moz-transition: all ease 1s;
+        -ms-transition: all ease 1s;
+        -o-transition: all ease 1s;
+        z-index: 999;
+      }
+      .fixed-whatsapp.active {
+        width: 250px;
+      }
+      .fixed-whatsapp:before {
+        font-family: "FontAwesome";
+        margin-right: 12px;
+        font-size: 32px;
+        font-weight: 300;
+        content: "\f232";
+      }
+    
+        .fixed-whatsapp::before{
+        background-image: url("https://www.mitaconcept.com/Uploads/EditorUploads/whatsapp-white.png");
+        }
+         .fixed-whatsapp::before {
+        content: " " !important;
+        height: 30px;
+        padding: 0 15px;
+        background-size: contain;
+    }
+
+    @media (max-width: 768px) {
+            #logo img {
+            position: relative;
+            bottom: 10px;
+        }
+    }
