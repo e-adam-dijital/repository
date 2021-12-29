@@ -1181,8 +1181,8 @@
 
     $("#divIcerik").append(`<div id="containerCustom">
       <!--
-	  <div data-anchor="yeniyilkampanyasi" class="scrollBg_0_1"> <!-- sabahlik -->
-        <a href="/yeni-yil-kampanyasi"> <!-- /gecelik -->
+	  <div data-anchor="yeniyilkampanyasi" class="scrollBg_0_1"> < !-- sabahlik -- >
+        <a href="/yeni-yil-kampanyasi"> < !-- /gecelik -- >
             <div class="subBg subBg_0_1"></div>
         </a>
     </div>
