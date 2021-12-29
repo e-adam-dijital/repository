@@ -104,7 +104,7 @@
             </div>
         </div>
     </section>
-    <section class="landing-block  t-mt-0 t-mb-10 t-pt-0 t-pb-0 t-lr-2 design-bg-1 t-vw-2 hide-mobile">
+    <section class="landing-block  t-mt-0 t-mb-10 t-pt-10 t-pb-0 t-lr-2 design-bg-1 t-vw-2 hide-mobile">
         <div class="ticiContainer hazirBlokContent">
             <div class="txrow">
                 <div class="txcol-md-9 txcol-sm-12 txcol-12 box-t-mb-15">

@@ -1697,7 +1697,7 @@ html body .mycart .sepetUrunSayisi {
 }
 
 
-/* DenizButik'ten alınan kodlar: */
+/* DenizButik'ten alınan kodlar: (Anasayfa) */
 .KategoriLink ul li {
   padding: 0;
   width: 100%;
@@ -1729,6 +1729,23 @@ html body .mycart .sepetUrunSayisi {
 }
 .KategoriLink .owl-item {
   max-width: 100px;
+}
+@media (max-width: 768px) {
+ .KategoriLink ul {
+  list-style-type:none;
+  margin:0;
+  white-space:nowrap;
+  overflow-y:hidden;
+  overflow-x:auto;
+  padding-bottom:0
+ }
+ .KategoriLink ul li {
+  padding:0 5px;
+  width:22%;
+  float:none;
+  display:inline-block;
+  vertical-align:top
+ }
 }
 
 .HomeTitle {

@@ -1,7 +1,7 @@
 // Tüm Sayfalar - Header 
 
   $(document).ready(function(){
-  $(".mobilMenu #HeaderMenu2 > li:first-child").before(`<li><a href="/" target="_self" title="anasayfa"><img src="/Uploads/EditorUploads/anasayfa.jpg" alt="mobilMenu"></a></li>`)
+  //$(".mobilMenu #HeaderMenu2 > li:first-child").before(`<li><a href="/" target="_self" title="anasayfa"><img src="/Uploads/EditorUploads/anasayfa.jpg" alt="mobilMenu"></a></li>`)
 	 $(".mobilMenu #HeaderMenu2 > li > a").each(function(){
   var kategoriAd = $(this).text();
   console.log(kategoriAd)
