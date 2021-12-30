@@ -1,0 +1,135 @@
+<!-- Bu Alandaki CSS vs JS Kodları oksit-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<div class="FooterSC"><!--
+<div class="FooterTop">
+<div class="footerLogo"><a href="#"><img src="https://www.oksit.com.tr/Uploads/EditorUploads/group-17.png" /></a>&nbsp;&nbsp;</div>
+
+<div class="ticiContainer">
+<div class="socialStore">
+<div class="socialDiv"><span>Bizi Takip Edin</span>
+
+<ul>
+	<li><a href="https://www.facebook.com/OksitFashion/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+	<li><a href="https://www.instagram.com/oksitfashion/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+</ul>
+</div>
+
+<div class="store"><span>Mobil Uygulamalar</span>
+
+<ul>
+	<li><a href="#"><i class="fab fa-apple"></i></a></li>
+	<li><a href="#"><i class="fab fa-google-play"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="FooterMiddle">
+<div class="ticiContainer">
+<div class="linkler">
+<div class="blink">
+<ul>
+	<li><span>POPÜLER KATEGORİLER</span>
+	<ul>
+		<li><a href="https://www.oksit.com.tr/erkek-giyim">ERKEK GİYİM</a></li>
+		<li><a href="https://www.oksit.com.tr/kadin">KADIN GİYİM</a></li>
+		<li><a href="https://www.oksit.com.tr/cocuk">ÇOCUK GİYİM</a></li>
+		<li><a href="https://www.oksit.com.tr/erkek-ayakkabi">ERKEK AYAKKABI</a></li>
+	</ul>
+	</li>
+	<li><span>ALIŞVERİŞ BİLGİLERİ</span>
+	<ul>
+		<li><a href="https://www.oksit.com.tr/Sepetim">Sipariş</a></li>
+		<li><a href="https://www.oksit.com.tr/Sepetim">Sepetim</a></li>
+		<li><a href="https://www.oksit.com.tr/Hesabim#/IadeTaleplerim">İade Taleplerim</a></li>
+		<li><a href="https://www.oksit.com.tr/Hesabim#/Siparislerim">Sipariş Takibi</a></li>
+		<li><a href="https://www.oksit.com.tr/Hesabim#/Hesabim-Anasayfa">Hesabım</a></li>
+	</ul>
+	</li>
+	<li><span>MÜŞTERİ HİZMETLERİ</span>
+	<ul>
+		<li><a href="https://api.whatsapp.com/send?phone=+90 541 510 48 88">Canlı Destek</a></li>
+		<li><a href="https://www.oksit.com.tr/satis-sozlesmesi">Mesafeli Satış Sözleşmesi</a></li>
+		<li><a href="#">Sıkça Sorulan Sorular</a></li>
+	</ul>
+	</li>
+	<li><span>KURUMSAL</span>
+	<ul>
+		<li><a href="https://www.oksit.com.tr/hakkimizda">Hakkımızda</a></li>
+		<li><a href="https://www.oksit.com.tr/gizlilik-ve-guvenlik">Gizlilik ve Güvenlik</a></li>
+		<li><a href="https://oksit.com.tr/garanti-ve-iade-kosullari">Teslimat ve İade</a></li>
+		<li><a href="/iletisim">İletişim</a></li>
+	</ul>
+	</li>
+	<li>
+	<div id="footerSocialCustom"><span style="width: 120px; float: left;">Sosyal Medya'da Bizi Takip Edin</span>
+	<div><a href="https://www.instagram.com/oksitfashion/" target="_blank"><span><img src="https://www.oksit.com.tr/Uploads/Images/instagram.png" /></span></a> <a href="https://www.facebook.com/search/top?q=oksit" target="_blank"><span><img src="https://www.oksit.com.tr/Uploads/Images/facebook-app-symbol.png" /></span></a> <a href="https://api.whatsapp.com/send?phone=api.whatsapp.com/send?phone=+905415104888&amp;text=Sipari%C5%9F%20vermek%20istiyorum." target="_blank"><span><img src="https://www.oksit.com.tr/Uploads/Images/whatsapp.png" /></span></a></div>
+	</div>
+
+	<div class="ebultenDiv" style="float: unset; margin-bottom: 0;"><span>Kampanyalarımızdan ve indirimlerimizden güncel olarak haberdar olun.</span>
+
+	<div class="ebultenGelecek">&nbsp;</div>
+	</div>
+
+	<div id="ETBIS" style="clear: both;">
+	<div id="7025018575083047"><a href="https://etbis.eticaret.gov.tr/sitedogrulama/" target="_blank"><img src="" style="width:100px; height:120px" /></a></div>
+	</div>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="FooterBottom">
+<div class="ticiContainer">
+<div class="creditCard">
+<div class="bankimg"><img src="https://www.oksit.com.tr/Uploads/Images/payment-logos.png" /></div>
+
+<div class="kartimg">&nbsp;</div>
+
+<div class="kartimg">&nbsp;</div>
+
+<div class="kartimg">&nbsp;</div>
+
+<div class="copy"><span>© 2021&nbsp;OKSİT- Tüm hakları saklıdır.</span></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="product_social_icon_wrapper" style="display:none;"><strong class="PaylasTit">Paylaş</strong>
+
+<ul>
+	<li><a class="product_social_icons" content="facebook" href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
+	<li><a class="product_social_icons" content="pinterest" href="javascript:;"><i class="fab fa-pinterest-p"></i></a></li>
+</ul>
+
+<div class="footer-whatsapp-fix"><a href="https://api.whatsapp.com/send?phone=90&amp;text=Sipari%C5%9F%20vermek%20istiyorum" title="WhatsApp Sipariş"><i aria-hidden="true" class="fa fa-whatsapp"></i>Whatsapp Sipariş Vermek İçin Tıklayın</a></div>
+<!--
+<style type="text/css">.footer-whatsapp-fix{display:none;}
+
+@media screen and (max-width: 767px) {
+
+ .footer-whatsapp-fix{display:block;position:fixed;bottom:0;width:100%;line-height:50px;background:#0dc143;text-align:center;z-index:99999;}
+
+ .footer-whatsapp-fix a{color:#fff;font-size:16px;display:block;}
+
+ .footer-whatsapp-fix a i{color:#fff;font-size:19px;margin-right:5px ; }
+
+ }
+</style>
+-->
+</div>
+
+<div class="row" style="display: block;width:100%;">
+<div class="col col-12" style="display: flex;justify-content: center;align-items: center;gap: 10px;padding-top:20px;"><a href="https://www.e-adam.com" target="_blank"><img src="https://www.oksit.com.tr/Uploads/EditorUploads/e-adam_logo.png" style="max-width:120px;" /></a></div>
+</div>
+<!--
+<style type="text/css">#ETBIS img {
+  width: 100px!important;
+  height: auto!important;
+}
+</style>
+-->

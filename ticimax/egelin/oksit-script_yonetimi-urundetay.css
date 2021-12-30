@@ -1,0 +1,509 @@
+ body .BottomList .ProductIcon #divKargoBedava.UrunKargoBedava {
+display: none;
+}
+  @media screen and (max-width: 767px) {
+.footer-whatsapp-fix {
+display: none !important;
+}
+}
+
+@media (min-width: 1200px) {
+	.leftImage {
+		width: 685px;
+	}
+	.SmallImages {
+		width: 205px;
+	}
+	.SmallImages div {
+		width: 180px;
+		border: 2px solid #ebebeb;
+	}
+	.Images img,
+	#vdUrunVideo {
+		margin-top: 0;
+	}
+	
+	#divVideoGoruntulemeAlan,
+	.leftImage > .Images {
+		padding-bottom: 110%;
+	}
+
+	.RightDetail {
+		width: calc(100% - 685px);
+		padding-top: 50px;
+		padding-right: 100px;
+	}
+
+	.TopList .ProductName,
+	.TopList .productcode {
+	  width: 100%;
+	}
+	
+	.UFavorilerimeEkle .box1 {
+		font-size: 12px;
+		width: auto;
+		line-height: 25px;
+	}
+	
+	.urunTab > ul > li > a {
+		font-size: 16px;
+	}
+	
+	.owl-carousel .owl-stage {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	
+	.owl-item.active:hover {
+		box-shadow: 0 0 5px 2px #bbb;
+	}
+
+	#divUrunOzellikAlani {
+		margin: 0 0 20px 0;
+	}
+
+}
+
+.ProductName h1 span {
+  font-size: 26px;
+}
+
+.Formline:last-child .right_line span {
+  color: #f42121;
+  font-size:25px;
+  font-weight: 500;
+}
+
+#divIndirimOrani {
+  float: left;
+  margin-left: 20px;
+  border-radius: 6px;
+  background: unset;
+  border: 1px solid;
+}
+
+#divIndirimOrani .right_line span {
+  color: #000;
+}
+#divIndirimOrani .right_line {
+  color: #000;
+  height: 20px;
+  overflow: hidden;
+}
+
+body ul.breadcrumb li:nth-child(1) a::before,
+body ul.breadcrumb li:last-of-type,
+body a#linkOncekiSayfa,
+#divUrunStokAdedi,
+#divMarka {
+  display: none;
+}
+
+body ul.breadcrumb li:nth-last-of-type(2)::after {
+  display: none;
+}
+
+.UFavorilerimeEkle {
+	float:	right;
+}
+
+.UFavorilerimeEkle .box1 i {
+	padding-right: 8px;
+    line-height: 25px;
+}
+
+#pnlFiyatlar .PiyasafiyatiContent .spanKdv {
+    display: block !important;
+    text-decoration: unset;
+    margin-left: 0;
+    font-size: 12px;
+    padding-top: 15px;
+}
+
+#divUrunEkSecenek {
+	display: grid;
+	padding-top: 5px;
+	border: unset;
+	width: 40%;
+	margin: 0;
+}
+#divUrunEkSecenek .eksecenekLine {
+	border-bottom: unset;
+}
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon {
+	order: 1;
+	margin-top: 100px;
+	width: 200%;
+	max-width: 300px;
+	z-index: 1;
+}
+#divUrunEkSecenek .eksecenekLine.selectvaryasyon {
+	order: 0;
+	max-width: 125px;
+	border: none;
+	padding-bottom: 0;
+	margin: 25px 0 0;
+	margin-bottom: 0 !important;
+}
+
+#divSatinAl {
+	width: 60%;
+}
+
+#divUrunEkSecenek .eksecenekLine.selectvaryasyon .left_line {
+    display: none;
+}
+
+#divUrunEkSecenek .eksecenekLine.selectvaryasyon .right_line select {
+	height: 55px;
+}
+
+.BasketBtn {
+	display: grid;
+}
+#divAdetCombo {
+    order: 1;
+	padding-top: 45px;
+}
+.basketBtn {
+    order: 0;
+	width: 100%;
+	margin-right: 0;
+}
+
+.basketBtn input {
+	height: 55px;
+	background: unset !important;
+	border: 2px solid #000;
+	color: #000;
+    text-transform: unset;
+}
+#divAdetCombo select {
+    height: 30px !important;
+}
+
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box {
+	margin-bottom: 20px;
+}
+
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+	background-color: #000;
+	margin-bottom: 20px;
+}
+
+#divAdetCombo .right_line {
+	float: right;
+	width: 80px;
+}
+
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected::after {
+  content: "(seçili)";
+  position: absolute;
+  bottom: -25px;
+  color: #000;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+}
+
+.ProductIcon2 > div > a {
+  padding: 0 8px;
+}
+
+.product_social_icon_wrapper {
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #d7d7d7;
+}
+
+.product_social_icon_wrapper .PaylasTit {
+	font-weight: 400;
+	float: left;
+}
+
+.product_social_icon_wrapper .PaylasTit::after {
+  content: ":"
+}
+
+.ProductIcon .box1 {
+	color: #777;
+    border: 1px solid #777;
+}
+
+.ProductIcon2 > div > a {
+    color: #5e5e5e;
+}
+
+.owl-carousel .owl-nav .ProductListprev,
+.owl-carousel .owl-nav .ProductListnext {
+	background: unset;
+}
+
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon {
+	padding-top: 5px;
+}
+#divUrunEkSecenek .eksecenekLine.selectvaryasyon + .eksecenekLine.kutuluvaryasyon {
+	order: 1;
+	padding-right: 20px;
+	padding-top: 25px;
+	margin-top: 0;
+}
+
+#divUrunEkSecenek .eksecenekLine.selectvaryasyon + .eksecenekLine.kutuluvaryasyon {
+	width: 200%;
+}
+
+
+#divUrunEkSecenek .eksecenekLine .left_line {
+	line-height: 20px;
+}
+
+#divAdetCombo {
+	order: 1;
+	padding-top: 45px;
+}
+
+.BottomList .ProductIcon.hidden-phone {
+	margin: 0;
+}
+
+#divUrunKodu {
+  font-size: 12px;
+}
+#divUrunKodu > span {
+  display:  none;
+}
+#divUrunKodu::before {
+  content: "Stok Kodu: "
+}
+
+.TopDet #IlgiliUrunDiv ul li {
+	margin-bottom: 10px;
+	width: 82px;
+	margin-right: 5px;
+}
+.TopDet #IlgiliUrunDiv ul li:last-child {
+	margin-right: 0;
+}
+
+#divAdetCombo .right_line {
+  position: relative;
+}
+#divAdetCombo .right_line::before {
+  content: "Adet";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+#divIndirimsizFiyat {
+  float: left;
+}
+#divIndirimsizFiyat .right_line span {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 4px;
+  margin-right: 10px;
+}
+#divKDVDahilFiyat {
+  display: grid;
+  margin-top: 0;
+}
+#divKDVDahilFiyat .left_line {
+  order: 1;
+  font-size: 12px;
+}
+#divKDVDahilFiyat .right_line {
+  order: 0;
+}
+#divKDVDahilFiyat .right_line span {
+  color: #f42121;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+@media (max-width: 1199px) {
+
+  body {
+    padding-top: 120px;
+  }
+
+  .RightDetail {
+	padding: 0 15px;
+  }
+  
+  .UFavorilerimeEkle {
+	top: 30px;
+  }
+  
+  #divIndirimliFiyat {
+	display: flex;
+  }
+  
+  .PiyasafiyatiContent {
+	order: 1;
+	margin-left: 15px;
+  }
+  
+  .IndirimliFiyatContent {
+	order: 0;
+  }
+  
+  #pnlFiyatlar .PiyasafiyatiContent .spanKdv {
+	display: none!important;
+  }
+  
+  #pnlFiyatlar .IndirimliFiyatContent .spanKdv {
+    display: block !important;
+    text-decoration: unset;
+    margin-left: 0;
+    font-size: 12px;
+    padding-top: 10px;
+	color: #000;
+  }
+
+  .ProductName h1 span {
+	font-weight: 500;
+	line-height: 1.1;
+  }
+  
+  #divUrunEkSecenek {
+	padding-top: 0;
+	padding-right: 12px;
+  }
+  
+  .RightDetail .BottomList {
+	margin-top: 20px;
+  }
+  
+  #footerSocialCustom {
+	float: left;
+	width: auto;
+	margin: 0 auto 20px auto;
+  }
+  
+  #footerSocialCustom div {
+    float: left;
+  }
+  
+  #divUrunKodu span,
+  #divUrunKodu {
+	font-size: 12px;
+  }
+  
+  #divUrunOzellikAlani {
+	padding: 0 15px;
+  }
+  
+  .urunOzellik .mobilTab > ul > li.active > a {
+    background: #777;
+  }
+  
+  .ProductIcon2 > div > a {
+	margin-right: 4px;
+	font-size: 10px;
+  }
+  
+  #divUrunEkSecenek .eksecenekLine.selectvaryasyon {
+	margin: 15px 0 0;
+  }
+  
+  #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon {
+	margin-top: 90px;
+  }
+  #divUrunEkSecenek .eksecenekLine.selectvaryasyon + .eksecenekLine.kutuluvaryasyon {
+	margin-top: 0;
+  }
+  
+  /*
+  #divUrunOzellikAlani {
+	overflow: hidden;
+  }
+  #divUrunOzellikAlani .mobilTab {
+	overflow: auto;
+  }
+  #divUrunOzellikAlani .mobilTab > ul {
+	width: 150%;
+  }
+  .urunOzellik .mobilTab > ul > li {
+	width: 25%;
+  }
+  */
+
+}
+
+
+#divOnyazi::-webkit-scrollbar-thumb, .urunTabAlt::-webkit-scrollbar-thumb, .SmallImages::-webkit-scrollbar-thumb,
+.SepetBlockInfo::-webkit-scrollbar-thumb, .searchContent ul::-webkit-scrollbar-thumb,
+  .CartProduct .SProduct::-webkit-scrollbar-thumb, body .kombinContent ul::-webkit-scrollbar-thumb,
+    .UrunGuruplari .Block_Text::-webkit-scrollbar-thumb, .yanResimliMenu .KatMenu1::-webkit-scrollbar-thumb,
+      .ProductPreviewContent .ProductPreviewLeft .PreviewallImages::-webkit-scrollbar-thumb,
+        .leftBlock .category-vertical-filters .vertical-filter-panel .list-group::-webkit-scrollbar-thumb,
+          .mobilMenu .menuIcerikAlan::-webkit-scrollbar-thumb, .mobilMenu .navUl>li>ul::-webkit-scrollbar-thumb,
+            .mobilMenu .navUl>li>ul li ul::-webkit-scrollbar-thumb,
+              .navigation .navUl>li>.Flexscroll>ul>li>ul::-webkit-scrollbar-thumb,
+                .navigation .navUl>li>ul>li>ul>li>ul::-webkit-scrollbar-thumb,
+                  .navigation .navUl>li .Flexscroll::-webkit-scrollbar-thumb {
+                    background: #cdcdcd;
+}
+
+
+    .kampanyaYazisi {
+        font-size: 22px;
+        position: absolute;
+        bottom: -26px; /* -40px vb. */
+        text-align: center;
+        line-height: 24px;
+        border-top: 1px solid #d7d7d7;
+    }
+    .kampanyaYazisi > span:first-of-type {
+        font-size: 16px;
+    }
+    .kampanyaYazisi > span:last-of-type {
+        font-weight: 600;
+        display: block;
+        font-size: 26px;
+        color: #f42121;
+    }
+
+    .ozelEtiketGorseli {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 60px;
+        z-index: 1;
+    }
+
+    .PriceList {
+        border-bottom: none;
+		margin-bottom: 0;
+    }
+	
+	#divIndirimOrani {
+		position: relative;
+		width: 100px;
+		height: 28px;
+		padding: 0 5px;
+		float: right;
+		margin-right: calc(85% - 200px);
+		margin-bottom: -25px;
+	}
+	
+    @media (max-width: 768px) {
+        .PriceList {
+            border-bottom: 15px solid transparent;
+        }
+		
+		#divIndirimOrani {
+			margin-bottom: -10px;
+		}
+    }
+
+    #BenzerUrunDiv .productIcon > div:last-child {
+        /* .ozelAlanX */
+        display: none;
+    }
