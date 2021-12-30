@@ -195,3 +195,9 @@ display: none;
             display: none;
             }
     }
+	
+
+/* MitaConcept düzeltme için eklenen kodlar: */
+#divIcerik.homepage {
+    margin: 0;
+}
