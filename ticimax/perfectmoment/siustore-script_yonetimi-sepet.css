@@ -1,0 +1,203 @@
+/* Sepet */
+
+  @media(min-width: 1200px){
+    body .sepetItem div.sepetItemB0 {
+  height: 200px;
+  width: 140px;
+}
+
+body .sepetImg {
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+
+
+
+body .sepetItem {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+    body .BasketAccountContainer {
+width: 22%;
+background: #fff;
+margin-top: 13px;
+}
+body .BasketDetailContainer {
+width: 76.5%;
+}
+.sepetimBody .ticiContainer {
+max-width: 80% !important;
+}
+  }
+body .BasketDetail, .BasketRigth, .BasketDetailBolme {
+  background: unset;
+}
+body #linkAlisverisDevam {
+  display: none;
+}
+
+body .sepetListAlt {
+  display: none;
+}
+
+body #footer {
+  display: none;
+}
+
+body .icons {
+  display: none;
+}
+
+body #divTicimaxCopyrightContent {
+  display: none;
+}
+
+body .sepet-sil {
+  color: gray;
+}
+
+body .sepett .alisverisedevamet {
+  color: gray;
+}
+
+body .BasketPage .alisverisedevamet:hover {
+  background: gray;
+}
+
+html body .BasketRigth ul li.genelToplam .tut {
+  color: gray;
+}
+body .BasketPage .alisverisedevamet:hover {
+color: #fff;
+}
+body .BasketPage .sepetiTemizle:hover {
+color: gray;
+}
+body .sepetiTemizle {
+color: gray;
+}
+
+body #linkAlisverisDevam {
+  display: none;
+}
+
+body .sepetListAlt {
+  display: none;
+}
+
+body #footer {
+  display: none;
+}
+
+body .icons {
+  display: none;
+}
+
+body #divTicimaxCopyrightContent {
+  display: none;
+}
+
+body .sepet-sil {
+  color: gray;
+}
+
+body .sepett .alisverisedevamet {
+  color: gray;
+}
+
+body .BasketPage .alisverisedevamet:hover {
+  background: gray;
+}
+
+html body .BasketRigth ul li.genelToplam .tut {
+  color: gray;
+}
+body .BasketPage .alisverisedevamet:hover {
+color: #fff;
+}
+body .BasketPage .sepetiTemizle:hover {
+color: gray;
+}
+body .sepetiTemizle {
+color: gray;
+}
+@media(max-width: 768px){
+html body .sepet-sil {
+  display: none;
+}
+
+body .sepetItem div.sepetItemB0 {
+  height: 160px;
+  width: 100px;
+}
+
+body .sepetImg {
+  height: 160px;
+  width: 100px;
+  max-height: 100%;
+  border-radius: 5px;
+}
+
+ body .sepetItemPriceContent {
+    bottom: 53px;
+  }
+ body .sepetItemB.sepetItemB1 {
+    text-align: center;
+    margin-top: 5%;
+  }
+  body .sepetItemB.sepetItemB2 {
+    width: 70%;
+    margin-top: 7%;
+  }
+
+}
+body .EmptyCart .empty-area>.right>.alisverisedevamet {
+    background: #000;
+}
+body .sepet-sil, body .sepet-sil:hover {
+    color: #000;
+}
+.BasketPage .sepet-sil:hover::before {
+color: #000 !important;
+}
+
+
+/* Sipariş Tamamla */
+
+ body #footer {
+display: none;
+}
+body #ticimaxCopyright {
+display: none;
+}
+body .icons {
+display: none;
+}
+body .fa-credit-card:before {
+    color: #000;
+}
+html body .sepetTitle2 .st_1 {
+    color: #000;
+}
+body .fa-times:before {
+  color: #000;
+}
+body .sagIcerikTutucu .satirBlok .hsbmSpan {
+    color: #000;
+}
+body .fa-pencil:before {
+    color: #000;
+}
+body .BasketPage .AdresItemAlt.AdresItemSelected .AdresItemAltLeft label span.check {
+    color: #000;
+}
+body .BasketPage .cargoInformation div.cargoName span {
+    color: #000;
+}
+body .AdresItemAlt.AdresItemSelected .AdresItemAltLeft label span.check:before {
+  background: #000;
+}

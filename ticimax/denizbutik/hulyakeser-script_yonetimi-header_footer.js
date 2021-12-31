@@ -117,7 +117,7 @@ $(document).ready(function () {
 $(document).ready(function () {
  
     var $btn = $('<a>')
-    .attr('href', 'https://api.whatsapp.com/send?phone=905386683486&text=Sipariş vermek istiyorum.')
+    .attr('href', 'https://api.whatsapp.com/send?phone=&text=Sipariş vermek istiyorum.')
     .addClass('fixed-whatsapp')
     .text('WHATSAPP İLE SİPARİŞ VER')
     .on("click", function (e) {

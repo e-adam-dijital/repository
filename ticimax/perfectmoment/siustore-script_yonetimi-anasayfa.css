@@ -20,3 +20,10 @@ body #mainHolder_divDesign img.editable {
 height: 1000px;
 }
 }
+
+
+/* Headerda sayfa tasarımındaki htmlden oluşan kaymayı önlemek için ek kod: */
+#mainHolder_divDesign section.landing-block:first-child {
+	padding-top: 0!important;
+	padding-bottom: 0!important;
+}

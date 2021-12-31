@@ -368,7 +368,7 @@
 <div class="footerSosyalMedya"><a href="tel:0552 730 64 82"><i class="fab fa-whatsapp"></i>0552 730 64 82</a><a href="tel:0000 000 00 00"><i class="fal fa-phone fa-flip-horizontal"></i>0000 000 00 00</a><a href="mailto:conceptmita@gmail.com"><i class="fal fa-envelope"></i>conceptmita@gmail.com</a><a href="https://www.facebook.com/mitaconcept/"><i aria-hidden="true" class="fa fa-facebook"></i> FACEBOOK</a> <a href="https://www.instagram.com/mitaconcept/"><i aria-hidden="true" class="fa fa-instagram"></i>İNSTAGRAM</a></div>
 
 <div class="footerCol f-col-4 f-col-xs-12 fRight">
-<div class="ticiCopyDiv">© 2021 <strong>mitaconcept.com</strong> - Tüm Hakları Saklıdır.</div>
+<div class="ticiCopyDiv">© 2021 <strong>e-adam.com</strong> - Tüm Hakları Saklıdır.</div>
 </div>
 </div>
 </div>
@@ -383,7 +383,7 @@
 </div>
 </div>
 </div>
-<a href="https://www.e-adam.com/" target="_blank"><img src="/Uploads/EditorUploads/e-adam-logo.png" style="margin: 0 auto; padding-top: 20px" width="100" /> </a>
+<a href="https://www.e-adam.com/" target="_blank"><img src="/Uploads/EditorUploads/e-adam_logo.png" style="margin: 0 auto; padding-top: 20px" width="100" /> </a>
 <!--
 <script>
   var windowidth = window.innerWidth; //window width orani

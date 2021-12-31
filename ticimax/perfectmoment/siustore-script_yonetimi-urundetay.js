@@ -77,8 +77,8 @@
         </div>
         <div class="ikonlar">
           <div>
-            <img class="resim a" src="/Uploads/EditorUploads/urundetay-emisyon-2a.gif">
-            <img class="resim b" src="/Uploads/EditorUploads/urundetay-emisyon-2b.gif">
+            <img class="resim a" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-2a.gif">
+            <img class="resim b" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-2b.gif">
             <div class="sayac">
                 <span class="rakam a">9</span>
                 <span class="rakam b">90</span>
@@ -87,8 +87,8 @@
             <span class="yazi b">Kg CO2e of emissions avoided</span>
           </div>
           <div>
-            <img class="resim a" src="/Uploads/EditorUploads/urundetay-emisyon-3a.gif">
-            <img class="resim b" src="/Uploads/EditorUploads/urundetay-emisyon-3b.gif">
+            <img class="resim a" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-3a.gif">
+            <img class="resim b" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-3b.gif">
             <div class="sayac">
                 <span class="rakam a">90</span>
                 <span class="rakam b">900</span>
@@ -97,8 +97,8 @@
             <span class="yazi b">Litres of water saved</span>
           </div>
           <div>
-            <img class="resim a" src="/Uploads/EditorUploads/urundetay-emisyon-1a.gif">
-            <img class="resim b" src="/Uploads/EditorUploads/urundetay-emisyon-1b.gif">
+            <img class="resim a" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-1a.gif">
+            <img class="resim b" src="https://www.siustore.co/Uploads/EditorUploads/urundetay-emisyon-1b.gif">
             <div class="sayac">
                 <span class="rakam a">900</span>
                 <span class="rakam b">9000</span>
