@@ -67,7 +67,7 @@
   // Each slide items in story
   $.each(stories, function (index, picture) {
 
-    var storyItem = $('<a href="' + picture.Url + '" class="linkstr"><div class="storyRing"><div class="colorRing"><img class="storyimg" src="' + picture.PictureUrl + '" alt="' + picture.Name + '"/></div><div class="storyText">' + picture.Name + '</div></div></a>');
+    //var storyItem = $('<a href="' + picture.Url + '" class="linkstr"><div class="storyRing"><div class="colorRing"><img class="storyimg" src="' + picture.PictureUrl + '" alt="' + picture.Name + '"/></div><div class="storyText">' + picture.Name + '</div></div></a>');
 
-    $(".storyCont").append(storyItem);
+    //$(".storyCont").append(storyItem);
   });
