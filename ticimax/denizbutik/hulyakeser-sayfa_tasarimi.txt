@@ -1359,6 +1359,7 @@
             </div>
         </div>
     </section>
+	<!--
     <section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-2 hide-mobile">
         <div class="ticiContainer hazirBlokContent">
             <div class="txrow">
@@ -1374,6 +1375,7 @@
             </div>
         </div>
     </section>
+	-->
 	<!--
     <section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-2 hide-mobile">
         <div class="ticiContainer hazirBlokContent">
@@ -1432,7 +1434,7 @@
                                 <div class="shadow-title">
                                     <img class="lazyImage"
                                         src="https://cdn.ticimax.com/Uploads/Images/blank.png"
-                                        data-original="https://www.denizbutik.com/Uploads/Images/edit.png" alt="">
+                                        data-original="/Uploads/Images/e-adam-logo.png" alt="">
                                 </div>
                                 <p>Yeni sezon trendleri, ünlü tarzları, kendin yap, özel koleksiyonlar ve
                                     çok daha fazlası editorial içeriklerimizde. Blok yazılarımız, özel
