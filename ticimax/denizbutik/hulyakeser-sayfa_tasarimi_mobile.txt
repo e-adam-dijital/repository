@@ -1,0 +1,3987 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-0 t-lr-0 design-bg-1 t-vw-2">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<div class="KategoriLink">
+						<div class="ticiContainer">
+							<ul>
+								<li>
+									<div class="ktimg">
+										<a href="/mont-kaban-modelleri">
+											<img class="lazyImage"
+												data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+												data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/kaban-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													class="lazyImage"
+													src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+													data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/kaban-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/mont-kaban-modelleri"><span class="kttex">Mont
+											Kaban</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/triko-kazak-modelleri">
+											<img class="lazyImage"
+												data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+												data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/kazak-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													class="lazyImage"
+													src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+													data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/kazak-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/triko-kazak-modelleri"><span class="kttex">Kazak</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/pantolon-modelleri">
+											<img class="lazyImage"
+												data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+												data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/pantolon-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													class="lazyImage"
+													src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+													data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/pantolon-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/pantolon-modelleri"><span class="kttex">Pantolon</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/kadin-sweat-modelleri">
+											<img data-cfsrc="https://img.denizbutik.com/Uploads/EditorUploads/story/sweat.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													src="https://img.denizbutik.com/Uploads/EditorUploads/story/sweat.png"></noscript>
+										</a>
+									</div>
+									<a href="/kadin-sweat-modelleri"><span class="kttex">Sweat</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/tayt-modelleri">
+											<img class="lazyImage"
+												data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+												data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/tayt-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													class="lazyImage"
+													src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+													data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/tayt-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/tayt-modelleri"><span class="kttex">Tayt</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/kadin-bluz-modelleri">
+											<img data-cfsrc="https://img.denizbutik.com/Uploads/EditorUploads/story/bluz-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													src="https://img.denizbutik.com/Uploads/EditorUploads/story/bluz-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/kadin-bluz-modelleri"><span class="kttex">Bluz</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/tekrar-stokta">
+											<img data-cfsrc="https://img.denizbutik.com/Uploads/Images/tekrarstoktastory.gif"
+												style="display:none;visibility:hidden;"><noscript><img
+													src="https://img.denizbutik.com/Uploads/Images/tekrarstoktastory.gif"></noscript>
+										</a>
+									</div>
+									<a href="/tekrar-stokta"><span class="kttex">Tekrar Stokta</span></a>
+								</li>
+								<li>
+									<div class="ktimg">
+										<a href="/kadin-hirka-modelleri">
+											<img class="lazyImage"
+												data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+												data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/hirka-01-12.png"
+												style="display:none;visibility:hidden;"><noscript><img
+													class="lazyImage"
+													src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+													data-original="https://img.denizbutik.com/Uploads/EditorUploads/story/hirka-01-12.png"></noscript>
+										</a>
+									</div>
+									<a href="/kadin-hirka-modelleri"><span class="kttex">Hırka</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/yeni-gelenler" title="yeni-gelen-mobil-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/yeni-gelen-mobil-14-12-bdfe.jpg"
+							alt="yeni-gelen-mobil-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/yeni-gelenler" title="vade-farksiz-3-taksit"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/vade-farksiz-3-taksit-0efb.jpg"
+							alt="vade-farksiz-3-taksit"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section
+		class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-0 t-lr-0 design-bg-1 t-vw-3 hide-desktop hide-tablet">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<section class="mob-category-list">
+						<div class="List">
+							<a class="item" href="/yeni-gelenler" title="">YENİ SEZON</a>
+							<a class="item" href="/elbiseler-tek-fiyat" title="">ELBİSE 89,99TL</a>
+							<a class="item" href="/abiye-60" title="">ABİYELER</a>
+							<a class="item" href="/mont-kaban-modelleri" title="">MONT VE KABAN</a>
+							<a class="item" href="/yeni-gelenler?max=100" title="">100 TL ALTI</a>
+							<a class="item" href="/kadin-ceket-modelleri" title="">CEKET</a>
+						</div>
+						<a class="all-category" href="javascript:void(0)" title=""> TÜM KATEGORİLER </a>
+					</section>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/mont-kaban-modelleri"
+						title="mont-kaban-mobil-11-11"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/mont-kaban-mobil-11-11-10f7.jpg"
+							alt="mont-kaban-mobil-11-11"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/pantolon-modelleri" title="pantolon-mobil-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/pantolon-mobil-14-12-8102.jpg"
+							alt="pantolon-mobil-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadin-bluz-modelleri" title="bluz-mobil-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/bluz-mobil-14-12-4057.jpg"
+							alt="bluz-mobil-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/elbise-modelleri" title="elbise-11-11"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/elbise-11-11-dac9.jpg"
+							alt="elbise-11-11"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/abiye-60" title="abiye-mobil-yeni-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/abiye-mobil-yeni-14-12-21d9.jpg"
+							alt="abiye-mobil-yeni-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadife" title="kadife-mobil-15-12-21"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/kadife-mobil-15-12-21-c64d.jpg"
+							alt="kadife-mobil-15-12-21"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/jean-pantolon-modelleri" title="jean-mobil-0111"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/jean-mobil-0111-c18b.jpg"
+							alt="jean-mobil-0111"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/triko-kazak-modelleri" title="kazak-mobil-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/kazak-mobil-14-12-869e.jpg"
+							alt="kazak-mobil-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadin-sweat-modelleri" title="sweat-mobil-14-12"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/sweat-mobil-14-12-1fb9.jpg"
+							alt="sweat-mobil-14-12"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/Bayan-Bot-Modelleri" title="bot-cizme-mobil-11-11"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/bot-cizme-mobil-11-11-a158.jpg"
+							alt="bot-cizme-mobil-11-11"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/Editor-Secimi" title="topraktonlar-01-11-mobil"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/topraktonlar-01-11-mobil-fef5.jpg"
+							alt="topraktonlar-01-11-mobil"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-25 t-pt-0 t-pb-0 t-lr-0 design-bg-1 t-vw-2"
+		data-ayar='{"autoplay":true,"loop":false,"autoplayTimeout":4000,"margin":20,"itemCount":5}'>
+		<div class="ticiContainer hazirBlokContent anasayfa_urun_slider">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="sliderBannerContainer " id="divUrunler" init="false">
+						<div class="ProductList Kategori1 kategoriBlock">
+							<div class="jCarouselLite blockID-0 lazyImage" data-lazy-function="owlSlider">
+								<div class="JKatAdi categoryTitle">
+									<span class="satir1">
+										<span class="bold">
+											<span class="satir1">Yeni Gelenler</span>
+										</span>
+									</span>
+								</div>
+								<div class="clear"></div>
+								<ul class="ulUrunSlider sliderOpacity">
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="97236"
+													title="Peçli Jean Pantolon - ANTRASİT"
+													href='/pecli-jean-pantolon---antrasit-97236'>
+													<img class='resimOrginal owl-lazy'
+														data-cfsrc="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit--c0b1-.jpg"
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit--c0b1-.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit-b6-b7c.jpg"
+														style="display:none;visibility:hidden;"><noscript><img
+															class='resimOrginal owl-lazy'
+															src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit--c0b1-.jpg"
+															data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit--c0b1-.jpg"
+															alt=""
+															data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/pecli-jean-pantolon-antrasit-b6-b7c.jpg"></noscript>
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="97236"
+												data-variant-id="290383">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="97236"><a
+														title="Peçli Jean Pantolon - ANTRASİT"
+														href='/pecli-jean-pantolon---antrasit-97236'>Peçli
+														Jean Pantolon - ANTRASİT</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															179,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															199,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetef5f284df3214c91adbbd315b9bdfaa6"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-97236-290383'>
+													<a onclick="productFavoritesProcess(-1,2,97236,290383,1,this,0,1,'ef5f284df3214c91adbbd315b9bdfaa6')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,97236)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('ef5f284df3214c91adbbd315b9bdfaa6',97236,290383,0,1,'/pecli-jean-pantolon---antrasit-97236',1)"
+														class="btnAddToCart" data-productId="97236"
+														data-variantId="290383"
+														data-unique="ef5f284df3214c91adbbd315b9bdfaa6">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/pecli-jean-pantolon---antrasit-97236'
+														class="detailUrl" data-id="97236">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(97236)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%10</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%10İndirim
+													</div>
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															34
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailef5f284df3214c91adbbd315b9bdfaa6">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="94739"
+													title="Kemer - GÜMÜŞ" href='/kemer---gumus-94739'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kemer-gumus-24f1-4.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kemer-gumus-82-971.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="94739"
+												data-variant-id="286887">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="94739"><a
+														title="Kemer - GÜMÜŞ"
+														href='/kemer---gumus-94739'>Kemer - GÜMÜŞ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															44,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															54,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet0db6a17bde3649469b8a610777fb2fd3"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-94739-286887'>
+													<a onclick="productFavoritesProcess(-1,2,94739,286887,1,this,0,0,'0db6a17bde3649469b8a610777fb2fd3')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,94739)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('0db6a17bde3649469b8a610777fb2fd3',94739,286887,0,1,'/kemer---gumus-94739',0)"
+														class="btnAddToCart" data-productId="94739"
+														data-variantId="286887"
+														data-unique="0db6a17bde3649469b8a610777fb2fd3">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kemer---gumus-94739' class="detailUrl"
+														data-id="94739">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(94739)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%18</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%18İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail0db6a17bde3649469b8a610777fb2fd3">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="98259"
+													title="Yüksek Bel Cepli Kumaş Pantolon - SİYAH"
+													href='/yuksek-bel-cepli-kumas-pantolon---siyah-98259'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/yuksek-bel-cepli-kumas-pantolon-siyah-19-c6a.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/yuksek-bel-cepli-kumas-pantolon-siyah-ff-b00.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="98259"
+												data-variant-id="291454">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="98259"><a
+														title="Yüksek Bel Cepli Kumaş Pantolon - SİYAH"
+														href='/yuksek-bel-cepli-kumas-pantolon---siyah-98259'>Yüksek
+														Bel Cepli Kumaş Pantolon - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															169,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet67914070b9e74866ad076aa50f9d7b4a"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-98259-291454'>
+													<a onclick="productFavoritesProcess(-1,2,98259,291454,1,this,0,1,'67914070b9e74866ad076aa50f9d7b4a')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,98259)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('67914070b9e74866ad076aa50f9d7b4a',98259,291454,0,1,'/yuksek-bel-cepli-kumas-pantolon---siyah-98259',1)"
+														class="btnAddToCart" data-productId="98259"
+														data-variantId="291454"
+														data-unique="67914070b9e74866ad076aa50f9d7b4a">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/yuksek-bel-cepli-kumas-pantolon---siyah-98259'
+														class="detailUrl" data-id="98259">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(98259)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%12</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%12İndirim
+													</div>
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail67914070b9e74866ad076aa50f9d7b4a">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="98263"
+													title="Sahte Cepli Kumaş Pantolon - SİYAH"
+													href='/sahte-cepli-kumas-pantolon---siyah-98263'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/sahte-cepli-kumas-pantolon-siyah-f0e-80.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/sahte-cepli-kumas-pantolon-siyah-701b2d.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="98263"
+												data-variant-id="291458">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="98263"><a
+														title="Sahte Cepli Kumaş Pantolon - SİYAH"
+														href='/sahte-cepli-kumas-pantolon---siyah-98263'>Sahte
+														Cepli Kumaş Pantolon - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															169,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet185b637675134618af79a41d348f634d"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-98263-291458'>
+													<a onclick="productFavoritesProcess(-1,2,98263,291458,1,this,0,1,'185b637675134618af79a41d348f634d')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,98263)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('185b637675134618af79a41d348f634d',98263,291458,0,1,'/sahte-cepli-kumas-pantolon---siyah-98263',1)"
+														class="btnAddToCart" data-productId="98263"
+														data-variantId="291458"
+														data-unique="185b637675134618af79a41d348f634d">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/sahte-cepli-kumas-pantolon---siyah-98263'
+														class="detailUrl" data-id="98263">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(98263)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%12</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%12İndirim
+													</div>
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail185b637675134618af79a41d348f634d">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="97214"
+													title="Boğazlı Triko Kazak - BEYAZ"
+													href='/bogazli-triko-kazak---beyaz-97214'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/bogazli-triko-kazak-beyaz-d-4335.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/bogazli-triko-kazak-beyaz--bc2e-.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="97214"
+												data-variant-id="290305">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="97214"><a
+														title="Boğazlı Triko Kazak - BEYAZ"
+														href='/bogazli-triko-kazak---beyaz-97214'>Boğazlı
+														Triko Kazak - BEYAZ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															139,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															159,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet87a274d0aa964a4ab9ad9244765f3fdc"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-97214-290305'>
+													<a onclick="productFavoritesProcess(-1,2,97214,290305,1,this,0,0,'87a274d0aa964a4ab9ad9244765f3fdc')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,97214)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('87a274d0aa964a4ab9ad9244765f3fdc',97214,290305,0,1,'/bogazli-triko-kazak---beyaz-97214',0)"
+														class="btnAddToCart" data-productId="97214"
+														data-variantId="290305"
+														data-unique="87a274d0aa964a4ab9ad9244765f3fdc">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/bogazli-triko-kazak---beyaz-97214'
+														class="detailUrl" data-id="97214">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(97214)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%13</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%13İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail87a274d0aa964a4ab9ad9244765f3fdc">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="94951"
+													title="Suni Deri Jogger Pantolon - SİYAH"
+													href='/suni-deri-jogger-pantolon---siyah-94951'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/suni-deri-jogger-pantolon-siyah-f9d-79.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/suni-deri-jogger-pantolon-siyah-fd9425.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="94951"
+												data-variant-id="287473">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="94951"><a
+														title="Suni Deri Jogger Pantolon - SİYAH"
+														href='/suni-deri-jogger-pantolon---siyah-94951'>Suni
+														Deri Jogger Pantolon - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															174,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															194,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdete4bb603c491f4d38b0ea6496e083a19d"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-94951-287473'>
+													<a onclick="productFavoritesProcess(-1,2,94951,287473,1,this,0,1,'e4bb603c491f4d38b0ea6496e083a19d')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,94951)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('e4bb603c491f4d38b0ea6496e083a19d',94951,287473,0,1,'/suni-deri-jogger-pantolon---siyah-94951',1)"
+														class="btnAddToCart" data-productId="94951"
+														data-variantId="287473"
+														data-unique="e4bb603c491f4d38b0ea6496e083a19d">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/suni-deri-jogger-pantolon---siyah-94951'
+														class="detailUrl" data-id="94951">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(94951)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%10</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%10İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaile4bb603c491f4d38b0ea6496e083a19d">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="86315"
+													title="Kapitone Leopar Garnili Ceket - GRİ"
+													href='/kapitone-leopar-garnili-ceket---gri-86315'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kapitone-leopar-garnili-ceket-gri-7f-e1d.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kapitone-leopar-garnili-ceket-gri-99bafd.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="86315"
+												data-variant-id="235601">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="86315"><a
+														title="Kapitone Leopar Garnili Ceket - GRİ"
+														href='/kapitone-leopar-garnili-ceket---gri-86315'>Kapitone
+														Leopar Garnili Ceket - GRİ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															239,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															269,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet8a7e3e84d338458496299ddc4b50cd21"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-86315-235601'>
+													<a onclick="productFavoritesProcess(-1,2,86315,235601,1,this,0,0,'8a7e3e84d338458496299ddc4b50cd21')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,86315)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('8a7e3e84d338458496299ddc4b50cd21',86315,235601,0,1,'/kapitone-leopar-garnili-ceket---gri-86315',0)"
+														class="btnAddToCart" data-productId="86315"
+														data-variantId="235601"
+														data-unique="8a7e3e84d338458496299ddc4b50cd21">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kapitone-leopar-garnili-ceket---gri-86315'
+														class="detailUrl" data-id="86315">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(86315)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%11</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%11İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan4">
+													%10 İNDİRİM
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail8a7e3e84d338458496299ddc4b50cd21">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="97225"
+													title="Fitilli Toparlayıcı Tayt - SİYAH"
+													href='/fitilli-toparlayici-tayt---siyah-97225'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/fitilli-toparlayici-tayt-siyah-c-cdf4.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/fitilli-toparlayici-tayt-siyah-95f-43.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="97225"
+												data-variant-id="290339">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="97225"><a
+														title="Fitilli Toparlayıcı Tayt - SİYAH"
+														href='/fitilli-toparlayici-tayt---siyah-97225'>Fitilli
+														Toparlayıcı Tayt - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															109,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															129,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetc25cdab582db452ea3c931b29e746162"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-97225-290339'>
+													<a onclick="productFavoritesProcess(-1,2,97225,290339,1,this,0,1,'c25cdab582db452ea3c931b29e746162')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,97225)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('c25cdab582db452ea3c931b29e746162',97225,290339,0,1,'/fitilli-toparlayici-tayt---siyah-97225',1)"
+														class="btnAddToCart" data-productId="97225"
+														data-variantId="290339"
+														data-unique="c25cdab582db452ea3c931b29e746162">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/fitilli-toparlayici-tayt---siyah-97225'
+														class="detailUrl" data-id="97225">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(97225)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%15</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%15İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															L
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															XL
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailc25cdab582db452ea3c931b29e746162">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="97205"
+													title="Oversize Fermuarlı Hırka - GRİ"
+													href='/oversize-fermuarli-hirka---gri-97205'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/oversize-fermuarli-hirka-gri-851949.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/oversize-fermuarli-hirka-gri-935a46.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="97205"
+												data-variant-id="290289">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="97205"><a
+														title="Oversize Fermuarlı Hırka - GRİ"
+														href='/oversize-fermuarli-hirka---gri-97205'>Oversize
+														Fermuarlı Hırka - GRİ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															199,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															219,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetaf9f8bafff2646fab9f718f251083bc9"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-97205-290289'>
+													<a onclick="productFavoritesProcess(-1,2,97205,290289,1,this,0,1,'af9f8bafff2646fab9f718f251083bc9')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,97205)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('af9f8bafff2646fab9f718f251083bc9',97205,290289,0,1,'/oversize-fermuarli-hirka---gri-97205',1)"
+														class="btnAddToCart" data-productId="97205"
+														data-variantId="290289"
+														data-unique="af9f8bafff2646fab9f718f251083bc9">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-fermuarli-hirka---gri-97205'
+														class="detailUrl" data-id="97205">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(97205)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%9</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%9İndirim
+													</div>
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S-M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M-L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailaf9f8bafff2646fab9f718f251083bc9">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="94165"
+													title="Bere - GRİ" href='/bere---gri-94165'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/bere-gri-e666ce.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/bere-gri-4-970c.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="94165"
+												data-variant-id="284888">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="94165"><a
+														title="Bere - GRİ" href='/bere---gri-94165'>Bere -
+														GRİ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															39,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															59,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet0d295c31b9af4801ad66b9bfc11ded8d"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-94165-284888'>
+													<a onclick="productFavoritesProcess(-1,2,94165,284888,1,this,0,0,'0d295c31b9af4801ad66b9bfc11ded8d')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,94165)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('0d295c31b9af4801ad66b9bfc11ded8d',94165,284888,0,1,'/bere---gri-94165',0)"
+														class="btnAddToCart" data-productId="94165"
+														data-variantId="284888"
+														data-unique="0d295c31b9af4801ad66b9bfc11ded8d">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/bere---gri-94165' class="detailUrl"
+														data-id="94165">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(94165)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%33</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%33İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail0d295c31b9af4801ad66b9bfc11ded8d">
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="Block_Link" style="display:none;">
+							<a href="/yeni-gelenler" tici-lang="Global_KategoriyeGit"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/sicak-kombinler" title="soguk-hava-mobil-yeni-1711"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/soguk-hava-mobil-yeni-1910-fb47.jpg"
+							alt="soguk-hava-mobil-yeni-1711"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/takim-modelleri" title="takim-mobil-1711"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/takim-mobil-1910-cae7.jpg"
+							alt="takim-mobil-1711"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadin-ceket-modelleri" title="ceket-mobil-0111"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/ceket-mobil-0111-45c3.jpg"
+							alt="ceket-mobil-0111"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadin-hirka-modelleri" title="hirka-mobil-1910"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/hirka-mobil-1910-c082.jpg"
+							alt="hirka-mobil-1910"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/tayt-modelleri" title="tayt-mobil-1910"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://img.denizbutik.com/Uploads/SayfaTasarim/Sayfa2/tayt-mobil-1910-1f67.jpg"
+							alt="tayt-mobil-1910"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-desktop"
+		data-ayar='{"autoplay":true,"loop":false,"autoplayTimeout":4000,"margin":20,"itemCount":5}'>
+		<div class="ticiContainer hazirBlokContent anasayfa_urun_slider">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="sliderBannerContainer " id="divUrunler" init="false">
+						<div class="ProductList Kategori1 kategoriBlock">
+							<div class="jCarouselLite blockID-0 lazyImage" data-lazy-function="owlSlider">
+								<div class="JKatAdi categoryTitle">
+									<span class="satir1">
+										<span class="bold">
+											<span class="satir1">Uygun Fiyatlılar</span>
+										</span>
+									</span>
+								</div>
+								<div class="clear"></div>
+								<ul class="ulUrunSlider sliderOpacity">
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90951"
+													title="Puantiye Desenli Mini Elbise - SİYAH"
+													href='/puantiye-desenli-mini-elbise---siyah-90951'>
+													<img class='resimOrginal owl-lazy'
+														data-cfsrc="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-9b0d-5.jpg"
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-9b0d-5.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-96-88e.jpg"
+														style="display:none;visibility:hidden;"><noscript><img
+															class='resimOrginal owl-lazy'
+															src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-9b0d-5.jpg"
+															data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-9b0d-5.jpg"
+															alt=""
+															data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/puantiye-desenli-mini-elbise-siyah-96-88e.jpg"></noscript>
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90951"
+												data-variant-id="270787">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90951"><a
+														title="Puantiye Desenli Mini Elbise - SİYAH"
+														href='/puantiye-desenli-mini-elbise---siyah-90951'>Puantiye
+														Desenli Mini Elbise - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															89,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetfb19d443b4f74dd9aad465a9e84ff50e"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90951-270787'>
+													<a onclick="productFavoritesProcess(-1,2,90951,270787,1,this,0,1,'fb19d443b4f74dd9aad465a9e84ff50e')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90951)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('fb19d443b4f74dd9aad465a9e84ff50e',90951,270787,0,1,'/puantiye-desenli-mini-elbise---siyah-90951',1)"
+														class="btnAddToCart" data-productId="90951"
+														data-variantId="270787"
+														data-unique="fb19d443b4f74dd9aad465a9e84ff50e">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/puantiye-desenli-mini-elbise---siyah-90951'
+														class="detailUrl" data-id="90951">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90951)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%25</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%25İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailfb19d443b4f74dd9aad465a9e84ff50e">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90958"
+													title="Omuz Fırfırlı Madonna Yaka Triko - EKRU"
+													href='/omuz-firfirli-madonna-yaka-triko---ekru-90958'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/omuz-firfirli-madonna-yaka-triko-ekru-5-6817.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/omuz-firfirli-madonna-yaka-triko-ekru-cc800-.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90958"
+												data-variant-id="270800">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90958"><a
+														title="Omuz Fırfırlı Madonna Yaka Triko - EKRU"
+														href='/omuz-firfirli-madonna-yaka-triko---ekru-90958'>Omuz
+														Fırfırlı Madonna Yaka Triko - EKRU</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															64,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															89,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetcceca1780e514978b40552cc2d2685ed"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90958-270800'>
+													<a onclick="productFavoritesProcess(-1,2,90958,270800,1,this,0,0,'cceca1780e514978b40552cc2d2685ed')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90958)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('cceca1780e514978b40552cc2d2685ed',90958,270800,0,1,'/omuz-firfirli-madonna-yaka-triko---ekru-90958',0)"
+														class="btnAddToCart" data-productId="90958"
+														data-variantId="270800"
+														data-unique="cceca1780e514978b40552cc2d2685ed">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/omuz-firfirli-madonna-yaka-triko---ekru-90958'
+														class="detailUrl" data-id="90958">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90958)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%28</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%28İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailcceca1780e514978b40552cc2d2685ed">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90959"
+													title="Omuz Fırfırlı Madonna Yaka Triko - CAMEL"
+													href='/omuz-firfirli-madonna-yaka-triko---camel-90959'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/omuz-firfirli-madonna-yaka-triko-camel-02a-44.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/omuz-firfirli-madonna-yaka-triko-camel-2523f-.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90959"
+												data-variant-id="270801">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90959"><a
+														title="Omuz Fırfırlı Madonna Yaka Triko - CAMEL"
+														href='/omuz-firfirli-madonna-yaka-triko---camel-90959'>Omuz
+														Fırfırlı Madonna Yaka Triko - CAMEL</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															64,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															89,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet51f0683e12884df3bb92182bb7164938"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90959-270801'>
+													<a onclick="productFavoritesProcess(-1,2,90959,270801,1,this,0,0,'51f0683e12884df3bb92182bb7164938')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90959)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('51f0683e12884df3bb92182bb7164938',90959,270801,0,1,'/omuz-firfirli-madonna-yaka-triko---camel-90959',0)"
+														class="btnAddToCart" data-productId="90959"
+														data-variantId="270801"
+														data-unique="51f0683e12884df3bb92182bb7164938">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/omuz-firfirli-madonna-yaka-triko---camel-90959'
+														class="detailUrl" data-id="90959">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90959)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%28</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%28İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															STD
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail51f0683e12884df3bb92182bb7164938">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90968"
+													title="Payetli Bol Pantolon - BAKIR"
+													href='/payetli-bol-pantolon---bakir-90968'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/payetli-bol-pantolon-bakir-6-7bdf.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/payetli-bol-pantolon-bakir-5ba-a9.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90968"
+												data-variant-id="270820">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90968"><a
+														title="Payetli Bol Pantolon - BAKIR"
+														href='/payetli-bol-pantolon---bakir-90968'>Payetli
+														Bol Pantolon - BAKIR</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetbd6c2ab10f3142ddb13f51608e8d2f6e"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90968-270820'>
+													<a onclick="productFavoritesProcess(-1,2,90968,270820,1,this,0,1,'bd6c2ab10f3142ddb13f51608e8d2f6e')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90968)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('bd6c2ab10f3142ddb13f51608e8d2f6e',90968,270820,0,1,'/payetli-bol-pantolon---bakir-90968',1)"
+														class="btnAddToCart" data-productId="90968"
+														data-variantId="270820"
+														data-unique="bd6c2ab10f3142ddb13f51608e8d2f6e">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/payetli-bol-pantolon---bakir-90968'
+														class="detailUrl" data-id="90968">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90968)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailbd6c2ab10f3142ddb13f51608e8d2f6e">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90969"
+													title="Payetli Bol Pantolon - BORDO"
+													href='/payetli-bol-pantolon---bordo-90969'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/payetli-bol-pantolon-bordo-4-bb17.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/payetli-bol-pantolon-bordo-dc-427.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90969"
+												data-variant-id="270821">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90969"><a
+														title="Payetli Bol Pantolon - BORDO"
+														href='/payetli-bol-pantolon---bordo-90969'>Payetli
+														Bol Pantolon - BORDO</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetb7fe575bf91544a5ab2cbf51039655d3"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90969-270821'>
+													<a onclick="productFavoritesProcess(-1,2,90969,270821,1,this,0,1,'b7fe575bf91544a5ab2cbf51039655d3')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90969)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('b7fe575bf91544a5ab2cbf51039655d3',90969,270821,0,1,'/payetli-bol-pantolon---bordo-90969',1)"
+														class="btnAddToCart" data-productId="90969"
+														data-variantId="270821"
+														data-unique="b7fe575bf91544a5ab2cbf51039655d3">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/payetli-bol-pantolon---bordo-90969'
+														class="detailUrl" data-id="90969">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90969)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailb7fe575bf91544a5ab2cbf51039655d3">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90978"
+													title="Yırtmaçlı Saten Etek - SİYAH"
+													href='/yirtmacli-saten-etek---siyah-90978'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/yirtmacli-saten-etek-siyah-a-4d78.jpeg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/yirtmacli-saten-etek-siyah-f95-a0.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90978"
+												data-variant-id="270842">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90978"><a
+														title="Yırtmaçlı Saten Etek - SİYAH"
+														href='/yirtmacli-saten-etek---siyah-90978'>Yırtmaçlı
+														Saten Etek - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet9d94b1e70e534d92a2595ababea0a957"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90978-270842'>
+													<a onclick="productFavoritesProcess(-1,2,90978,270842,1,this,0,1,'9d94b1e70e534d92a2595ababea0a957')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90978)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('9d94b1e70e534d92a2595ababea0a957',90978,270842,0,1,'/yirtmacli-saten-etek---siyah-90978',1)"
+														class="btnAddToCart" data-productId="90978"
+														data-variantId="270842"
+														data-unique="9d94b1e70e534d92a2595ababea0a957">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/yirtmacli-saten-etek---siyah-90978'
+														class="detailUrl" data-id="90978">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90978)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															S
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															M
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															L
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail9d94b1e70e534d92a2595ababea0a957">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90991"
+													title="Deri Kemerli Havuç Pantolon - BEJ"
+													href='/deri-kemerli-havuc-pantolon---bej-90991'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/deri-kemerli-havuc-pantolon-bej-38-fac.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/deri-kemerli-havuc-pantolon-bej--bd66-.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90991"
+												data-variant-id="270877">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90991"><a
+														title="Deri Kemerli Havuç Pantolon - BEJ"
+														href='/deri-kemerli-havuc-pantolon---bej-90991'>Deri
+														Kemerli Havuç Pantolon - BEJ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet3a4cd268f3404d128b1c6baee31e003b"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90991-270877'>
+													<a onclick="productFavoritesProcess(-1,2,90991,270877,1,this,0,1,'3a4cd268f3404d128b1c6baee31e003b')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90991)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('3a4cd268f3404d128b1c6baee31e003b',90991,270877,0,1,'/deri-kemerli-havuc-pantolon---bej-90991',1)"
+														class="btnAddToCart" data-productId="90991"
+														data-variantId="270877"
+														data-unique="3a4cd268f3404d128b1c6baee31e003b">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/deri-kemerli-havuc-pantolon---bej-90991'
+														class="detailUrl" data-id="90991">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90991)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail3a4cd268f3404d128b1c6baee31e003b">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90992"
+													title="Deri Kemerli Havuç Pantolon - SİYAH"
+													href='/deri-kemerli-havuc-pantolon---siyah-90992'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/deri-kemerli-havuc-pantolon-siyah-d52289.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/deri-kemerli-havuc-pantolon-siyah-55-19d.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90992"
+												data-variant-id="270878">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90992"><a
+														title="Deri Kemerli Havuç Pantolon - SİYAH"
+														href='/deri-kemerli-havuc-pantolon---siyah-90992'>Deri
+														Kemerli Havuç Pantolon - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdeteff150d7173d43a8bc1e625098340da1"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90992-270878'>
+													<a onclick="productFavoritesProcess(-1,2,90992,270878,1,this,0,1,'eff150d7173d43a8bc1e625098340da1')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90992)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('eff150d7173d43a8bc1e625098340da1',90992,270878,0,1,'/deri-kemerli-havuc-pantolon---siyah-90992',1)"
+														class="btnAddToCart" data-productId="90992"
+														data-variantId="270878"
+														data-unique="eff150d7173d43a8bc1e625098340da1">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/deri-kemerli-havuc-pantolon---siyah-90992'
+														class="detailUrl" data-id="90992">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90992)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaileff150d7173d43a8bc1e625098340da1">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90994"
+													title="Kemer Detay Havuç Pantolon - HAKİ"
+													href='/kemer-detay-havuc-pantolon---haki-90994'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kemer-detay-havuc-pantolon-haki-4a539b.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kemer-detay-havuc-pantolon-haki-76c593.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90994"
+												data-variant-id="270880">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90994"><a
+														title="Kemer Detay Havuç Pantolon - HAKİ"
+														href='/kemer-detay-havuc-pantolon---haki-90994'>Kemer
+														Detay Havuç Pantolon - HAKİ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet8aca36e5dc724516830bec02a36d4f01"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90994-270880'>
+													<a onclick="productFavoritesProcess(-1,2,90994,270880,1,this,0,1,'8aca36e5dc724516830bec02a36d4f01')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90994)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('8aca36e5dc724516830bec02a36d4f01',90994,270880,0,1,'/kemer-detay-havuc-pantolon---haki-90994',1)"
+														class="btnAddToCart" data-productId="90994"
+														data-variantId="270880"
+														data-unique="8aca36e5dc724516830bec02a36d4f01">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kemer-detay-havuc-pantolon---haki-90994'
+														class="detailUrl" data-id="90994">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90994)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail8aca36e5dc724516830bec02a36d4f01">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90996"
+													title="Cepli Pantolon - CAMEL"
+													href='/cepli-pantolon---camel-90996'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-camel-da-d50.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-camel-96-3c3.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90996"
+												data-variant-id="270925">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90996"><a
+														title="Cepli Pantolon - CAMEL"
+														href='/cepli-pantolon---camel-90996'>Cepli Pantolon
+														- CAMEL</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet9341851112ec42a6a8be669e96d9e53a"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90996-270925'>
+													<a onclick="productFavoritesProcess(-1,2,90996,270925,1,this,0,1,'9341851112ec42a6a8be669e96d9e53a')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90996)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('9341851112ec42a6a8be669e96d9e53a',90996,270925,0,1,'/cepli-pantolon---camel-90996',1)"
+														class="btnAddToCart" data-productId="90996"
+														data-variantId="270925"
+														data-unique="9341851112ec42a6a8be669e96d9e53a">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cepli-pantolon---camel-90996'
+														class="detailUrl" data-id="90996">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90996)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail9341851112ec42a6a8be669e96d9e53a">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90997"
+													title="Cepli Pantolon - KREM"
+													href='/cepli-pantolon---krem-90997'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-krem--0803-.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-krem-13-4ce.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90997"
+												data-variant-id="270927">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90997"><a
+														title="Cepli Pantolon - KREM"
+														href='/cepli-pantolon---krem-90997'>Cepli Pantolon -
+														KREM</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet3ee15359c6de4ad1bc2d4f74de6bb27a"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90997-270927'>
+													<a onclick="productFavoritesProcess(-1,2,90997,270927,1,this,0,1,'3ee15359c6de4ad1bc2d4f74de6bb27a')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90997)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('3ee15359c6de4ad1bc2d4f74de6bb27a',90997,270927,0,1,'/cepli-pantolon---krem-90997',1)"
+														class="btnAddToCart" data-productId="90997"
+														data-variantId="270927"
+														data-unique="3ee15359c6de4ad1bc2d4f74de6bb27a">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cepli-pantolon---krem-90997' class="detailUrl"
+														data-id="90997">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90997)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail3ee15359c6de4ad1bc2d4f74de6bb27a">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90998"
+													title="Cepli Pantolon - SİYAH"
+													href='/cepli-pantolon---siyah-90998'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-siyah-26bf2b.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cepli-pantolon-siyah--cee80.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90998"
+												data-variant-id="270929">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90998"><a
+														title="Cepli Pantolon - SİYAH"
+														href='/cepli-pantolon---siyah-90998'>Cepli Pantolon
+														- SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															99,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															119,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet362508a053884a808ad50442dcb58ae8"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90998-270929'>
+													<a onclick="productFavoritesProcess(-1,2,90998,270929,1,this,0,1,'362508a053884a808ad50442dcb58ae8')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90998)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('362508a053884a808ad50442dcb58ae8',90998,270929,0,1,'/cepli-pantolon---siyah-90998',1)"
+														class="btnAddToCart" data-productId="90998"
+														data-variantId="270929"
+														data-unique="362508a053884a808ad50442dcb58ae8">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cepli-pantolon---siyah-90998'
+														class="detailUrl" data-id="90998">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90998)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%17</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%17İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail362508a053884a808ad50442dcb58ae8">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="90999"
+													title="Cep Detay Kemerli Pantolon - CAMEL"
+													href='/cep-detay-kemerli-pantolon---camel-90999'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-camel-1-4070.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-camel-05ac-4.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="90999"
+												data-variant-id="270931">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="90999"><a
+														title="Cep Detay Kemerli Pantolon - CAMEL"
+														href='/cep-detay-kemerli-pantolon---camel-90999'>Cep
+														Detay Kemerli Pantolon - CAMEL</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															139,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet82b50017feae45c28d5ee4f5dc8ef227"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-90999-270931'>
+													<a onclick="productFavoritesProcess(-1,2,90999,270931,1,this,0,1,'82b50017feae45c28d5ee4f5dc8ef227')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,90999)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('82b50017feae45c28d5ee4f5dc8ef227',90999,270931,0,1,'/cep-detay-kemerli-pantolon---camel-90999',1)"
+														class="btnAddToCart" data-productId="90999"
+														data-variantId="270931"
+														data-unique="82b50017feae45c28d5ee4f5dc8ef227">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cep-detay-kemerli-pantolon---camel-90999'
+														class="detailUrl" data-id="90999">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(90999)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%7</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%7İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail82b50017feae45c28d5ee4f5dc8ef227">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91000"
+													title="Cep Detay Kemerli Pantolon - BEJ"
+													href='/cep-detay-kemerli-pantolon---bej-91000'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-bej-5-4a20.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-bej--4385-.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91000"
+												data-variant-id="270933">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91000"><a
+														title="Cep Detay Kemerli Pantolon - BEJ"
+														href='/cep-detay-kemerli-pantolon---bej-91000'>Cep
+														Detay Kemerli Pantolon - BEJ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															139,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet9e82d1cca48f40c79d89329c54354d66"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91000-270933'>
+													<a onclick="productFavoritesProcess(-1,2,91000,270933,1,this,0,1,'9e82d1cca48f40c79d89329c54354d66')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91000)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('9e82d1cca48f40c79d89329c54354d66',91000,270933,0,1,'/cep-detay-kemerli-pantolon---bej-91000',1)"
+														class="btnAddToCart" data-productId="91000"
+														data-variantId="270933"
+														data-unique="9e82d1cca48f40c79d89329c54354d66">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cep-detay-kemerli-pantolon---bej-91000'
+														class="detailUrl" data-id="91000">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91000)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%7</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%7İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail9e82d1cca48f40c79d89329c54354d66">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91001"
+													title="Cep Detay Kemerli Pantolon - KREM"
+													href='/cep-detay-kemerli-pantolon---krem-91001'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-krem-d-b82c.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-krem-f25dea.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91001"
+												data-variant-id="270935">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91001"><a
+														title="Cep Detay Kemerli Pantolon - KREM"
+														href='/cep-detay-kemerli-pantolon---krem-91001'>Cep
+														Detay Kemerli Pantolon - KREM</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															139,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetdd27b41ad9de46de99287aeb5b859cb2"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91001-270935'>
+													<a onclick="productFavoritesProcess(-1,2,91001,270935,1,this,0,1,'dd27b41ad9de46de99287aeb5b859cb2')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91001)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('dd27b41ad9de46de99287aeb5b859cb2',91001,270935,0,1,'/cep-detay-kemerli-pantolon---krem-91001',1)"
+														class="btnAddToCart" data-productId="91001"
+														data-variantId="270935"
+														data-unique="dd27b41ad9de46de99287aeb5b859cb2">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cep-detay-kemerli-pantolon---krem-91001'
+														class="detailUrl" data-id="91001">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91001)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%7</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%7İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaildd27b41ad9de46de99287aeb5b859cb2">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91002"
+													title="Cep Detay Kemerli Pantolon - SİYAH"
+													href='/cep-detay-kemerli-pantolon---siyah-91002'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-siyah-facf1a.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/cep-detay-kemerli-pantolon-siyah-b30-9d.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91002"
+												data-variant-id="270937">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91002"><a
+														title="Cep Detay Kemerli Pantolon - SİYAH"
+														href='/cep-detay-kemerli-pantolon---siyah-91002'>Cep
+														Detay Kemerli Pantolon - SİYAH</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															139,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetfdf5a4efa30147f29def2e1f58b1e483"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91002-270937'>
+													<a onclick="productFavoritesProcess(-1,2,91002,270937,1,this,0,1,'fdf5a4efa30147f29def2e1f58b1e483')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91002)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('fdf5a4efa30147f29def2e1f58b1e483',91002,270937,0,1,'/cep-detay-kemerli-pantolon---siyah-91002',1)"
+														class="btnAddToCart" data-productId="91002"
+														data-variantId="270937"
+														data-unique="fdf5a4efa30147f29def2e1f58b1e483">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cep-detay-kemerli-pantolon---siyah-91002'
+														class="detailUrl" data-id="91002">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91002)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%7</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%7İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailfdf5a4efa30147f29def2e1f58b1e483">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91013"
+													title="Kuş Gözü Detaylı Havuç Pantolon - KİREMİT"
+													href='/kus-gozu-detayli-havuc-pantolon---kiremit-91013'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-kiremi-8d-45c.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-kiremi-914981.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91013"
+												data-variant-id="270966">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91013"><a
+														title="Kuş Gözü Detaylı Havuç Pantolon - KİREMİT"
+														href='/kus-gozu-detayli-havuc-pantolon---kiremit-91013'>Kuş
+														Gözü Detaylı Havuç Pantolon - KİREMİT</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															129,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet8d0691a7e4c043ffb84630768162f49a"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91013-270966'>
+													<a onclick="productFavoritesProcess(-1,2,91013,270966,1,this,0,1,'8d0691a7e4c043ffb84630768162f49a')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91013)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('8d0691a7e4c043ffb84630768162f49a',91013,270966,0,1,'/kus-gozu-detayli-havuc-pantolon---kiremit-91013',1)"
+														class="btnAddToCart" data-productId="91013"
+														data-variantId="270966"
+														data-unique="8d0691a7e4c043ffb84630768162f49a">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kus-gozu-detayli-havuc-pantolon---kiremit-91013'
+														class="detailUrl" data-id="91013">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91013)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%13</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%13İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail8d0691a7e4c043ffb84630768162f49a">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91014"
+													title="Kuş Gözü Detaylı Havuç Pantolon - BEJ"
+													href='/kus-gozu-detayli-havuc-pantolon---bej-91014'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-bej-2dfc45.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-bej-c-42cb.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91014"
+												data-variant-id="270970">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91014"><a
+														title="Kuş Gözü Detaylı Havuç Pantolon - BEJ"
+														href='/kus-gozu-detayli-havuc-pantolon---bej-91014'>Kuş
+														Gözü Detaylı Havuç Pantolon - BEJ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															129,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetd08714e0d500480385d45b8e8b71d147"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91014-270970'>
+													<a onclick="productFavoritesProcess(-1,2,91014,270970,1,this,0,1,'d08714e0d500480385d45b8e8b71d147')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91014)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('d08714e0d500480385d45b8e8b71d147',91014,270970,0,1,'/kus-gozu-detayli-havuc-pantolon---bej-91014',1)"
+														class="btnAddToCart" data-productId="91014"
+														data-variantId="270970"
+														data-unique="d08714e0d500480385d45b8e8b71d147">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kus-gozu-detayli-havuc-pantolon---bej-91014'
+														class="detailUrl" data-id="91014">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91014)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%13</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%13İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaild08714e0d500480385d45b8e8b71d147">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91015"
+													title="Kuş Gözü Detaylı Havuç Pantolon - TABA"
+													href='/kus-gozu-detayli-havuc-pantolon---taba-91015'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-taba-f-e3bc.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-taba-17904f.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91015"
+												data-variant-id="270974">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91015"><a
+														title="Kuş Gözü Detaylı Havuç Pantolon - TABA"
+														href='/kus-gozu-detayli-havuc-pantolon---taba-91015'>Kuş
+														Gözü Detaylı Havuç Pantolon - TABA</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															129,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet1775fee60cd44beda19bf096284b2238"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91015-270974'>
+													<a onclick="productFavoritesProcess(-1,2,91015,270974,1,this,0,1,'1775fee60cd44beda19bf096284b2238')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91015)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('1775fee60cd44beda19bf096284b2238',91015,270974,0,1,'/kus-gozu-detayli-havuc-pantolon---taba-91015',1)"
+														class="btnAddToCart" data-productId="91015"
+														data-variantId="270974"
+														data-unique="1775fee60cd44beda19bf096284b2238">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kus-gozu-detayli-havuc-pantolon---taba-91015'
+														class="detailUrl" data-id="91015">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91015)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%13</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%13İndirim
+													</div>
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail1775fee60cd44beda19bf096284b2238">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="91016"
+													title="Kuş Gözü Detaylı Havuç Pantolon - HAKİ"
+													href='/kus-gozu-detayli-havuc-pantolon---haki-91016'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-haki-9089f-.jpg"
+														alt=""
+														data-second="https://www.denizbutik.com/Uploads/UrunResimleri/thumb/kus-gozu-detayli-havuc-pantolon-haki-0a0-39.jpg">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="91016"
+												data-variant-id="270978">
+												<div class="productMarka" style="display: none;">e-Adam
+												</div>
+												<div class="productName detailUrl" data-id="91016"><a
+														title="Kuş Gözü Detaylı Havuç Pantolon - HAKİ"
+														href='/kus-gozu-detayli-havuc-pantolon---haki-91016'>Kuş
+														Gözü Detaylı Havuç Pantolon - HAKİ</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															129,99 TL
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															149,99 TL
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet06ebd7e197844a1897a3fc6bbc9b121c"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-91016-270978'>
+													<a onclick="productFavoritesProcess(-1,2,91016,270978,1,this,0,1,'06ebd7e197844a1897a3fc6bbc9b121c')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,91016)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('06ebd7e197844a1897a3fc6bbc9b121c',91016,270978,0,1,'/kus-gozu-detayli-havuc-pantolon---haki-91016',1)"
+														class="btnAddToCart" data-productId="91016"
+														data-variantId="270978"
+														data-unique="06ebd7e197844a1897a3fc6bbc9b121c">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/kus-gozu-detayli-havuc-pantolon---haki-91016'
+														class="detailUrl" data-id="91016">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="quickViewIco">
+													<a class="various button"
+														onclick="showQuickView(91016)">Ürünü İncele</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%13</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%13İndirim
+													</div>
+												</div>
+												<div class="ozelAlan3">
+													24 SATTE KARGODA
+												</div>
+												<div class="ozelAlan5">
+													%15 indirim
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															36
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															38
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															40
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															42
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail06ebd7e197844a1897a3fc6bbc9b121c">
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="Block_Link" style="display:none;">
+							<a href="/100tl-alti-urunler" tici-lang="Global_KategoriyeGit"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section
+		class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-0 t-lr-0 design-bg-1 t-vw-3 hide-desktop hide-tablet">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<div class="mob-social-slide">
+						<div class="socialOwl">
+							<div class="item">
+								<div class="SocialLink" title=""><span class="dnz-94"></span>Ücretsiz
+									Değişim ve İade Fırsatı!</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-20 t-lr-0 design-bg-1 t-vw-2 hide-tablet">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<section class="mob-deniz-info">
+						<a class="Cover fancybox-media" href="https://www.youtube.com/embed/vcxcN4TegNk"
+							rel="media-gallery">
+							<img class="lazyImage"
+								data-cfsrc="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								data-original="https://www.denizbutik.com/Uploads/Images/denizbutikteam.jpg" alt="e-Adam"
+								style="display:none;visibility:hidden;"><noscript><img class="lazyImage"
+									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									data-original="https://www.denizbutik.com/Uploads/Images/denizbutikteam.jpg"
+									alt="e-Adam"></noscript>
+						</a>
+						<div class="T">MERHABA, BİZ DENİZ BUTİK!</div>
+						<p>Milyonlarca takipçimiz ve yüzbinlerce müşterimiz ile perakende ve e-ticarette
+							Türkiye'nin en hızlı büyüyen, bilinirliği ve güvenilirliği en yüksek fenomen
+							kadın giyim markasıyız. Kadın dayanışması ve gücüne inanıyoruz, çalışma
+							arkadaşlarımızın %95'i kadınlardan oluşuyor. Bizim hakkımızda daha fazla bilgi
+							alabileceğiniz tanıtım filmimizi izlemek için görselin üzerine tıklayın.</p>
+					</section>
+				</div>
+			</div>
+		</div>
+	</section>
+<!--
+</div>
+-->

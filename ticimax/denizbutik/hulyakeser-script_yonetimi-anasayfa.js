@@ -1,4 +1,5 @@
 // Anasayfa
+  /*
   var html = $('<div class="storyMainCont" id="story">' +
     '<div class="slideLeftBTN">' +
     '<img class="slideLeftBTNimg" src="/Uploads/EditorUploads/left.jpg" >' +
@@ -11,6 +12,7 @@
     '<img class="slideRightBTNimg" src="/Uploads/EditorUploads/right.jpg" >' +
     '</div>' +
     '</div>');
+  */
   //$("#mainHolder_divDesign > section:first-child").before(html);
 
   $(".slideRightBTN").on("click", function () {
