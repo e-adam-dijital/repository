@@ -2755,6 +2755,7 @@
 			</div>
 		</div>
 	</section>
+	<!--
 	<section class="landing-block  t-mt-10 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
 		<div class="ticiContainer hazirBlokContent">
 			<div class="txrow">
@@ -2768,6 +2769,7 @@
 			</div>
 		</div>
 	</section>
+	-->
 	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
 		<div class="ticiContainer hazirBlokContent">
 			<div class="txrow">

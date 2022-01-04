@@ -56,6 +56,7 @@ $('.headerTop').prependTo('#header');
  
 //  Tüm Sayfalar 
 
+/*
   $(document).ready(function(){
     if ( window.innerWidth > 769 ){
     $("#header .headerTop").append(`
@@ -75,6 +76,7 @@ $('.headerTop').prependTo('#header');
   `);
 }
     })
+*/
 	
 	
 $(document).ready(function () {
