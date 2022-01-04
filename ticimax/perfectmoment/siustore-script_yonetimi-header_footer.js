@@ -5,7 +5,7 @@
         $(".navigation").hover(function () {
             $(".navHover").toggle();
         });
-  $(".mobilMenu #HeaderMenu2").before('<img src="/Uploads/EditorUploads/basliksiz-1siu.jpg" class="mobilMenuGorsel">')
+  $(".mobilMenu #HeaderMenu2").before('<img src="https://www.siustore.co/Uploads/EditorUploads/basliksiz-1siu.jpg" class="mobilMenuGorsel">')
     });
 
 

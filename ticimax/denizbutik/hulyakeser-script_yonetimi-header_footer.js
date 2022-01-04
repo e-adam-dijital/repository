@@ -8,7 +8,7 @@
   switch (kategoriAd) {
         case 'Elbise':
           $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/elbise.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/elbise.jpg" alt="mobilMenu" />')
             break;
 
         case 'Takım':
@@ -23,7 +23,7 @@
 
           case 'Abiye':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/abiye.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/abiye.jpg" alt="mobilMenu" />')
             break; 
       
        case 'Kaban':
