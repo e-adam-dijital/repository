@@ -1,4 +1,3 @@
-    /* Ürün Detay Zoom Tipi: Standart */
     .Images.imageZoomPreview,
     #divVideoGoruntulemeAlan {
       display: none!important;
@@ -385,3 +384,28 @@
     .slider-checkbox.round:before {
       border-radius: 50%;
     }
+	
+	
+/* Hataları düzeltme amaçlı eklenen ek kodlar: */
+@media (min-width: 768px) {
+  #divProductGalleryThumb {
+    display: none;
+  }
+
+  .ProductGallery .gallery-container .GalleryArea {
+    margin-left: 0;
+  }
+  #divProductImageCarousel.owl-carousel .owl-stage {
+    width: auto!important;
+  }
+  #divProductImageCarousel.owl-carousel.owl-drag .owl-item {
+    width: 100%!important;
+  }
+  #divProductImageCarousel.owl-carousel.owl-drag .owl-item a img {
+    width: 100%;
+  }
+  #div-drift-container.drift-container.drift-index,
+  body > .drift-bounding-box.drift-open {
+    display:none!important;
+  }
+}

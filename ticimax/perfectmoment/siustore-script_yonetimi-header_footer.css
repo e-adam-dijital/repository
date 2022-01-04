@@ -711,7 +711,7 @@ display: none;
   }
 
 	.fixed-whatsapp::before{
-	background-image: url("/Uploads/EditorUploads/whatsapp-white.png");
+	background-image: url("https://www.siustore.co/Uploads/EditorUploads/whatsapp-white.png");
     }
      .fixed-whatsapp::before {
 	content: " " !important;

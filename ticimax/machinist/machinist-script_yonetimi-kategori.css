@@ -1,0 +1,24 @@
+
+/* Hata düzeltmesi için eklenen kodlar : */
+
+body #divLeftBlock.leftBlock.LeftMiddle .filterBlock { /* body #divSayfalamaUst .filterBlock */
+  float: left;
+  border: none;
+  border-radius: 0;
+  width: 100%;
+  background: rgba(255,255,255,.96);
+  position: absolute;
+  top: -170px;
+  right: 0;
+  z-index: 9999;
+  padding: 205px 0 55px;
+  display: none !important;
+}
+#divLeftBlock.leftBlock.LeftMiddle {
+  width: auto;
+}
+
+#divCenterBlock.centerCount.LeftMiddle {
+  width: 100%;
+  padding: 0;
+}
