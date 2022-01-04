@@ -1118,7 +1118,7 @@ body.HomeBody{padding-top: 0;}
 .categorydesign h1 { font-size: 25px; font-weight: 500; line-height: 30px; }
 
 body #divSayfalamaUst.Slct .brandlistselection .sortingContent li { height: auto; float: left; padding: 0; background:none; margin-right: 30px; }
-body #divSayfalamaUst.Slct .brandlistselection .sortingContent select { float: left; height: 75px; color: #000; font-size: 14px; font-weight: 400; border: none; background: 0 0; border-radius: 0; padding: 0; -webkit-appearance: none; -ms-appearance: none; -moz-appearance: none; -o-appearance: none; text-transform: uppercase; width: 140px; background: url(/CustomCss/ticimax/images/icon/arrow-down.svg) center right no-repeat; }
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent select { float: left; height: 75px; color: #000; font-size: 14px; font-weight: 400; border: none; background: 0 0; border-radius: 0; padding: 0; -webkit-appearance: none; -ms-appearance: none; -moz-appearance: none; -o-appearance: none; text-transform: uppercase; width: 140px; background: url(https://www.machinist.com.tr/CustomCss/ticimax/images/icon/arrow-down.svg) center right no-repeat; }
 body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock { padding: 0; background: 0 0; color: #000; font-size: 14px; }
 body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock:before { content: ''; width: 14px; height: 14px; border: 1px solid #707070; float: left; margin-top: 30px; margin-right: 10px; }
 body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock.selected:before{background: #707070;}
@@ -1136,8 +1136,8 @@ body #divSayfalamaUst.Slct .blockSelect { display: block !important; padding: 0;
 .FiltreToggle { float: right; cursor: pointer; line-height: 75px; font-size: 14px; font-weight: 500; color: #E92D2D; margin-left: 20px; text-indent: 0; }
 
 .favori{display: block!important; position: absolute; top: 10px; right: 10px; }
-.favori a:before{content:''; background: url(/CustomCss/ticimax/images/icon/fav.svg) #fff no-repeat center / 18px; width: 35px; height: 35px; width: 35px; height: 35px; border-radius: 50%; display: block; }
-.favori a:hover:before, .favori a.listfavoriAktif:before{background-image: url(/CustomCss/ticimax/images/icon/fav-dark.svg);}
+.favori a:before{content:''; background: url(https://www.machinist.com.tr/CustomCss/ticimax/images/icon/fav.svg) #fff no-repeat center / 18px; width: 35px; height: 35px; width: 35px; height: 35px; border-radius: 50%; display: block; }
+.favori a:hover:before, .favori a.listfavoriAktif:before{background-image: url(https://www.machinist.com.tr/CustomCss/ticimax/images/icon/fav-dark.svg);}
 
 .boxBedenlerContent { position: absolute; left: 0; right: 0; bottom: 120px; background: rgb(0 0 0 / 57%); }
 .boxBedenlerContainer { overflow: hidden; overflow-x: auto; white-space: nowrap; height: 40px; }

@@ -1,5 +1,43 @@
 /* Tüm Sayfalar - Header */
 
+  @media(min-width: 1200px){
+  body #divHeaderCart > a::before{
+  content:"";
+  background: url(https://www.machinist.com.tr/Uploads/EditorUploads/sepetim-corap.png); /* /Uploads/EditorUploads/layer-1.png */
+  width: 25px;
+  height: 25px;
+  background-size: contain;
+  display: block;
+  position: relative;
+  left: 12px; /* 6px */
+  }
+}
+
+/*Yilbasi bitince kaldirilacak*/
+@media (max-width: 767.98px) {
+  body .mycartClick > .fa-shopping-cart::before{
+    content:"";
+    background: url(https://www.machinist.com.tr/Uploads/EditorUploads/sepetim-corap.png);
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    display: block;
+    position: relative;
+    top: 12px;
+  }
+    body .cartC .fa-shopping-cart::before{
+    content:"";
+    background: url(https://www.machinist.com.tr/Uploads/EditorUploads/sepetim-corap.png);
+    width: 18px;
+    height: 18px;
+    background-size: contain;
+    margin: 0 auto;
+    display: block;
+  }
+}
+/*Yilbasi bitince kaldirilacak*/
+
+
 body .FooterGuvenList {
 margin-top: 76px;
 }
@@ -144,7 +182,7 @@ display: none;
   }
 
 	.fixed-whatsapp::before{
-	background-image: url("/Uploads/EditorUploads/whatsapp-white.png");
+	background-image: url("https://www.machinist.com.tr/Uploads/EditorUploads/whatsapp-white.png");
     }
      .fixed-whatsapp::before {
 	content: " " !important;

@@ -358,7 +358,7 @@ function mobileMenu() {//Mobil Menu ve mobil scriptler
     var menuKopya = $(' .navigation').html();
     $('body').prepend('<div class="mobilMenu"><div class="menuUstBolum"><div class="menuBack"><i class="far fa-bars"></i><span>Menu</span></div><div class="CloseBtnMenu"><i class="far fa-times"></i></div></div><div class="menuIcerikAlan">' + menuKopya + '</div></div>');
     $('.headerContent').prepend('<div class="mobilMenuAcButton"><span>Menu</span><i class="far fa-bars"></i></div><div class="searchClick"><i class="fal fa-search"></i></div><div class="welcomeOpen"><i class="fal fa-user"></i></div><div class="mycartClick"><i class="fal fa-shopping-cart" ></i></div>');
-    $('.menuIcerikAlan').after('<div class="mobilMenuEx"><span>Canlı Destek Hattı - +90(533) 593 77 31</span><ul><li><a href="#"><img src="/CustomCss/ticimax/images/icon/delivery.svg" />SİPARİŞİM NEREDE?</a></li><li><a href="#"><img src="/CustomCss/ticimax/images/icon/wholesale.svg" />WHOLESALE</a></li></ul></div>');
+    $('.menuIcerikAlan').after('<div class="mobilMenuEx"><span>Canlı Destek Hattı - +90(533) 593 77 31</span><ul><li><a href="#"><img src="https://www.machinist.com.tr/CustomCss/ticimax/images/icon/delivery.svg" />SİPARİŞİM NEREDE?</a></li><li><a href="#"><img src="https://www.machinist.com.tr/CustomCss/ticimax/images/icon/wholesale.svg" />WHOLESALE</a></li></ul></div>');
     $("#lang_flag_container").insertBefore(".mobilMenuEx span");
     //Resimli Menu
     if ($('.mobilMenu .ResimliMenu1').length > 0) {
