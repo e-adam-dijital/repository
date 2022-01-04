@@ -1,0 +1,116 @@
+<!-- Bu Alandaki CSS vs JS Kodları machinist-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<div class="headerTop"><!-- <div class="ticiContainer">
+  <div class="supportDiv">Canlı Destek Hattı - +90(533) 593 77 31</div>
+  TÜM ALIŞVERİŞLERİNİZDE ÜCRETSİZ KARGO VE %100 İADE GARANTİSİ</div> --></div>
+<!--<script>
+  $('.headerTop').prependTo('#header');
+  </script>
+  -->
+  <a class="logo" href="/"><img alt="Alternate Text" src="/Uploads/Images/e-adam-logo.png" /></a>
+
+<div class="searchDown">
+<div class="sc-searchContainer">
+<!--
+<script type="text/javascript">
+              $(document).ready(function () {
+                  var templateTab = $("#TicimaxTab1").html();
+                  $.get("/Templates/100/Urun/UrunItem.html", function (data) {
+                      Handlebars.registerPartial("productItem", data);
+                      var filterModel = createProductFilterModel();
+                      filterModel.filter.CategoryIdList.push(1);
+                      filterModel.paging.PageItemCount = 8;
+                      createProductDiv(1, filterModel, templateTab, "tab1_1");
+                  });
+              });
+              function tab1_2() {
+                  if ($('#tab1_2 .ProductList').length == 0) {
+                      var templateTab = $("#TicimaxTab1").html();
+                      var filterModel = createProductFilterModel();
+                      filterModel = createProductFilterModel();
+                      filterModel.filter.CategoryIdList.push(1);
+                      filterModel.paging.PageItemCount = 8;
+                      createProductDiv(2, filterModel, templateTab, "tab1_2");
+                  }
+              }
+              function tab1_3() {
+                  if ($('#tab1_3 .ProductList').length == 0) {
+                      var templateTab = $("#TicimaxTab1").html();
+                      var filterModel = createProductFilterModel();
+                      filterModel = createProductFilterModel();
+                      filterModel.filter.CategoryIdList.push(1);
+                      filterModel.paging.PageItemCount = 8;
+                      createProductDiv(3, filterModel, templateTab, "tab1_3");
+                  }
+              }
+              function tab1_4() {
+                  if ($('#tab1_4 .ProductList').length == 0) {
+                      var templateTab = $("#TicimaxTab1").html();
+                      var filterModel = createProductFilterModel();
+                      filterModel = createProductFilterModel();
+                      filterModel.filter.CategoryIdList.push(1);
+                      filterModel.paging.PageItemCount = 8;
+                      createProductDiv(3, filterModel, templateTab, "tab1_4");
+                  }
+              }
+          </script>
+		  -->
+		  <script id="TicimaxTab1" type="text/x-handlebars-template">
+              <div class="ProductList"> <div class="sliderBannerContainer NoSlider"> <div class="jCarouselLite"> <ul> {{#each products}} <li> <div class="productItem"> {{> productItem }} </div> </li> {{/each}} </ul></div> </div> </div>
+          </script>
+<div class="AnasayfaTab" id="anasayfatab">
+<div class="ticiContainer">
+<div class="_tabHead">
+<div class="_tabHead-title"><span>Popüler Kategoriler</span></div>
+
+<ul class="_clearfix">
+	<li class="_tabHead_active"><span>Gömlek</span></li>
+	<li onclick="tab1_2();"><span>T-Shirt</span></li>
+	<li onclick="tab1_3();"><span>Pantolon</span></li>
+	<li onclick="tab1_4();"><span>Ceket</span></li>
+</ul>
+</div>
+
+<div class="anasayfaTabAlt active">
+<div class="title">Gömlek</div>
+
+<div id="tab1_1">&nbsp;</div>
+</div>
+
+<div class="anasayfaTabAlt">
+<div class="title">T-Shirt</div>
+
+<div id="tab1_2">&nbsp;</div>
+</div>
+
+<div class="anasayfaTabAlt">
+<div class="title">Pantolon</div>
+
+<div id="tab1_3">&nbsp;</div>
+</div>
+
+<div class="anasayfaTabAlt">
+<div class="title">Ceket</div>
+
+<div id="tab1_4">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer-whatsapp-fix" style="display: none;"><a href="https://api.whatsapp.com/send?phone=905335937731&amp;text=Sipari%C5%9F%20vermek%20istiyorum" title="WhatsApp Sipariş"><i aria-hidden="true" class="fa fa-whatsapp"></i>Merhaba</a></div>
+<!--
+<style type="text/css">.footer-whatsapp-fix{display:none;}
+  
+  @media screen and (max-width: 767px) {
+  
+   .footer-whatsapp-fix{display:block;position:fixed;bottom:0;width:100%;line-height:50px;background:#0dc143;text-align:center;z-index:99999;}
+  
+   .footer-whatsapp-fix a{color:#fff;font-size:16px;display:block;}
+  
+   .footer-whatsapp-fix a i{color:#fff;font-size:19px;margin-right:5px ; }
+  
+   }
+</style>
+-->

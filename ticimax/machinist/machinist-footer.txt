@@ -1,0 +1,61 @@
+<!-- Bu Alandaki CSS vs JS Kodları machinist-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<div class="BlokFooter">
+<div class="BlokFooterContent">
+<div class="FooterGuvenList">
+<ul>
+	<li>
+	<div class="gl-Card">
+	<div class="icBox"><img alt="Alternate Text" src="https://www.machinist.com.tr/CustomCss/ticimax/images/icon/guvenli.svg" /></div>
+	<span>Güvenli Alışveriş</span></div>
+	</li>
+	<li>
+	<div class="gl-Card">
+	<div class="icBox"><img alt="Alternate Text" src="https://www.machinist.com.tr/CustomCss/ticimax/images/icon/kargo.svg" /></div>
+	<span>Ücretsiz Kargo</span></div>
+	</li>
+	<li>
+	<div class="gl-Card">
+	<div class="icBox"><a href="/teslim-ve-Iade-Bildirimi"><img alt="Alternate Text" src="https://www.machinist.com.tr/CustomCss/ticimax/images/icon/iade.svg" /></a></div>
+	<a href="/teslim-ve-Iade-Bildirimi"><span>Kolay Değişim ve İade</span></a></div>
+	</li>
+</ul>
+</div>
+
+<div class="FooterEbulten">
+<div class="FooterEbultenWrap">
+<div class="Ebulten-Title">E - BÜLTENE KAYIT OL</div>
+
+<div class="Ebulten-SubTitle">E-Bültene kayıt ol fırsat &amp; indirimleri kaçırma!</div>
+
+<div class="ebultenGelecek">&nbsp;</div>
+
+<div class="Ebulten-Txt"><input type="checkbox" value="" />
+<p><a href="/Gizlilik">Gizliliği onaylıyorum.</a> Kampanya, ürün ve yeniliklerden haberdar edilmek için tarafıma e-posta ve/veya SMS gönderilmesine açık rızamla izin veriyorum.</p>
+
+<p>E-posta adresiniz, e-bülten üyesi olarak kampanya, ürün ve yeniliklerden haberdar edilebilmeniz için alınmaktadır. Kişisel verilern işlenmesi ile ilgili detaylı bilgiye <a href="/kvkk-metni">buradan</a> ulaşabilirsiniz.</p>
+</div>
+</div>
+</div>
+
+<div class="socialdiv">
+<ul>
+	<li><a href="https://www.instagram.com/machinistclothing/"><i class="fab fa-instagram"></i></a></li>
+	<li><a href="https://www.facebook.com/machinistclothingcom"><i class="fab fa-facebook-f"></i></a></li>
+	<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+</ul>
+</div>
+
+<div class="FooterMenu">
+<ul>
+	<li><a href="/hakkimizda">Hakkımızda</a></li>
+	<li><a href="/kvkk-metni">KVKK Aydınlatma Metni</a></li>
+	<li><a href="/Mesafeli_Satis_Sozlesmesi">Kullanım Sözleşmesi</a></li>
+	<li><a href="/Gizlilik">Bilgi Toplumu Hizmetleri</a></li>
+</ul>
+</div>
+
+<div class="FooterCopy">© 2021 e-adam.com - Tüm Hakları Saklıdır.</div>
+</div>
+</div>
+<a href="https://www.e-adam.com" style="display: block;float: left;width: 100%;" target="_blank"><img src="/Uploads/Images/e-adam-logo.png" style="max-width: 120px; padding: 15px 0 0;margin: 0 auto;" /> </a>
