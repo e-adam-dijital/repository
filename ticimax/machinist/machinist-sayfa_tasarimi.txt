@@ -14,6 +14,13 @@
 								type="video/mp4">
 							</source>
 						</video>
+						<video class="video-banner-mobile" width="100%" height="auto" autoplay="autoplay"
+							loop="loop" muted="" playsinline="">
+							<source
+								src="https://player.vimeo.com/external/653736116.sd.mp4?s=9d49583dfe8937b19a235665f5bb774ff7007b1b&profile_id=165"
+								type="video/mp4">
+							</source>
+						</video>
 					</a>
 				</div>
 			</div>
