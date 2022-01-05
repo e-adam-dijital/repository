@@ -92,6 +92,7 @@ $(".PhoneAction .pCode >span").text(productDetailModel.productId)
    
    
   $(document).ready(function(){
+  /*
   var code = "<div class='product-day-cargo' style=''><i class='fa fa-truck'></i>Siparişiniz 24 saat içinde kargoda</div>"
     $('.BasketBtn').after(code);
   
@@ -107,7 +108,7 @@ $(".PhoneAction .pCode >span").text(productDetailModel.productId)
       }
    
 	}, 1000);
-
+  */
   
   	
 });
