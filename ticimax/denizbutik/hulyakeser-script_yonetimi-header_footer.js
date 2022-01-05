@@ -1,43 +1,45 @@
 // Tüm Sayfalar - Header 
 
   $(document).ready(function(){
-  //$(".mobilMenu #HeaderMenu2 > li:first-child").before(`<li><a href="/" target="_self" title="anasayfa"><img src="/Uploads/EditorUploads/anasayfa.jpg" alt="mobilMenu"></a></li>`)
+	$(".mobilMenu #HeaderMenu2 > li:first-child").before(`<li><a href="/" target="_self" title="anasayfa"><img src="https://www.hulyakeser.com/Uploads/EditorUploads/anasayfa.jpg" alt="mobilMenu"></a></li>`)
 	 $(".mobilMenu #HeaderMenu2 > li > a").each(function(){
   var kategoriAd = $(this).text();
   console.log(kategoriAd)
   switch (kategoriAd) {
-        case 'Elbise':
+        case 'Yeni Gelenler':
           $(this).text("");
-          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/elbise.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="/Uploads/EditorUploads/yeni-gelenler.jpg" alt="mobilMenu" />')
             break;
 
-        case 'Takım':
+        case 'Üst Giyim':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/takim.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="/Uploads/EditorUploads/ust-giyim.jpg" alt="mobilMenu" />')
             break;
 
-         case 'Şal':
+         case 'Alt Giyim':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/sal.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="/Uploads/EditorUploads/alt-giyim.jpg" alt="mobilMenu" />')
             break;
 
-          case 'Abiye':
+          case 'Dış Giyim':
        $(this).text("");
-          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/abiye.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="/Uploads/EditorUploads/dis-giyim.jpg" alt="mobilMenu" />')
             break; 
       
-       case 'Kaban':
+       case 'Çok Satanlar':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/kaban.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="/Uploads/EditorUploads/cok-satanlar" alt="mobilMenu" />')
             break; 
+	   /*
        case 'HK Collection':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/hk-collection.jpg" alt="mobilMenu" />')
+          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/hk-collection.jpg" alt="mobilMenu" />')
             break; 
        case 'Abaya':
        $(this).text("");
-          $(this).append('<img src="/Uploads/EditorUploads/abaya.jpg" alt="mobilMenu" />')
-            break; 
+          $(this).append('<img src="https://www.hulyakeser.com/Uploads/EditorUploads/abaya.jpg" alt="mobilMenu" />')
+            break;
+	   */
     
     }
 });
