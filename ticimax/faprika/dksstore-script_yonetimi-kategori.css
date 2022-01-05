@@ -179,7 +179,7 @@ right: 5px;
   
         html body #divSayfalamaUst .blockSelect a.Active i::before {
             content: "";
-            background-image: url(https://dgn.ticimaxeticaret.com/Uploads/EditorUploads/3lu-active.png?t=20211004112512);
+            background-image: url(/Uploads/EditorUploads/3lu-active.png?t=20211004112512);
             width: 50px;
             height: 35px;
             background: ;
@@ -189,7 +189,7 @@ right: 5px;
   
         html body #divSayfalamaUst .blockSelect .sort_3 i::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/3lu-inactive.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/3lu-inactive.png);
             width: 50px;
             height: 35px;
             background-size: 50px;
@@ -197,12 +197,12 @@ right: 5px;
         }
   
         html body #divSayfalamaUst .blockSelect .sort_3.Active i::before {
-            background-image: url(/Uploads/EditorUploads/3lu-active.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/3lu-active.png);
         }
   
         html body #divSayfalamaUst .blockSelect .sort_4.Active i::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/4lu-active.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/4lu-active.png);
             width: 55px;
             height: 30px;
             background-size: 55px;
@@ -211,7 +211,7 @@ right: 5px;
   
         html body #divSayfalamaUst .blockSelect .sort_4 i::before {
             content: "";
-            background-image: url(/Uploads/EditorUploads/4lu-inactive.png);
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/4lu-inactive.png);
             width: 55px;
             height: 30px;
             background-size: 55px;
