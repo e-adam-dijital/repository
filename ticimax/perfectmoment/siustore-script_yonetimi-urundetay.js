@@ -58,7 +58,8 @@
     const observerImages = new MutationObserver(callbackImages);
     
     // Start observing the target node for configured mutations
-    observerImages.observe(targetImagesNode, configImages);
+	/* Demo sitede (eadam.ticimaxtest) Standart Slider yerine Zoom Slider'a geçince oluşan hatayı önlemek için pasif hale getirildi: */
+    //observerImages.observe(targetImagesNode, configImages);
     
     if(window.innerWidth >= 769) {
       var divUrunOzellikAlani = document.querySelector("#divUrunOzellikAlani");

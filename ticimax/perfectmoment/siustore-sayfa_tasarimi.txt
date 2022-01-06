@@ -9,7 +9,7 @@
 				<div class="txcol-sm">
 					<div class="owl-carousel owl-theme anasayfa_tek_slider">
 						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
-								data-src="https://eadam.ticimaxtest.com/Uploads/EditorUploads/siustore-anasayfa.jpg"
+								data-src="/Uploads/EditorUploads/siustore-anasayfa.jpg"
 								alt="title"></a>
 						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
 								data-src="https://www.siustore.co/Uploads/SayfaTasarim/Sayfa1/title-717b03d4-d.jpg"
