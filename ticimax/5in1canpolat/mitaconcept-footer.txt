@@ -383,7 +383,7 @@
 </div>
 </div>
 </div>
-<a href="https://www.e-adam.com/" target="_blank"><img src="/Uploads/EditorUploads/e-adam_logo.png" style="margin: 0 auto; padding-top: 20px" width="100" /> </a>
+<a href="https://www.e-adam.com/" target="_blank"><img src="/Uploads/Images/e-adam-logo.png" style="margin: 0 auto; padding-top: 20px" width="100" /> </a>
 <!--
 <script>
   var windowidth = window.innerWidth; //window width orani
