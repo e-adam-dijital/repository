@@ -11,19 +11,19 @@
 						<a class="blokResimLink" href="/Arama?1&kelime=JEANS"
 							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
 								class="lazyImage editable"
-								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-b5fa.jpg"
 								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-b5fa.jpg"
 								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
 						<a class="blokResimLink" href="/Arama?1&kelime=BAD%20BEAR"
 							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
 								class="lazyImage editable"
-								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-70a9.jpg"
 								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-70a9.jpg"
 								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
 						<a class="blokResimLink" href="/Arama?1&kelime=KAPPA"
 							title="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"><img
 								class="lazyImage editable"
-								src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+								src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-78df.jpg"
 								data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/DGN---DOGAN-CANTA--Kalitenin-ve-sikligin-78df.jpg"
 								alt="DGN - DOĞAN ÇANTA | Kalitenin ve şıklığın güvenilir adresi"></a>
 					</div>
@@ -39,56 +39,56 @@
 						<div class="txcol-6 tm-mb-10 txcol-sm-3 t-mb-20 box-t-mb-15">
 							<a class="blokResimLink" href="/firsat-urunleri"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9fd0546d-0.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9fd0546d-0.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 tm-mb-10 txcol-sm-3">
 							<a class="blokResimLink" href="/out-door"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-a7dd1888-4.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-a7dd1888-4.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 tm-mb-10 txcol-sm-3">
 							<a class="blokResimLink" href="/sweatler"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-96caebed-f.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-96caebed-f.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 tm-mb-10 txcol-sm-3">
 							<a class="blokResimLink" href="/mont-ve-ceket"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-f7b7d7af-d.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-f7b7d7af-d.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 tm-mb-10 txcol-sm-3">
 							<a class="blokResimLink" href="/botlar-ve-cizmeler"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-e4af5d26-a.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-e4af5d26-a.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 tm-mb-10 txcol-sm-3">
 							<a class="blokResimLink" href="/jean-modelleri"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-fe3c4401-7.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-fe3c4401-7.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 txcol-sm-3">
 							<a class="blokResimLink" href="/saatler"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9daa80e5-6.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-9daa80e5-6.jpg"
 									alt="title"></a>
 						</div>
 						<div class="txcol-6 txcol-sm-3">
 							<a class="blokResimLink" href="/cocuk-urunleri"
 								title="title"><img class="lazyImage editable"
-									src="https://cdn.ticimax.com/Uploads/Images/blank.png"
+									src="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-aad301a0-d.jpg"
 									data-original="https://www.dgn.com.tr/Uploads/SayfaTasarim/Sayfa1/title-aad301a0-d.jpg"
 									alt="title"></a>
 						</div>
