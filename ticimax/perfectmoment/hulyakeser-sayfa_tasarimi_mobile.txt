@@ -9,10 +9,10 @@
 				<div class="txcol-sm">
 					<div class="owl-carousel owl-theme anasayfa_tek_slider">
 						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
-								data-src="/Uploads/EditorUploads/siustore-anasayfa.jpg"
+								data-src="/Uploads/EditorUploads/siustore-anasayfa_mobile.jpg"
 								alt="title"></a>
 						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
-								data-src="/Uploads/EditorUploads/siustore-anasayfa-2.jpg"
+								data-src="/Uploads/EditorUploads/siustore-anasayfa-2_mobile.jpg"
 								alt="title"></a>
 					</div>
 				</div>
