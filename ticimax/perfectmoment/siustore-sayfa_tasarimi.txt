@@ -25,13 +25,13 @@
 				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
 					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
 							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-							data-original="https://www.siustore.co/Uploads/SayfaTasarim/Sayfa1/title-d90762b2-4.jpg"
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-1.jpg"
 							alt="title"></a>
 				</div>
 				<div class="txcol-12 txcol-sm-6">
 					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
 							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-							data-original="https://www.siustore.co/Uploads/SayfaTasarim/Sayfa1/title-f7ca817c-d.jpg"
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-2.jpg"
 							alt="title"></a>
 				</div>
 			</div>
@@ -43,13 +43,13 @@
 				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
 					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
 							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-							data-original="https://www.siustore.co/Uploads/SayfaTasarim/Sayfa1/title-771ae243-5.jpg"
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-3.jpg"
 							alt="title"></a>
 				</div>
 				<div class="txcol-12 txcol-sm-6">
 					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
 							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-							data-original="https://www.siustore.co/Uploads/SayfaTasarim/Sayfa1/title-a5280174-9.jpg"
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-4.jpg"
 							alt="title"></a>
 				</div>
 			</div>
