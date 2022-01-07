@@ -7,7 +7,7 @@
       })
 
 
-document.querySelector(".sepetHizliKargo span").textContent = "Tahmini Kargoya Veriliş Süresi";
+//document.querySelector(".sepetHizliKargo span").textContent = "Tahmini Kargoya Veriliş Süresi"; /* Demoda hataya neden olduğu için pasife alındı */
 
 
 /* Sipariş Tamamla */
