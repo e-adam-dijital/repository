@@ -35,7 +35,7 @@
                             $(".RightDetail .MiddleList .basketBtn .Addtobasket").val("");
                             $("body").removeClass("ticiDialog");
                             document.querySelector("html body .basketBtn input").style.cssText =
-                                "background: green !important;background-image: url(/Uploads/EditorUploads/checkmark_52px.png) !important;background-repeat: no-repeat !important;background-position: center !important;background-size: auto 80% !important;";
+                                "background: green !important;background-image: url(https://www.dksstore.com/Uploads/EditorUploads/checkmark_52px.png) !important;background-repeat: no-repeat !important;background-position: center !important;background-size: auto 80% !important;";
                             setTimeout(function () {
                                 $("html body .sepeteEklendi").fadeOut(1500);
                                 $("body").removeClass("ticiDialog");
@@ -56,7 +56,7 @@
                     $(".RightDetail .MiddleList .basketBtn .Addtobasket").val("");
                     $("body").removeClass("ticiDialog");
                     document.querySelector("html body .basketBtn input").style.cssText =
-                        "background: green !important;background-image: url(/Uploads/EditorUploads/checkmark_52px.png) !important;background-repeat: no-repeat !important;background-position: center !important;background-size: auto 80% !important;";
+                        "background: green !important;background-image: url(https://www.dksstore.com/Uploads/EditorUploads/checkmark_52px.png) !important;background-repeat: no-repeat !important;background-position: center !important;background-size: auto 80% !important;";
                     setTimeout(function () {
                         $("html body .sepeteEklendi").fadeOut(1500);
                         $("body").removeClass("ticiDialog");
