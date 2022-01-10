@@ -4,9 +4,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"><img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi1.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi1.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Sigortalı Kargo</b><br>
@@ -18,9 +18,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"><img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi2.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi2.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Kredi Kartı, Havale ve<br>Kapıda</b> Ödeme
@@ -31,9 +31,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"><img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi3.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi3.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Günlük Üretim</b><br>
@@ -45,9 +45,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"><img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi4.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi4.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Ücretsiz Kargo</b><br>
@@ -59,9 +59,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"> <img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi5.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi5.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Müşteri Hizmetleri</b><br>0539 777 4600
@@ -72,9 +72,9 @@
             <div class="col-12 border_six">
                 <div class="col-12 text-center pb">
                     <a href="#"><img
-                            src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                            data-src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi6.png"
-                            class="lazy" alt=""></a>
+                            lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                            src="https://www.hacimustafa.com/Data/EditorFiles/six_div_banner/bilgi6.png"
+                            class="no-lazy" alt=""></a>
                 </div>
                 <div class="col-12 six_banner_text">
                     <b>Soğuk Gönderim</b><br>Buzlu ve Strafor Kutuda
@@ -87,16 +87,16 @@
     <div class="row">
         <div class="box col-6 col-sm-12 pos-r">
             <a href="/lokum"><img
-                    src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    data-src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/LOKUM.jpg"
-                    class="lazy" width="100%" alt="lokumlar">
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/LOKUM.jpg"
+                    class="no-lazy" width="100%" alt="lokumlar">
             </a>
         </div>
         <div class="box col-6 col-sm-12 pos-r">
             <a href="/baklava-burma"><img
-                    src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    data-src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/BAKLAVA.jpg"
-                    class="lazy" width="100%" alt="baklava">
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/BAKLAVA.jpg"
+                    class="no-lazy" width="100%" alt="baklava">
             </a>
         </div>
     </div>
