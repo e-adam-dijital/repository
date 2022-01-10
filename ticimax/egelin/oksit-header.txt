@@ -1,0 +1,14 @@
+<!-- Bu Alandaki CSS vs JS Kodları oksit-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<a class="logo" href="/"><img src="/Uploads/Images/e-adam-logo.png" /></a>
+<div class="htop">
+<div class="ticiContainer">
+<div class="pull-center">
+<div class="HeadSoc">
+<ul>
+	<li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram" style="margin-top: 12.5px;color: #fff;font-size: 15px;"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>

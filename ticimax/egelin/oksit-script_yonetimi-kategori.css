@@ -1,0 +1,188 @@
+  body .cargoIcon {
+display: none;
+}
+
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent li {
+	float: right;
+	margin-right: 0;
+}
+
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent li:first-child {
+	margin-left: 10px;
+}
+
+body ul.breadcrumb li:nth-child(1) a::before,
+.appliedFilter.FiltrelemeUrunAdet span {
+  display:none;
+}
+
+.categoryTitleText {
+  position: relative;
+  z-index: 1;
+}
+
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+  border: unset;
+  text-align: center;
+  text-align-last: center;
+}
+
+body #divSayfalamaUst .blockSelect {
+  margin-right: 15px;
+}
+
+body #divSayfalamaUst .blockSelect .sort_4 {
+  margin-left: 8px;
+  padding-left: 8px;
+}
+
+body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock span,
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent select 
+{
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.leftBlock .panel:first-child > ul > li:first-child > a {
+    font-size: 20px !important;
+    font-weight: 500!important;
+}
+
+.leftBlock .panel-heading a {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.leftBlock .panel:first-child .panel-heading {
+  display: none;
+}
+
+.pageBorder a {
+  min-width: 35px;
+  height: 35px;
+  line-height: 35px;
+  margin: 0 2px;
+  font-size: 16px;
+}
+
+.pageBorder a.SelectedSayfa {
+  background: #000;
+  border-color: #000;
+}
+
+.pageNumberBottom {
+  text-align: center;
+}
+
+.pageBorder a:first-child {
+  margin-right: 35px
+}
+
+.pageBorder a:last-child {
+  margin-left: 35px;
+}
+
+.cargoIcon {
+  bottom: 140px;
+  opacity: 0.8;
+}
+
+@media (min-width: 1200px) {
+
+  body #divSayfalamaUst {
+    padding-top: 15px;
+    padding-bottom: 20px;
+  }
+  
+  .categoryTitleText .breadcrumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .categoryContainer .ProductListContent .productItem {
+	margin-bottom: 45px;
+  }
+
+  .productItem .productName {
+    margin: 0 0 10px;
+  }
+}
+
+@media (max-width: 1199px) {
+  
+  body {
+    padding-top: 120px;
+  }
+  
+  body #divSayfalamaUst.Slct .brandlistselection .sortingContent li {
+    margin-right: 0;
+	border: unset;
+  }
+  
+  .categoryTitle {
+    display: flex;
+    align-items: center;
+	border-top: 2px solid #ebebeb;
+	border-bottom: 2px solid #ebebeb;
+  }
+  
+  body #divSayfalamaUst,
+  .categoryTitleText {
+	width: 50%;
+	border: unset;
+  }
+
+  .categoryContainer .ProductList {
+    margin: 0;
+  }
+  
+  .categoryContainer .ProductListContent .productItem {
+	margin-bottom: 25px;
+  }
+  
+  body #divSayfalamaUst.Slct .brandlistselection {
+	border-right: unset;
+  }
+  
+  body ul.breadcrumb li::after,
+  body ul.breadcrumb * {
+    line-height: 15px !important;
+  }
+  body ul.breadcrumb {
+    line-height: 1;
+  }
+  
+  .cargoIcon {
+    bottom: 150px;
+    opacity: 0.8;
+  }
+
+}
+
+
+    .kampanyaYazisi {
+        display: block !important;
+    }
+    .kampanyaYazisi > span:first-of-type {
+        font-size: 16px;
+    }
+    .kampanyaYazisi > span:last-of-type {
+        color: #f00;
+        font-weight: 600;
+    }
+
+    .ozelEtiketGorseli {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 60px;
+    }
+
+    .productIcon .favori {
+        bottom: 55px;
+    }
+	
+	
+	

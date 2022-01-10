@@ -1,0 +1,228 @@
+/* Anasayfa */
+
+.InstaGallery .item {display: block !important; }
+.ResimGaleri {margin-bottom: 30px; }
+#mainHolder_divDesign .instashop-context a.AllImages {line-height: 1; padding: 12px 5px; text-transform: capitalize; font-weight: normal; }
+.InstaGallery-content .owl-nav .InstaGallerynext span { display: none;}
+#mainHolder_divDesign .InstaGallery .InstaGallery-tag {display: block!important;}
+
+
+#divIcerik section:nth-child(2) .owl-carousel .owl-stage-outer {
+width: 1100px;
+}
+  .instablog .test a::after {
+  content: "";
+  position: absolute;
+  transition: .3s;
+  z-index: 3;
+  width: 37px;
+  height: 37px;
+  background: url(/Uploads/EditorUploads/instagram-64px.png) no-repeat center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  position: relative;
+  opacity: 0;
+}
+
+.instablog .test a {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instablog .test a::after {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: ;
+}
+
+.instablog .test a::before {
+  z-index: 2;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, .61);
+  position: absolute;
+  content: "";
+  position: absolute;
+  bottom: 0;
+  opacity: 0;
+}
+.instablog .test a:hover::before, .instablog .test a:hover::after {
+    opacity: 1;
+}
+.instablog {
+/*margin-top: 5%;*/
+}
+.instablog .test > div {
+padding: 2px;
+}
+.instablog .test{
+display: flex;
+}
+.instablog .block-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.instablog .block-title h3 {
+  font-size: ;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.instablog .block-title span {
+  font-size: 16px;
+}
+
+.video-banner-mobile {
+display: none;
+}
+@media (max-width: 767.99px){
+.video-banner-desktop {
+display: none;
+}
+.video-banner-mobile {
+display: block;
+}
+}
+@media (min-width:1279px){
+.video-banner-desktop{
+/*
+width: 120%;
+margin-left: -10%;
+*/
+}
+.video-banner-desktop {
+margin-top: 30px; /* 2% */
+}
+}
+@media screen and (width:1920px){
+.video-banner-desktop{
+/*
+width: 160%;
+margin-left: -30%;
+*/
+}
+}
+
+#mainHolder_divDesign > section.landing-block:first-child .ticiContainer.hazirBlokContent {
+width: 100% !important;
+}
+
+
+@media (min-width: 768px) {
+  #logo .logo img,
+  .searchToggle,
+  #divMemberPanel > div:not(.useLogin),
+  .headerFav,
+  #divHeaderCart > a,
+  .headerWholeSale {
+    filter: invert(100%);
+  }
+
+  .headerContent {
+  position: fixed;
+  top: 100px;
+  z-index: 10;
+  width: 100%;
+  max-width: 100%;
+  padding: 0 20px;
+  mix-blend-mode: exclusion;
+  }
+  .headerContent:hover {
+	mix-blend-mode: normal;
+  }
+
+  .navigation .navUl li.ulVar > span::before,
+  .navigation #divUcTopMenu li a {
+    color: #fff;
+  }
+  .navigation {
+  position: fixed;
+  float: left;
+  z-index: 10;
+  left: 0;
+  top: 145px;
+  mix-blend-mode: exclusion;
+  width: 300px;
+  }
+  .navigation:hover {
+      background: none;
+	  mix-blend-mode: normal;
+	  filter: drop-shadow(0 0 1.5px #000);
+  }
+  .navigation #HeaderMenu2:hover {
+	background: #00000010;
+  }
+                   
+  #header.myfixed {
+    display: none;
+  }
+  #header.myfixed ~ .headerContent {
+    top: 0;
+    mix-blend-mode: normal;
+    background: #fff;
+    padding: 10px 20px 0 20px;
+  }
+
+  #header.myfixed ~ .headerContent #logo .logo img,
+  #header.myfixed ~ .headerContent .searchToggle,
+  #header.myfixed ~ .headerContent #divMemberPanel > div:not(.useLogin),
+  #header.myfixed ~ .headerContent .headerFav,
+  #header.myfixed ~ .headerContent #divHeaderCart > a,
+  #header.myfixed ~ .headerContent .headerWholeSale {
+    filter: none;
+  }
+  
+  .htEx {
+	position: fixed;
+	top: 40px;
+	right: 0;
+	z-index: 100;
+	mix-blend-mode: exclusion;
+  }
+  .htEx:hover {
+	mix-blend-mode: normal;
+  }
+  #header.myfixed ~ .htEx {
+	display: none;
+  }
+  .htEx .headerCargo {
+	color: #fff;
+  }
+  .htEx #lang span {
+	color: #fff;
+  }
+  .htEx .headerCargo svg {
+	filter: invert(100%);
+  }
+  
+  .navigation .navUl > li > a {
+    color: #655858;
+    font-size: 25px;
+    line-height: 32px;
+    display: block;
+    font-weight: 500;
+    letter-spacing: .63px;
+  }
+}
+
+.ulUrunSlider .productItem .boxBedenlerContent {
+  display: none!important;
+}
+
+
+  @media (max-width: 768px) {
+    #mainHolder_divDesign .landing-block {
+      margin-bottom: 10px!important;
+    }
+    #mainHolder_divDesign .hazirBlokContent .txrow .txcol-12 {
+        padding: 0!important;
+    }
+  }

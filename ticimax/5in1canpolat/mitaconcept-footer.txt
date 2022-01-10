@@ -1,0 +1,406 @@
+<!-- Bu Alandaki CSS vs JS Kodları mitaconcept-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<!--
+<style type="text/css">.ticiFooterContent ul {
+    margin: 0;
+    padding: 0;
+  }
+  .ticiFooterContent * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .ticiFooterContent .img-responsive {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  .ticiFooterCenter {
+    background-color: #000;
+    padding: 40px 0;
+  }
+  .ticiFooterBottom {
+    background-color: #000;
+    border-top: 1px solid #3b3b3b;
+  }
+  .ticiFooterContent li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  .ticiFooterContent .footerRow {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .ticiFooterContent .footerRow:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .footerCol {
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    position: relative;
+    min-height: 1px;
+  }
+  .ticiFooterContent .footerCol {
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    position: relative;
+    min-height: 1px;
+  }
+  .ticiFooterContent .footerCol.f-col-4 {
+    width: 33.333333333%;
+  }
+  .ticiFooterContent .footerCol.f-col-3 {
+    width: 25%;
+  }
+  .ticiFooterContent .footerCol.f-col-8 {
+    width: 66.66666666%;
+  }
+  .ticiFooterContent .footerCol.f-col-12 {
+    width: 100%;
+  }
+  .ticiFooterContent .fRight {
+    float: right;
+  }
+  .footerLogo {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+  }
+  .footerSosyalMedya {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footerSosyalMedya a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #5f5f5f;
+    font-size: 18px;
+  }
+  .footerSosyalMedya a:hover {
+    color: #616c70;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #fff;
+    padding: 0;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 span {
+    float: left;
+  }
+  .ticiFooterContent .ticiFooterMenu h3 span:before {
+    font-size: 20px;
+    line-height: 15px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List {
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li {
+    width: 50%;
+    float: left;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item {
+    margin-bottom: 5px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link {
+    color: #fff;
+    font-size: 13px;
+    padding: 0;
+    font-weight: normal;
+    line-height: 23px;
+    width: 100%;
+    text-decoration: none;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link:hover {
+    text-decoration: underline !important;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li.Item a.Link {
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterSocial li.Item a.Link i {
+    width: 20px;
+    height: 23px;
+    line-height: 23px;
+    text-align: left;
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  .ticiFooterContent .ticiFooterMenu ul.List.FooterApp li.Item a.Link i {
+    font-size: 18px;
+    line-height: 23px;
+    float: left;
+    margin-right: 5px;
+  }
+  .ticiFooterContent .ticiBankaLogo {
+    padding: 30px 0;
+    width: 100%;
+    text-align: left;
+    float: left;
+  }
+  .ticiFooterContent .ticiCopyDiv {
+    padding: 35px 0;
+    text-align: right;
+    font-size: 12px;
+    color: #fff;
+  }
+  .ticiFooterContent .ticiSeoText {
+    font-size: 10px;
+    margin-top: 20px;
+    color: #b7b7b7;
+    text-align: center;
+  }
+  .ticiFooterContent .ticiFooterTop {
+  }
+  .ticiFooterContent .ticiBulten {
+    display: block;
+    margin: 0 auto;
+    max-width: 490px;
+    text-align: left;
+  }
+  .ticiFooterContent .ticiBulten:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  .ticiFooterContent .ticiBulten h2 {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    color: #fff;
+  }
+  .ticiFooterContent .ticiBulten p {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  .ticiFooterContent .ticiBultenContent {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .ticiFooterContent #divNewsLetter {
+    display: block;
+    padding: 0;
+    margin: 0;
+    float: right;
+    position: relative;
+    width: 100%;
+  }
+  .ticiFooterContent #divNewsLetter label {
+    display: none;
+  }
+  .ticiFooterContent #UpdatePanel1 {
+    position: relative;
+    float: right;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  .ticiFooterContent #txtbxNewsletterMail {
+    display: inline-block;
+    color: #999999;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    width: 100%;
+    height: 36px;
+    padding: 0 120px 0 10px;
+    font-size: 13px;
+    text-align: left;
+    font-weight: normal;
+    border-radius: 0;
+    opacity: 1;
+  }
+  .ticiFooterContent #txtbxNewsletterMail::-webkit-input-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:-moz-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail::-moz-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:-ms-input-placeholder {
+    color: #999999;
+  }
+  .ticiFooterContent #txtbxNewsletterMail:focus {
+    color: #999999;
+  }
+  .ticiFooterContent #btnMailKaydet {
+    float: right;
+    position: absolute;
+    top: 3px;
+    right: 6px;
+    width: auto !important;
+    height: 30px;
+    text-transform: uppercase;
+    color: #000 !important;
+    border: none !important;
+    border-radius: 0;
+    line-height: 30px;
+    background: #fff !important;
+    font-weight: normal;
+    font-size: 12px !important;
+    padding: 0;
+    text-align: center;
+  }
+  .ticiFooterContent #btnMailKaydet:hover {
+    background: #000 !important;
+    color: #fff !important;
+  }
+  .ticiFooterContent .ebultenGelecek #divNewsLetter {
+    display: block;
+    padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    .ticiFooterContent {
+      margin: 0 15px;
+    }
+    .ticiFooterCenter {
+      background-color: #000;
+      padding: 0 0;
+    }
+    .ticiFooterBottom {
+      background-color: #000;
+      border-top: 1px solid #3b3b3b;
+    }
+    .ticiFooterContent .footerCol.f-col-2 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-3 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-4 {
+      width: 100%;
+    }
+    .ticiFooterContent .footerCol.f-col-xs-12 {
+      width: 100%;
+    }
+    .fRight {
+      float: none;
+    }
+    .ticiFooterContent .ticiBankaLogo {
+      text-align: center;
+    }
+    .ticiFooterContent .ticiCopyDiv {
+      text-align: center;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol .fmenu-wrap {
+      border: 1px solid #3b3b3b;
+      margin-bottom: -1px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol:last-child .fmenu-wrap {
+      margin-bottom: 0;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3 {
+      line-height: 30px;
+      position: relative;
+      text-align: left;
+      padding-left: 10px;
+      margin-bottom: 0;
+      font-size: 12px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3 span:before {
+      font-size: 12px !important;
+      line-height: 30px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active h3 {
+      border-bottom: 1px solid #3b3b3b;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol h3:after {
+      content: "+";
+      position: absolute;
+      right: 0;
+      width: 30px;
+      text-align: center;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active h3:after {
+      content: "-";
+    }
+    .ticiFooterContent .ticiFooterMenu ul.List {
+      display: none;
+      margin: 10px 0px;
+    }
+    .ticiFooterContent .ticiFooterMenu ul.List li.Item a.Link {
+      padding: 0;
+      font-size: 12px;
+      text-align: left;
+      display: block;
+      padding-left: 10px;
+      line-height: 20px;
+    }
+    .ticiFooterContent .ticiFooterMenu .footerCol.active ul.List {
+      display: block;
+    }
+    .ticiFooterContent .ticiBulten {
+      margin: 10px;
+    }
+    .ticiFooterContent .ticiBulten h2 {
+      font-size: 12px;
+    }
+  }
+</style>
+-->
+
+<div class="ticiFooterContent">
+<div class="ticiFooterTop">
+<div class="ticiContainer">
+<div class="footerCol bulten f-col-3">
+<div class="ticiBulten">
+<h3>Bültenimize abone olun</h3>
+
+<div class="ticiBultenContent">&nbsp;</div>
+</div>
+</div>
+
+<div class="footerSosyalMedya"><a href="tel:0552 730 64 82"><i class="fab fa-whatsapp"></i>0552 730 64 82</a><a href="tel:0000 000 00 00"><i class="fal fa-phone fa-flip-horizontal"></i>0000 000 00 00</a><a href="mailto:conceptmita@gmail.com"><i class="fal fa-envelope"></i>conceptmita@gmail.com</a><a href="https://www.facebook.com/mitaconcept/"><i aria-hidden="true" class="fa fa-facebook"></i> FACEBOOK</a> <a href="https://www.instagram.com/mitaconcept/"><i aria-hidden="true" class="fa fa-instagram"></i>İNSTAGRAM</a></div>
+
+<div class="footerCol f-col-4 f-col-xs-12 fRight">
+<div class="ticiCopyDiv">© 2021 <strong>e-adam.com</strong> - Tüm Hakları Saklıdır.</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="ticiFooterBottom">
+<div class="ticiContainer">
+<div class="footerRow">
+<div class="footerCol f-col-8 f-col-xs-12">
+<div class="ticiBankaLogo"><img alt="" src="/Uploads/EditorUploads/iyzico-ile-ode.png" style="max-width: 20%;margin: 0 auto 10px auto;" /> <img alt="" src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/bankimg-2.png" /></div>
+</div>
+</div>
+</div>
+</div>
+<a href="https://www.e-adam.com/" target="_blank"><img src="/Uploads/Images/e-adam-logo.png" style="margin: 0 auto; padding-top: 20px" width="100" /> </a>
+<!--
+<script>
+  var windowidth = window.innerWidth; //window width orani
+  $(document).ready(function () {
+    $("#divNewsLetter").prependTo(".ticiBultenContent");
+
+    $(".ticiFooterMenu .footerCol h3").on("click", function (event) {
+      $(this).parents(".footerCol").toggleClass("active");
+      event.preventDefault();
+    });
+  });
+</script>
+-->
+<!--
+<script
+  defer
+  src="https://static.cloudflareinsights.com/beacon.min.js"
+  data-cf-beacon='{"rayId":"6a75145c8f99722a","token":"367290c3b9fb45498330cac221ec3ed0","version":"2021.10.0","si":100}'
+></script>
+-->

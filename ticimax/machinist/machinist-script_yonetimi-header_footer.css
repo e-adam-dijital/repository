@@ -1,0 +1,193 @@
+/* Tüm Sayfalar - Header */
+
+body .FooterGuvenList {
+margin-top: 76px;
+}
+
+  @media(max-width: 768px){
+    body div#divHeaderCart {
+display: block !important; 
+z-index: 99999;
+
+}
+  body #divUcTopMenu ul li a {
+    font-weight: bold;
+    padding: 0 25px;
+}
+body .mobilMenu .navUl > li > a, .mobilMenu .navUl > li > ul li a {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 50px;
+}
+  }
+body #divHeaderCart .svgIcon:first-child {
+display: none;
+}
+  body .sepetimBody a#LinkButton1 {background: #fc5f5e!important;}
+
+  @media screen and (min-width:1024px) {
+  	body .centerCount.iletisimContent { padding-left: 350px;}
+    
+  }
+  @media screen and (max-width:767px) {
+   body #lang_flag_container { background: white;}
+  }
+
+  
+  	body #divUcTopMenu li a,
+    body #divUcTopMenu li a{
+    color: #5f5f73;
+    padding: 0 12.5px;
+}
+
+
+.navigation .navUl li.ulVar > span {
+  left: unset;
+  width: 40px;
+  text-align: center;
+}
+.navigation .navUl li.ulVar > span::before {
+  font-size: 15px;
+}
+.navigation .navUl > li:last-child > span {
+  right: 20px;
+}
+
+
+/* Site Header */
+  
+  @media screen and (max-width: 767px) {
+  
+   .footer-whatsapp-fix{display:block;position:fixed;bottom:0;width:100%;line-height:50px;background:#0dc143;text-align:center;z-index:99999;}
+  
+   .footer-whatsapp-fix a{color:#fff;font-size:16px;display:block;}
+  
+   .footer-whatsapp-fix a i{color:#fff;font-size:19px;margin-right:5px ; }
+  
+   }
+   
+
+/* Site Footer */
+
+
+/*  Tüm Sayfalar  */
+
+  @media(max-width: 768px){
+    body .storyCont {
+    margin-top: 65px !important;
+    }
+    .scroolText > span {
+    text-shadow: 1000px 0 #fff,600px 0 #fff, -500px 0 #fff!important; 
+    }
+  }
+.scroolText > span {
+ text-shadow: 2000px 0 #fff,1200px 0 #fff, -1000px 0 #fff;
+  animation: animatetext 25s infinite linear;
+  width: 1000px;
+  font-size: 15px;
+  box-sizing: content-box;
+  padding-top: 10px !important;
+  
+}
+
+.scroolText > span:hover {
+	animation-play-state: paused;
+}
+
+@keyframes animatetext {
+0% {left:0;}
+100% {left:-1000px;}
+}
+
+
+  @media screen and (max-width: 767px) {
+body .footer-whatsapp-fix a {
+display: none;
+}
+}
+.fixed-whatsapp {
+    width: 50px;
+    padding: 8px 11px;
+    position: fixed;
+    bottom: 70px;
+    left: 10px;
+    background-color: #25d366;
+    border-radius: 25px;
+    color: #fff !important;
+    overflow: hidden;
+    white-space: nowrap;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+    transition: all ease 1s;
+    -webkit-transition: all ease 1s;
+    -moz-transition: all ease 1s;
+    -ms-transition: all ease 1s;
+    -o-transition: all ease 1s;
+    z-index: 999;
+  }
+  .fixed-whatsapp.active {
+    width: 250px;
+  }
+  .fixed-whatsapp:before {
+    font-family: "FontAwesome";
+    margin-right: 12px;
+    font-size: 32px;
+    font-weight: 300;
+    content: "\f232";
+  }
+
+	.fixed-whatsapp::before{
+	background-image: url("https://www.machinist.com.tr/Uploads/EditorUploads/whatsapp-white.png");
+    }
+     .fixed-whatsapp::before {
+	content: " " !important;
+	height: 30px;
+	padding: 0 15px;
+	background-size: contain;
+}
+
+
+.bottomHead .cartC .sepetUrunSayisiCustom,
+.mycartClick .sepetUrunSayisiCustom {
+    display: block !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 12px;
+    border: none;
+    position: static;
+    margin: 0;
+}
+.bottomHead .cartC .sepetUrunSayisiCustom,
+.mycartClick .sepetUrunSayisiCustom {
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    background: #000;
+    color: #fff;
+}
+.mycartClick .sepetUrunSayisiCustom {
+    position: absolute;
+    right: -5px;
+    top: 10px;
+}
+.bottomHead .cartC .fa-shopping-cart .sepetUrunSayisiCustom {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 5px;
+    margin-left: 10px;
+}
+
+
+@media(max-width: 767.98px){
+    .scroolText > span{
+        width: 500px;
+    }
+}

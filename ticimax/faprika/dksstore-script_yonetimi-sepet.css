@@ -1,0 +1,157 @@
+/* Sepet */
+
+  body .BasketDetail.BasketDetailSepetList #mainHolder_ucSepetim_btnSepetiTemizle {
+display: none;
+}
+  @media (max-width: 991px) {
+.sepetimBody .mobileAddition > .addition-content {
+padding: 10px 10px 10px 10px;
+}
+}
+    .sepett .sepetItemPriceContent span {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  body .BasketAccountContainer .button {
+    background: #000 !important;
+  }
+  
+  body .sepett .sepetItem {
+    display: flex;
+    align-items: center;
+  }
+  
+  body .sepett .alisverisedevamet {
+    background: #525252;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  body .FooterSC {
+    display: none;
+  }
+  
+  body .sepetListAlt #mainHolder_ucSepetim_btnSepetiTemizle {
+    text-decoration: unset;
+    background: #d33;
+    color: #fff;
+    padding: 5px 45px;
+    margin-top: 5px;
+    text-transform: uppercase;
+  }
+  
+  body .headerContent .icons {
+    display: none;
+  }
+  
+  body .headerContent #logo {
+    float: unset;
+  }
+  
+  body .searchContent {
+    display: none;
+  }
+  
+  body .htop {
+    display: none;
+  }
+  body .BasketAccountContainer .genelToplam span:last-child {
+  color: #000 !important;
+  padding: ;
+  }
+  body .BasketRigth ul li.genelToplam {
+  border-top: 1px solid #e2e6eb;
+  margin-top: 10px;
+  padding-top: 10px;
+  }
+  @media (max-width: 768px){
+    
+  body .sepetItem a {
+    color: #000 !important;
+  }
+  
+  body .sepetItem .qtyPlus, .sepetItem .qtyMinus {
+    color: #fff !important;
+  }
+  
+   body .adetGuncelleContent {
+      margin-left: 30px;
+    }
+   body .adetGuncelleContent .textbox.txtSepetAdet {
+      width: 40px;
+      border: 1px solid #e2e6eb;
+    }
+    body .adetGuncelleContent .urunListeAdetAzalt {
+      background: #000;
+    }
+    body .adetGuncelleContent .urunListeAdetArtir {
+      background: #000;
+    }
+     
+    body .BasketRigth .Odeme-RightLine a {
+    background: #000 !important;
+    }
+    body .BasketAccountContainer .BasketRigth span {
+    color: #212121;
+    }
+    .mobileAddition .addition-content {
+    display: ;
+    }
+    body .mobileAddition .addition-content .TotalPrice {
+    display: none;
+    }
+    body .mobileAddition .addition-content .basketCompletebtn {
+    background: #000;
+    }
+    body .mobileAddition .addition-content::before {
+display: none !important;
+}
+   body .sepetListAlt {
+display: flex !important;
+}
+  html body #aMobileAlisveriseDevamEt {
+display: flex;
+background: #525252;
+color: #fff;
+text-align: center;
+margin-top: ;
+margin-left: 5px;
+padding: 11px 33px;
+max-height: 40px;
+margin-top: 5px;
+}
+   html body .BasketPage .MobileHeaderControlContent .MobileHeaderControl {
+    display: none !important;
+  }
+  
+  html body.sepetimBody {
+    padding-top: 0 !important;
+  }
+
+  .sepetimBody #header {
+    display: block !important;
+  }
+  
+   html body .arabtn {
+      display: none;
+    }
+   html body #logo {
+      margin: 0;
+    }
+
+  
+
+   html .mycart {
+      display: none;
+    }
+     
+  
+  }
+  
+  
+/* Sipariş Tamamla */
+
+  #divUyeliksizSozlesmeAlan {
+	display: none;
+  }

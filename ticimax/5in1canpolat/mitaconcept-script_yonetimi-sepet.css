@@ -1,0 +1,30 @@
+/* Sepet */
+
+body .sepetimBody {
+  background: #fff !important;
+}
+
+body #footer {
+  margin-top: 8%;
+}
+html body {
+background: #fff !important;
+}
+body .alisverisedevamet:hover {
+background: #000 !important;
+}
+
+@media (min-width: 769px){
+  .navigation {
+    display: none;
+  }
+}
+
+
+/* Sipariş Tamamla */
+
+@media (min-width: 769px){
+  .navigation {
+    display: none;
+  }
+}

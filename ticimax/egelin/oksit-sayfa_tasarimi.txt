@@ -1,0 +1,211 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<a href="/yeni-gelenler">
+						<video class="video-banner-desktop" width="100%" height="auto" autoplay="autoplay"
+							loop="loop" muted="" playsinline="">
+							<source
+								src="https://player.vimeo.com/external/637515701.hd.mp4?s=4174d316a07fe2cdeb3d6afe983bace3a73b04c9&profile_id=175"
+								type="video/mp4">
+							</source>
+						</video>
+						<video class="video-banner-mobile" width="100%" height="auto" autoplay="autoplay"
+							loop="loop" muted="" playsinline="">
+							<source
+								src="https://player.vimeo.com/external/637515715.sd.mp4?s=670433c6dab9e971beb285f23c94fa0b0a26bc9e&profile_id=165"
+								type="video/mp4">
+							</source>
+						</video>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-giyim"
+						title="Oksit | En Moda Online Satış Mağazası"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/Oksit--En-Moda-Online-Satis-Magazasi-435b.jpg"
+							alt="Oksit | En Moda Online Satış Mağazası"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/yeni-gelenler"
+						title="kampanya"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/kampanya-531d.jpg"
+							alt="kampanya"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	-->
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-giyim" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-68f0d81c-c.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-giyim" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-00684257-e.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/kadin" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-ed49fb96-3.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-giyim" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-27a089e3-5.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/mont-kaban" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-68aa3f28-e.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/sweatshirt" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-50a45956-f.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-6 txcol-sm-3 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/kazak" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-969a2b86-e.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-6 txcol-sm-3 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/esofman" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-3c4a7fb6-f.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-6 txcol-sm-3">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/yelek" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-292c60c3-f.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-6 txcol-sm-3">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/pantolon" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-e53ad9e7-6.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-ayakkabi"
+						title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-1e3fcf8e-7.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/erkek-ayakkabi"
+						title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-9afc89a2-e.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/kadin-ayakkabi"
+						title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-897c4557-d.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.oksit.com.tr/cok-satanlar" title="title"><img
+							class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.oksit.com.tr/Uploads/SayfaTasarim/Sayfa7/title-9c8b1652-0.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+<!--
+</div>
+-->

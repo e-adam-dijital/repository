@@ -1,0 +1,29 @@
+/* Anasayfa */
+
+  html body #header.fixed {
+   position: absolute;
+   }
+   
+   
+#divIcerik.homepage {
+  margin: 0;
+}
+#divIcerik #mainHolder_divDesign .t-vw-3 .ticiContainer {
+  width: 100%!important;
+}
+#divIcerik #mainHolder_divDesign .landing-block .hazirBlokContent .txrow {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+@media(min-width: 1200px){
+body #mainHolder_divDesign img.editable {
+height: 1000px;
+}
+}
+
+
+/* Headerda sayfa tasarımındaki htmlden oluşan kaymayı önlemek için ek kod: */
+#mainHolder_divDesign section.landing-block:first-child {
+	padding-top: 0!important;
+	padding-bottom: 0!important;
+}

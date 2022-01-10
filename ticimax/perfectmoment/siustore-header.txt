@@ -1,0 +1,9 @@
+<!-- Bu Alandaki CSS vs JS Kodları siustore-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<a class="logo" href="/"><img src="/Uploads/Images/e-adam-logo.png" /></a>
+<div class="htop">
+<div class="ticiContainer">
+<!--
+<div class="pull-center"><span>₺ 200 ÜZERİ ALIŞVERİŞLERİNİZDE ÜCRETSİZ KARGO!</span></div>
+--></div>
+</div>

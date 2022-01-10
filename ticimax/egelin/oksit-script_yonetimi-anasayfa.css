@@ -1,0 +1,238 @@
+/* Anasayfa */
+
+    #divIcerik.homepage {margin: 0;}
+	
+	
+      .ulUrunSlider .owl-nav .ProductListprev {
+    width: 30px !important;
+    }
+    .ulUrunSlider .owl-nav .ProductListnext {
+    width: 30px !important;
+    }
+      
+      .ulUrunSlider .owl-nav{
+    display: block !important;
+    }
+      #divIcerik #mainHolder_divDesign section:nth-child(2) .productItem .productImage a, #divIcerik #mainHolder_divDesign section:nth-child(7) .productItem .productImage a  {
+        padding-bottom: 200px !important;
+        }
+        #divIcerik #mainHolder_divDesign section:nth-child(2), #divIcerik #mainHolder_divDesign section:nth-child(7) {
+        margin-top: 35px !important;
+        }
+      
+        #story {
+        margin-top: 15px !important;
+    }
+      .storyMainCont {
+          width: 1060px;
+          margin: -22px auto;
+          display: flex;
+          flex-direction: row;
+          padding-top : 0px;
+      }
+      
+      .hiza {
+          width: 1000px;
+          margin: 0 auto;
+          overflow: hidden;
+          scroll-behavior: smooth;
+      }
+      
+      .storyCont {
+          height: 115px;
+          width: 1000px;
+        margin-top:5px;
+          display: flex;
+          flex-direction: row;
+          text-align: center;
+      }
+      
+      .storyRing {
+          width: 86px;
+          height: 86px;
+          overflow: visible;
+          border-radius: 46px;
+          background: #ffffff;
+          box-shadow: 0 0 4px #aaaaaa;
+      }
+      
+      .colorRing {
+          position: relative;
+          width: 84px;
+          height: 84px;
+          margin: auto;
+          top: 1px;
+          overflow: visible;
+          background: white;
+          border-radius: 46px;
+      }
+      
+      .storyText {
+          font-size: 12px;
+          margin-top: 10px;
+      }
+      
+      .storyimg {
+          width: 84px;
+          height: 84px;
+          border-radius: 46px;
+      }
+      
+      .slideLeftBTN {
+          width: 30px;
+      }
+      
+      .slideRightBTN {
+          width: 30px;
+      }
+      
+      .slideRightBTNimg {
+          width: 25px;
+          position: relative;
+          top: 27px;
+          left: 9px;
+      }
+      
+      .slideLeftBTNimg {
+          width: 25px;
+          position: relative;
+          top: 27px;
+          right: 4px;
+      }
+      
+      .linkstr {
+          padding: 0 7px;
+      }
+      
+       ::-webkit-scrollbar {
+          height: 0px;
+          width: 10px;
+      }
+      
+      
+      /* Track */
+      
+       ::-webkit-scrollbar-track {
+          border-radius: 2.5px;
+      }
+      
+      
+      /* Handle */
+      
+       ::-webkit-scrollbar-thumb {
+          background: darkgrey;
+          border-radius: 2.5px;
+      }
+      
+      
+      /* Handle on hover */
+      
+       ::-webkit-scrollbar-thumb:hover {
+          background: #e91e63
+      }
+      
+       ::-webkit-scrollbar-thumb:active {
+          background: orange
+      }
+      
+      @media(max-width: 1000px) {
+        .storyCont {
+          height: 125px;
+          width: 730px;
+          margin-top: 5px;
+          display: flex;
+          flex-direction: row;
+          text-align: center;
+          margin-bottom:15px;
+      }
+        
+      .slideLeftBTN {
+         display:none;
+      }
+      
+      .slideRightBTN {
+          display:none;
+        }
+          .storyMainCont {
+              width: 100%;
+            margin-bottom: -22px;
+          margin-top: -62px;
+          }
+          .hiza {
+              /*width: 98.2%;*/
+              overflow: auto;
+              scroll-behavior: smooth;
+          }
+          .linkstr {
+              padding: 0 5px;
+          }
+        
+      .storyRing {
+          width: 70px;
+          height: 70px; 
+      }
+      
+      .colorRing { 
+          width: 68px;
+          height: 68px; 
+      } 
+      .storyimg {
+          width: 68px;
+          height: 68px; 
+      } 
+        .CartProduct {
+          top: 60px;
+      }
+      }
+      .storyimg {
+    border-radius: unset !important;
+    }
+    .colorRing {
+    border-radius: unset !important;
+    }
+    .storyRing {
+    border-radius: unset !important;
+    }
+	
+	
+    .kampanyaYazisi {
+        display: block !important;
+    }
+    .kampanyaYazisi > span:first-of-type {
+        font-size: 16px;
+    }
+    .kampanyaYazisi > span:last-of-type {
+        color: #f00;
+        font-weight: 600;
+    }
+
+    .ozelEtiketGorseli {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 60px;
+    }
+
+    .productIcon .favori {
+        bottom: 55px;
+    }
+	
+	
+.video-banner-mobile {
+display: none;
+}
+@media (max-width: 767.99px){
+.video-banner-desktop {
+display: none;
+}
+.video-banner-mobile {
+display: block;
+}
+}
+@media (min-width:1279px){
+  .video-banner-desktop{width: 120%;margin-left: -10%;}
+}
+@media screen and (width:1920px){
+  .video-banner-desktop{width: 160%;margin-left: -30%;}
+}

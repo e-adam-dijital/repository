@@ -1,0 +1,201 @@
+  body .leftBlock .category-vertical-filters > div {
+border-bottom: 1px solid gray;
+}
+body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected::before {
+color: gray !important;
+}
+  body .category-vertical-filters .vertical-filter-panel .list-group {
+scrollbar-color: #000 #fff;
+}
+@media (min-width: 769px) {
+  #divIcerik {
+    max-width: 1680px;
+    padding: 0 50px;
+  }
+}
+
+/*
+.leftBlock.LeftMiddle {
+  width: 500px;
+}
+
+.centerCount.LeftMiddle {
+  width: calc(100% - 500px);
+}
+*/
+
+.productItem .productDetail {
+    padding-top: 0;
+    height: 60px;
+}
+.productItem .productName {
+    margin-bottom: 0;
+}
+
+.productItem .productImage img {
+  margin: 0;
+  width: 100%;
+}
+
+.productItem .productImage a {
+    padding-bottom: 140%;
+}
+
+.categoryContainer .ProductListContent .productItem {
+  margin-bottom: 30px;
+}
+body .category-vertical-filters.top-filters .FiltreUst span {
+background: #000;
+}
+
+html body ul.breadcrumb {
+    display: none !important;
+}
+
+html body.margin {
+    padding-top: 0 !important;
+}
+
+body .leftBlock.LeftMiddle {
+    width: 24%;
+}
+
+body .centerCount.LeftMiddle {
+    width: calc(100% - 24%);
+}
+
+body .cargoIcon {
+    display: none;
+}
+
+body .favori {
+    display: none;
+}
+
+body .productItem .productName a {
+    height: 45px;
+}
+
+body #divIcerik {
+    margin-top: 4%;
+    max-width: 100%;
+}
+
+body .productItem .productDetail {
+    margin-top: 10px;
+}
+  @media(max-width: 768px){
+ body .ItemOrj {
+    padding: 10px;
+}
+ body .categoryContainer .ProductListContent .productItem {
+margin-bottom: 0;
+}
+body .leftBlock {
+display: block !important;
+}
+body .categoryTitle {
+margin-top: 0;
+}
+      body #divSayfalamaUst {
+margin-top: 35px;
+}
+ }
+body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected::before {
+color: #000 !important;
+}
+body .leftBlock .category-vertical-filters > div {
+border-bottom: 1px solid #000;
+}
+body #divSayfalamaUst {
+border-color: #00000096;
+}
+body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected::before {
+border-color: #000 !important;
+color: #000 !important;
+}
+body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected::before {
+  border-color: #000 !important;
+  color: #000 !important;
+}
+
+body body #divSayfalamaUst .filterDeleteContent .appliedFilter .filter-content span + span {
+  color: #000;
+}
+
+html body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+  border-color: #000;
+}
+
+body #divSayfalamaUst.Slct .brandlistselection a.filterOrderInStock::before {
+  border-color: #000;
+}
+
+body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir a span {
+  color: #000;
+}
+body #divSayfalamaUst .blockSelect .sort_4 {
+border-color: #000;
+}
+body #divSayfalamaUst .filterDeleteContent .appliedFilter .filter-content span + span {
+color: #000 !important;
+}
+.leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item::before {
+border-color: #000 !important;
+}
+body .category-vertical-filters .vertical-filter-panel .list-group::-webkit-scrollbar-thumb {
+    scrollbar-color: #000 #fff !important;
+    background: #000 !important;
+}
+
+
+@media (max-width: 767.98px){
+  .tempWomanImg {
+    margin-top: 85px;
+  }
+}
+/* Surdurulebilirlik */
+@media (min-width:1200px) {
+    .surdur1, .surdur2, .surdur3 {
+        display: flex;
+      }
+      .yazi1 h1:nth-of-type(1) {
+        margin: 40px 0 0 150px;
+      }
+      .yazi1 h1:nth-of-type(2) {
+        margin: 0 0 0 250px;
+      }
+      .yazi2 p{
+        position: absolute;
+        bottom: 15%;
+        left: 15%;
+        font-size: 13pt;
+      }
+      .yazi4 .oYazi1, .yazi4 .oYazi2 {
+        margin: 1.8rem 0;
+      }
+      .vertical-center-yazi {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+}
+@media (max-width: 767.98px){
+    .s1img, .yazi1, .s2img, .yazi2, .s3img, .yazi3, .yazi4 {
+      max-width: 100%;
+    }
+    .yazi1, .yazi2, .yazi3, .yazi4 {
+        padding: 20px 10px;
+      } 
+  }
+  .yazi1, .yazi2, .yazi3, .yazi4 {
+    background: #e3e6e9;
+  }
+  .s1img, .s2img, .s3img {
+    padding: 0;
+  }
+  .yazi3 h1, .yazi3 span, .yazi4 span, .yazi1 h1:nth-of-type(2), .yazi1 h1:nth-of-type(1) {
+    color: #4f7d22;
+  }

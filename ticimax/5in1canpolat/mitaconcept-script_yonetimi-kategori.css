@@ -1,0 +1,291 @@
+    .ozelAlan4 {
+  position: absolute;
+  top: 0;
+  }
+      body .favori {
+        right: 5px;
+        top: 15px;
+    }
+    body .favori a {
+        background: #fff;
+        border-radius: 35px;
+        padding: 6px 7px;
+    }
+    body .favori a::before{
+      font-size: 15px
+    }
+    @media(min-width: 1200px){
+  body #divSayfalamaUst .blockSelect .sort_2 {
+  display: block !important;
+  }
+      body #divSayfalamaUst .filterDeleteContent {
+    position: absolute;
+    top: 40px;
+    }
+      body .FiltrelemeUrunAdet > span {
+      display: none !important;
+    }
+    
+    body #divSayfalamaUst .blockSelect .sort_2 i::before {
+    
+      content: "2";
+      font-size: 19px;
+      color: #252525;
+    }
+    
+    body #divSayfalamaUst .blockSelect .sort_3 i::before {
+      content: "3";
+      font-size: 19px;
+      color: #252525 !important;
+      font-weight: normal;
+    }
+    
+      body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+    border: unset;
+    }
+    body ul.breadcrumb * {
+    color: #000 !important;
+    }
+      body #divSayfalamaUst {
+    margin-top: 40px !important;
+    }
+    body .newFiltre {
+    color: red;
+    }
+      body ul.breadcrumb {
+    position: absolute;
+    left: 22%;
+    }
+      body .filtreKapat {
+        position: absolute;
+        top: 0;
+        font-size: 20px;
+        font-weight: bold;
+        z-index: 999;
+        right: 10px;
+        cursor: pointer;
+    }
+    body .newFiltre {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    
+    body #divLeftBlock {
+        display: none;
+        position: fixed;
+        top: 20px;
+        display: ;
+        background-color: #fff;
+        z-index: 1000000000;
+        width: 79%;
+        left: 20%;
+        padding-right: 0;
+    }
+    
+    body .leftBlock .category-vertical-filters {
+        display: inline-flex;
+    }
+    
+    body .leftBlock .category-vertical-filters > div {
+        padding: 10px;
+    }
+    
+    body #divIcerik {
+        width: 100% !important;
+        max-width: 100%;
+        margin: 0;
+        padding: 0 50px;
+    }
+    
+    body .categoryContainer .ProductListContent {
+        margin: 0;
+    }
+    
+    body .centerCount.LeftMiddle {
+        width: 100%;
+    }
+    
+    body .productItem .productImage img {
+        margin: 0;
+        width: 100%;
+    }
+    
+    body #ProductPageProductList {
+        width: 100%;
+    }
+    
+    body .brandlistselection .appliedFilter .blockSelect .sort_4 {
+        display: none;
+    }
+    
+    body .newFiltre {
+        position: relative;
+        float: right;
+        cursor: pointer;
+    }
+    
+    body #divSayfalamaUst {
+        display: flex;
+        align-items: center;
+        margin: 40px 0 !important;
+        justify-content: space-between;
+    }
+    
+    body #divSayfalamaUst.Slct .brandlistselection .sortingContent {
+        margin-bottom: 0;
+    }
+    
+    body .brandlistselection {
+        width: calc(100% - 100px);
+    }
+    body .categoryContainer .centerCount {
+        padding-left: 370px;
+        padding-top: 20px;
+    }
+    body .leftBlock .category-vertical-filters{
+      padding-top: 40px;
+    }
+    body .discountIcon{
+      display: none;
+    }
+    body .cargoIcon{
+      display: none;
+    }
+    body .productItem .productDetail {
+    text-align: center;
+    }
+    body .productItem .productName{
+      margin: 0;
+    }
+    body .productItem .productName a{
+      height: 45px;
+    }
+  
+    body .categoryTitleText .KategoriTitle {
+      text-align: center;
+    }
+  }
+  
+        @media screen and (min-width: 1240px) and (max-width: 1400px) {
+        body ul.breadcrumb {
+    padding-left: 0;
+    }
+     body .navigation {
+       width: 260px;
+        z-index: auto;
+        position: absolute;
+        top: 151px;
+        left: 0;
+    
+    }
+      body .navigation .navUl > li > a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+      body .productDetailContainer {
+        padding-left: 220px;
+    }
+        body .categoryContainer .centerCount {
+        padding-left: 220px;
+    }
+        body .productItem .productName a {
+        height: 50px;
+    }
+    }
+  @media(max-width: 768px){
+  .categoryContainer .ProductList.PlSc_3 .ItemOrj:nth-child(3n+3) {
+  width: 100%;
+  max-width: 100%;
+  flex: 0 0 100%;
+  padding: 0 5px;
+  }
+  body #divSayfalamaUst {
+    margin-top: 40px !important;
+    }
+  
+      body ul.breadcrumb {
+        display: none !important;
+    }
+  body .discountIcon{
+      display: none;
+    }
+    body .cargoIcon{
+      display: none;
+    }
+  body .productItem .productDetail {
+    text-align: center;
+    }
+  body .categoryTitleText .KategoriTitle {
+      text-align: center;
+    margin: 10px 0 0 0;
+    }
+  body .categoryTitleText .KategoriTitle {
+  position: relative;
+  top: 17px;
+  }
+  .categoryContainer .ProductList.PlSc_3 .ItemOrj:nth-child(3n+3) .productItem .productDetail {
+  padding: 0;
+  }
+  .categoryContainer .ProductList.PlSc_3 .ItemOrj:nth-child(3n+3) .productItem .productName a {
+  height: 20px;
+  }
+  .categoryContainer .ProductList.PlSc_3 .ItemOrj:nth-child(3n+3) .productItem .productDetail {
+  height: 60px;
+  }
+    html body #divSayfalamaUst {
+      border: unset;
+    }
+    html body .mobilFilterOpenBtn .button.mobilSiralamBtn {
+      border: unset;
+    }
+   html body #divSayfalamaUst.Slct .brandlistselection {
+      border: unset;
+    }
+   html body .mobilFilterOpenBtn .button {
+      text-align: right !important;
+      padding-right: 10px;
+    }
+   body .sortingContent li, .appliedFilter.FiltrelemeUrunAdet {
+      border: unset;
+    }
+   body .mobilFilterOpenBtn .button.mobilSiralamBtn {
+      text-align: left !important;
+   }
+  body .mobilFilterOpenBtn .button.mobilFilterBtn {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+  }
+  body .category-vertical-filters.top-filters .FiltreUst span {
+  background: #000;
+  }
+  body .fa-times::before {
+  color: #fff;
+  }
+  body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+      width: 100%;
+      height: 40px;
+      font-size: 12px;
+      text-indent: 0;
+      border: none;
+      color: #000;
+      font-weight: 500;
+      min-width: auto;
+      border-radius: 0;
+      background: 0 0;
+      -webkit-appearance: none;
+      -moz--appearance: none;
+      position: relative;
+      text-align-last: left;
+  }
+  
+  
+  }
+  
+  
+    @media (min-width: 1401px) { 
+      .breadcrumb {
+        left: 420px!important;
+      }
+  }

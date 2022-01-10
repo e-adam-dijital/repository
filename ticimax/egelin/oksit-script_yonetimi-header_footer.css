@@ -1,0 +1,1465 @@
+/* Tüm Sayfalar - Header */
+
+.sepetTitle .st_1,
+body .sepetTitle2 .st_1,
+body .BasketRigth ul li.genelToplam .tut,
+body .sepetTitle2 .st_1:before,
+.sepetTitle .st_1:before,
+.TeslimatAdresTittle,
+.Basketstep ul li.gecti span,
+body #divToplamOdeme,
+.TeslimatAdresTittle,
+a.YeniAdresEkle,
+.Basketstep ul li.onestepsec span,
+.Basketstep ul li.pasif i,
+.BasketPage .Basketstep ul li.pasif i,
+.BasketPage .cargoInformation div.cargoName span,
+.BasketPage .faturaAdresBtn.active,
+.adresAyniBtn.active,
+.BasketPage .sepetItemB4,
+.BasketPage .AdresItemAlt.AdresItemSelected .AdresItemAltLeft label span.check,
+.iletisimContent .categoryTitle .categoryTitleText,
+#pnlSlider .flex-direction-nav .flex-next:hover:before,
+#pnlSlider .flex-direction-nav .flex-prev:hover:before,
+body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir a span,
+body .siparisUrunUyariSecenek .siparisUrunDurumBaslik,
+.newsbutton,
+body ul.breadcrumb li:nth-last-of-type(1) *,
+.UFavorilerimeEkle #aFavroriCikarBtn .box1,
+.RightDetail ul.rating li i.starItem,
+.RightDetail ul.rating li.filled i,
+.RightDetail .rating-stars ul>li.star.hover>i.fa,
+.RightDetail .rating-stars ul>li.star.selected>i.fa,
+.urunTab>ul>li.active>a,
+.favori a.listfavoriAktif,
+.GuvenList ul li .gimg,
+.navigation .navUl>li>ul>li>ul>li.active>a,
+.navigation .navUl>li>ul>li>ul>li.active>.Mright,
+/**/
+.BasketPage .AdresItemAlt a:hover,
+.BasketPage .sepetiTemizle:hover,
+.BasketPage .sepet-sil:hover:before,
+.BasketPage .sepetTitle2 a:hover,
+.baglanButton:hover,
+.BasketPage .faturaAdresBtn:hover,
+.adresAyniBtn:hover,
+.socialStore .socialDiv ul li a:hover,
+.socialStore .store ul li a:hover,
+.mobilMenu .navUl>li>a:hover,
+.mobilMenu .navUl>li>ul li a:hover,
+.mobilMenu .navUl>li .ResimsizDown:hover,
+.mobilMenu .navUl>li>ul li .ResimsizDown2:hover,
+.mobilMenu .navUl>li>ul>span:hover,
+.mobilMenu .navUl>li>ul li ul>span:hover,
+.menuUstBolum .CloseBtnMenu:hover,
+.menuUstBolum .mobilMenuBT:hover,
+.mobilMenuAcButton:hover,
+.favi:hover,
+.mycart:hover>a,
+.headerSocialConnect .baglanButton a:hover,
+.welcome a:hover,
+.headerUyeGiris a:hover,
+.headerHesabim:hover,
+.headerCikis:hover,
+.arabtn:hover,
+.CartProduct .SProduct li a:nth-child(2):hover *,
+.RightDetail .riSingle a.riUp:hover,
+.RightDetail .riSingle a.riDown:hover,
+.welcomeOpen:hover,
+.mycartClick:hover,
+.favori a:hover,
+.HeadSoc ul li a:hover,
+.navigation .navUl>li:hover>a,
+.navigation .navUl>li .Flexscroll>ul>li:hover>a,
+.navigation .navUl>li ul li a:hover {
+    color: #f42121;
+}
+
+body .button,
+.baglanButton,
+.siparisOzetTakip,
+body.sepetimBody .basketCompletebtn,
+#AdresContent .button,
+.BasketPage .OdemeMenu ul li.activeMenu>a,
+.pageNumberContent a:hover,
+.pageBorder a:hover,
+.pageNumberContent a.SelectedSayfa,
+.pageBorder a.SelectedSayfa,
+#pnlSlider .flex-control-paging li a.flex-active,
+.mycart .sepetUrunSayisi,
+.favi span,
+body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li a.selected,
+.discountIcon,
+#divIndirimOrani,
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected,
+.menuUstBolum,
+body .category-vertical-filters.top-filters .FiltreUst,
+.SepetUst,
+.urunOzellik .mobilTab>ul>li.active>a,
+.favNum,
+.tooltip-inner,
+/**/
+.button:hover,
+.userLoginBtn:hover,
+.userSignBtn:hover,
+.BasketPage .OdemeMenu ul li:hover>a,
+.BasketPage .alisverisedevamet:hover,
+.BasketPage #hed div.hediCekForm a:hover,
+.BasketPage a.YeniAdresEkle:hover,
+#AdresContent .button:hover,
+.basketCompletebtn:hover,
+.KasaOnuFirsatlarContent ul li a.button:hover,
+body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li>a:hover,
+.ProductIcon2>div>a:hover,
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover,
+.ProductIcon>div:hover .box1,
+.navigation .navUl>li:hover>a:after {
+    background: #f42121;
+}
+
+.iletisimContent .iletisimRight .iletisimbanka .span>.line1:nth-child(n+2),
+body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir,
+.pageNumberContent a:hover,
+.pageBorder a:hover,
+.pageNumberContent a.SelectedSayfa,
+.pageBorder a.SelectedSayfa,
+body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li a.selected,
+.OdemeMenu ul li.activeMenu,
+#divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected,
+.urunTab>ul>li.active>a,
+#divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box.selected:after {
+	border-color:#ff0041;
+}
+
+
+/*
+@font-face {
+  font-family: 'Brandon Bold';
+  src:  url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_bld.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_bld.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Brandon Medium';
+  src:  url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_med.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_med.woff') format('woff');
+}
+*/
+@font-face {
+  font-family: 'Brandon Regular';
+  src:  url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_reg.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/e-adam-dijital/repository/fonts/brandon_reg.woff') format('woff');
+}
+body {
+  font-family: 'Brandon Regular', sans-serif;
+}
+
+@media (min-width: 1200px) {
+
+  /* Header Tasarımı Başlangıç */
+  .navigation .navUl > li > a {
+      text-transform: uppercase;
+      font-size: 16px;
+  }
+
+  .headerContent .welcome {
+      right: 20%;
+  }
+
+  #logo {
+      max-width: unset;
+  }
+
+  .headerCustom .mycart {
+      margin: 0;
+  }
+
+  #divHeaderCart > a {
+      position: relative;
+  }
+
+  #divTopProductSearch {
+      position: relative;
+      z-index: 0;
+	  background: unset;
+  }
+  
+  .headerContent > #divTopProductSearch {
+	display: none;
+  }
+
+  .CartProduct {
+    right: 10%;
+  }
+
+  #btnKelimeAra {
+      position: relative;
+      float: left;
+      border-left: unset;
+  }
+
+  #txtbxArama {
+      border-bottom: 2px solid #000;
+      width: 40%;
+      margin: -15px 0 0 10px;
+  }
+
+  #divHeaderCart > span,
+  #divHeaderCart > a {
+      float: right;
+  }
+
+  #divHeaderCart > span {
+      margin-right: 40px;
+  }
+
+  .headerContent .headerCustom .txrow {
+      max-width: 1230px;
+      margin: 0 auto;
+      align-items: center;
+      border-bottom: 2px solid #ebebeb;
+      padding: 5px 0;
+  }
+
+  .mycart .sepetTecxt {
+      display: block;
+      float: left;
+      font-size: 13px;
+  }
+
+  #divHeaderCart span a {
+      font-size: 13px;
+      color: #3c3c3c;
+  }
+
+  .headerCustom .arabtn {
+      float: left;
+      margin: 4px 0 0;
+  }
+
+  /*
+  .navigation .navUl > li:last-child > a {
+    color: #ff0041; 
+  }
+  */
+
+  .navigation .navUl > li > a {
+	line-height: 45px;
+  }
+  
+  .navigation > div {
+	margin-bottom: 8px;
+  }
+
+  #header .navigation::before { /* #header:not(.homeHeader) .navigation::before */
+    content: "";
+    height: 2px;
+    border-bottom: 2px solid #ebebeb;
+    width: 200%;
+    display: block;
+	position: relative;
+	left: 50%;
+	top: 52px;
+	transform: translateX(-50%);
+	max-width: 1230px;
+  }
+  
+  #divMemberPanel {
+	top: 0;
+  }
+  
+  #divHeaderCart {
+	padding-right: 0;
+  }
+
+  #header.fixed .txrow,
+  #header.fixed .navigation > div,
+  #header.fixed .navigation {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+  }
+  
+  #header.fixed .navigation::before {
+	top: 45px;
+  }
+  
+  #header.fixed #logo .logo {
+	height: 60px;
+  }
+  
+  #header.fixed #logo .logo img {
+	height: 40px;
+  }
+  
+  /* Sayfa kaydırılınca sayfaya eklenen .margin elementi ile header alanının sabitlenmesi (Masaüstü) Başlangıç */
+  body.margin {
+	padding-top: 250px;
+  }
+  body.margin .headerContent {
+	position: fixed;
+	width: 100%;
+	top:0;
+	left:0;
+	margin: 0;
+  }
+  body.margin #header .txrow,
+  body.margin #header .navigation > div,
+  body.margin #header .navigation {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+  }
+  body.margin #header .navigation::before {
+	top: 45px; //
+  }
+  body.margin #header #logo .logo {
+	height: 60px;
+  }
+  body.margin #header #logo .logo img {
+	height: 40px;
+  } 
+  body.margin #header > div:not(.headerContent) {
+	display: none;
+  }
+  /* Sayfa kaydırılınca sayfaya eklenen .margin elementi ile header alanının sabitlenmesi (Masaüstü) Bitiş */
+  /* Header Tasarımı Bitiş */
+
+  /* Footer Tasarımı Başlangıç */
+  .FooterMiddle .ticiContainer,
+  .creditCard {
+	border-top: 2px solid #ebebeb;
+	border-bottom: 2px solid #ebebeb;
+  }
+  
+  #footer .linkler .blink > ul > li:last-child {
+	padding-left: 50px;
+	border-left: 2px solid #ebebeb;
+  }
+  
+  #footer .linkler .blink > ul > li > span {
+	font-weight: 500;
+  }
+  /* Footer Tasarımı Bitiş */
+  
+	/* Cart Popup Başlangıç */
+	#divHeaderCart .CartProduct .SProduct li a img {
+		max-width: 100px;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a .sepetTopFiyat {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a img {
+		max-width: 150px;
+		height: 200px!important;
+		float: left;
+	}
+
+	#divHeaderCart .CartProduct.more {
+	  width: 380px;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a .SepettopAd {
+	  position: absolute;
+	  top: 25px;
+	  left: 150px;
+	  display: grid!important;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a .SepettopAd span:first-child {
+	  font-size: 14px;
+	  max-width: 180px;
+	  font-weight: 500;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a .SepettopAd span:last-child {
+	  margin-top: 20px;
+	  font-size: 14px;
+	  max-width: 180px;
+	}
+
+	#divHeaderCart .CartProduct .SProduct li a .sepetTopFiyat {
+	  font-size: 14px;
+	  max-width: 100px;
+	  right: unset;
+	  left: 155px;
+	  top: 65px;
+	}
+	/* Cart Popup Bitiş */
+
+	/* Açılır Menü Başlangıç */
+	.navigation .navUl > li > .Flexscroll {
+		max-width: 1280px;
+		margin: 0 auto;
+		padding: 20px 30px 20px 30px;
+	}
+	.navigation .navUl > li .Flexscroll > ul:not(:last-child) {
+		display: grid;
+		float: left;
+		margin-right: 80px;
+		padding-right: 90px;
+		border-right: 2px solid #ccc;
+		line-height: 1;
+	}
+	.navigation .navUl > li .Flexscroll > ul > li > a {
+		font-weight: 400;
+		margin-bottom: 5px;
+		font-size: 16px;
+	}
+	
+	.navigation .navUl > li > .Flexscroll .dropdownMenuRight ul {
+		margin-bottom: 15px;
+	}
+	
+	.Flexscroll {
+		display: flex;
+	}
+	.Flexscroll > {
+		float: left;
+	}
+
+	.dropdownMenuRight {
+		margin-right: 100px;
+		float: right!important;
+		margin-left: 0!important;
+	}
+	/* Açılır Menü Bitiş */
+	
+	/* Sepet Sayfası Başlangıç */
+	.usernav {
+		position: absolute;
+		display: block;
+		top: 0;
+		left: 0;
+		line-height: 40px;
+		
+		line-height: 40px;
+	}
+	.usernav ul {
+		display: flex;
+		gap: 10px;
+	}
+	
+	.usernav a {
+		color: #fff;
+	}
+	
+	.usernav li:first-child::after {
+		content: '|';
+		margin: 0 0 0 8px;
+		display: inline-block;
+		vertical-align: top;
+		color: #fff;
+	}
+	/* Sepet Sayfası Bitiş */
+
+}
+
+/* Anasayfa Sayfa Tasarımı Başlangıç */
+.hazirBlokContent .JKatAdi .title {
+    display: block;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #acacac;
+}
+
+#mainHolder_divDesign .landing-block {
+	/*
+	margin-bottom: 40px!important;
+	*/
+	overflow-x: hidden;
+	padding-top: 0 !important;
+}
+/*
+#mainHolder_divDesign .landing-block:not(:first-child) {
+	padding-top: 20px!important;
+}
+#mainHolder_divDesign .landing-block:nth-child(2) img {
+    max-width: 280px;
+    margin: 0 auto;
+}
+*/
+         
+.hazirBlokContent .JKatAdi .satir1 {
+	font-weight: 400!important;
+	font-size: 35px!important;
+}
+
+.tumunu-goruntule {
+	float: left;
+	width: 100%;
+}
+                          
+.tumunu-goruntule a {
+    display: block;
+    width: 300px;
+    margin: 0 auto 40px auto;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 15px;
+    font-weight: 500;
+    color: #000;
+}
+       
+/*	   
+#mainHolder_divDesign .landing-block:last-child .ticiContainer {
+	width: 1360px !important;
+}
+                          
+#mainHolder_divDesign .landing-block:last-child .ticiContainer .blokResimLink img {
+	width: 95%;
+	margin: 0 auto;
+}
+*/
+
+/*
+#mainHolder_divDesign .landing-block:first-child .ticiContainer {
+	max-width: 1680px !important;
+}
+*/
+
+#mainHolder_divDesign .owl-carousel .owl-nav .ProductListprev {
+	background: unset;
+}
+#mainHolder_divDesign .owl-carousel .owl-nav .ProductListnext {
+	background: unset;
+}
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListprev {
+	left: -100px;
+}
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListnext {
+	right: -100px;
+}
+
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListprev::before,
+.owl-carousel .owl-nav .ProductListprev::before,
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListnext::before,
+.owl-carousel .owl-nav .ProductListnext::before {
+    font-size: 80px;
+    font-weight: 100;
+	color: #aaa;
+}
+
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListprev:hover::before,
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListnext:hover::before,
+#mainHolder_divDesign .owl-nav > div:hover::before {
+    color: #ff0041;
+}
+
+#instagramCustomHTML .blokResimLink:hover::before {
+  content: "";
+  background: url(https://www.oksit.com.tr/Uploads/Images/instagram-color.png)  center no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#instagramCustomHTML .txrow div:hover {
+  filter: brightness(110%);
+}
+
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-stage {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#mainHolder_divDesign .landing-block:not(:first-child) .owl-item.active:hover {
+    box-shadow: 0 0 5px 2px #bbb;
+}
+/* Anasayfa Sayfa Tasarımı Bitiş */
+
+/* Ürün Item Başlangıç */
+.productIcon .newIcon {
+	background: #f42121;
+	border-radius: unset;
+	line-height: 20px;
+	height: 20px;
+	top: 0;
+	right: 0;
+	left: unset;
+}
+                          
+.productIcon .discountIcon {
+    right: 0;
+    top: 25px;
+    border-radius: unset;
+}
+                          
+.productItem .productDetail {
+	text-align: center;
+}
+
+.productItem .discountPrice span {
+	color: #f42121;
+}
+/* Ürün Item Bitiş */
+                          
+/* Footer Tasarımı Başlangıç */
+.FooterSC {
+	background: #fff;
+}
+
+#footer .linkler .blink > ul > li > ul > li > a,
+#footer .linkler .blink > ul > li > span,
+.ebultenDiv span,
+.copy {
+	color: #000;
+}
+
+#footerSocialCustom {
+	float:left;
+	width: 100%;
+    margin-bottom: 25px;
+	z-index: 1;
+	position: relative;                     
+}
+                          
+#footerSocialCustom div span {
+	float: left;
+    padding: 10px;
+    border: 1px solid #dadada;
+    border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+    margin-left: 5px;
+}
+
+#footer .linkler .blink > ul > li > ul > li > a {
+  color: #404040 !important;
+}
+/* Footer Tasarımı Bitiş */
+
+
+/* Genel CSS Başlangıç */
+.headerUyeGiris a::before,
+.headerHesabim::before {
+	content: '';
+	background: url(https://www.oksit.com.tr/Uploads/Images/group-161.png) center no-repeat; /*group-161.png*/
+	width: 22px;
+	height: 40px;
+	filter: drop-shadow(0 0 0.5px #fff);
+}
+
+@media (max-width: 768px){
+ body .headerUyeGiris a::before,
+  body .headerHesabim::before {
+	background: url(https://www.oksit.com.tr/Uploads/Images/group-161-white.png) center no-repeat; /*group-161.png*/
+}
+}
+
+.mycart .sepetUrunSayisi {
+	color: #000 !important;
+	background: unset;
+}
+
+.mycart > a::before {
+	content: '';
+	background: url(https://www.oksit.com.tr/Uploads/Images/path-60.png) center no-repeat;
+	background-size: contain;
+	width: 22px;
+	height: 22px;
+	display: block;
+	float: left;
+}
+
+.mycart .sepetUrunSayisi {
+	left: 2px;
+	top: 4px;
+	font-size: 10px;
+}
+
+  .mycart > span > a::before {
+      content: '';
+      background: url(https://www.oksit.com.tr/Uploads/Images/heart.png) center no-repeat;
+      background-size: contain;
+      width: 22px;
+      height: 20px;
+      display: block;
+      float: left;
+  }
+
+  .mycart > span > a::before,
+  .mycart > a::before {
+      margin-right: 5px;
+  }
+  
+#divHeaderCart .CartProduct .button {
+    width: 100%;
+    margin-left: calc(50% - 150px) !important;
+    max-width: 300px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: unset;
+}
+  
+#divHeaderCart .CartProduct .headerOrderBtn {
+    background: #000;
+}
+  
+/* Genel CSS Bitiş */
+
+
+@media (max-width: 1199px) {
+
+	/* Header Mobil Tasarımı Başlangıç */
+	#divMemberPanel {
+		width: 100%;
+		left: 0;
+		display: flex;
+		justify-content: center;
+		position: relative;
+		top: 0;
+		background: #000;
+	}
+	
+	.fa-shopping-cart::before {
+		content: unset;
+	}
+	
+	.mycart .sepetUrunSayisi {
+		position: absolute;
+		top: 15px;
+	}
+	
+	.mycart > a::before {
+		margin-top: 10px;
+	}
+	
+	.mycartClick .fa-shopping-cart::before {
+		display: none;
+	}
+	
+	.mycart {
+		top: 7.5px;
+	}
+
+	.mobilMenuAcButton {
+		top: 16px;
+		right: 55px;
+		left: unset;
+	}
+	
+	.mobilMenuAcButton span {
+		display: none;
+	}
+	
+	body.homeBody {
+		padding-top: 120px;
+	}
+	
+	.mobilMenuAcButton .fa-bars::before {
+		font-size: 26px;
+	}
+	
+	.searchClick {
+		display: block;
+		position: relative;
+		left: 15px;
+		top: 16px;
+		float: left;
+		margin-right: 20px;
+		font-size: 20px;
+	}
+	
+	.searchClick .fa-search::before {
+		font-weight: 400;
+		color: #484848;
+	}
+	
+	#logo {
+		position: relative;
+		left: 10%;
+		transform: translateX(-60%);
+	}
+	
+	#divTopProductSearch {
+		display: none;
+	}
+	
+	#divTopProductSearch.searchContent {
+	  display: none;
+	}
+
+	#divTopProductSearch.searchContent.active-custom {
+		height: 50px;
+		width: 100%;
+		left: 0;
+		right: 0;
+		padding-bottom: 10px;
+	  display: block;
+	}
+	
+	.headerUyeGiris a,
+	.headerUyeOl a,
+	.headerHesabim,
+	.headerCikis {
+		line-height: 30px;
+	}
+	
+	.headerUyeOl a::before,
+	.headerUyeGiris a::before,
+	.headerHesabim::before,
+	.headerCikis::before {
+		line-height: 30px;
+	}
+	
+	.headerUyeGiris a::before,
+	.headerHesabim::before {
+		height: 30px;
+	}
+	
+	.headerContent {
+		margin: 15px 0 15px;
+		float: left;
+		width: 100%;
+		box-shadow: unset;
+	}
+
+	/* .fixed ve .touched elementleri ile Header alanının sabitlenmesi Başlangıç  */
+	body.global_body {
+	 padding-top:0; 
+	}
+	#header {
+	  position: relative;
+	}
+	#header.fixed,
+	#header.touched {
+	  position: fixed; 
+	}
+	#header.fixed ~ #divIcerik,
+	#header.touched ~ #divIcerik {
+	  padding-top:150px!important;
+	}
+	#header.touched .headerContent {
+		margin: 0;
+	}
+	/* .fixed ve .touched elementleri ile Header alanının sabitlenmesi Bitiş  */
+	/* Header Mobil Tasarımı Bitiş */
+	
+
+	/* Footer Mobil Tasarımı Başlangıç */
+	.FooterSC .FooterBottom,
+	.FooterSC .FooterMiddle {
+		background: #fff;
+	}
+	
+	/*
+	#footer .linkler .blink > ul {
+		display:grid;
+		grid-template-columns: 1fr 1fr;
+	}
+	*/
+	#footer .linkler .blink > ul > li:last-child {
+		width: 100%;
+	}
+	
+	#footer .linkler .blink > ul > li {
+		width: 50%;
+		padding: 25px 0 0 25px;
+	}
+	
+	#footer .linkler .blink > ul > li > ul {
+		display: block;
+		border-bottom: unset;
+	}
+	
+	#footer .linkler .blink > ul > li > span {
+		line-height: 40px;
+		border-bottom: unset;
+		font-weight: 500;
+	}
+
+	#footer .linkler .ackapabtn {
+		display: none;
+	}
+	
+	#footer .linkler .blink > ul > li > ul > li > a {
+		line-height: 30px;
+	}
+	
+	.creditCard .bankimg {
+		display: block;
+		width: 100%;
+	}
+	
+	.creditCard .bankimg img {
+		margin: 0 auto;
+	}
+	
+	.FooterSC .FooterBottom {
+		margin-top: 40px;
+	}
+	/* Footer Mobil Tasarımı Bitiş */
+	
+	/* Anasayfa Sayfa Tasarımı Başlangıç */
+	#divIcerik #mainHolder_divDesign .owl-dots .owl-dot span {
+		border-radius: unset;
+		height: 4px;
+		width: 45px;
+		border-width: 1px;
+	}
+	
+	#mainHolder_divDesign .owl-carousel .owl-nav,
+	#mainHolder_divDesign .anasayfa_tek_slider .owl-dots {
+		display: block;
+	}
+	
+	/*
+	#mainHolder_divDesign .landing-block:last-child {
+		padding-top: 40px!important;
+	}
+	*/
+	
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-dots {
+		display: block;
+		bottom: -10px;
+	}
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-dots .owl-dot span {
+		border-color: #bbb;
+	}
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-dots .owl-dot.active span {
+		border-color: #777;
+		background: #777;
+	}
+	
+	.sliderBannerContainer {
+		border-bottom: unset;
+	}
+	
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListprev {
+		left: -30px;
+		top: unset;
+		bottom: -185px;
+	}
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListnext {
+		right: -30px;
+		top: unset;
+		bottom: -185px;
+	}
+	
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListprev::before,
+	.owl-carousel .owl-nav .ProductListprev::before,
+	#mainHolder_divDesign .landing-block:not(:first-child) .owl-carousel .owl-nav .ProductListnext::before,
+	.owl-carousel .owl-nav .ProductListnext::before {
+		font-size: 40px;
+	}
+	
+	#instagramCustomHTML .blokResimLink::before {
+	  content: "";
+	  background: url(https://www.oksit.com.tr/Uploads/Images/instagram-color.png)  center no-repeat;
+	  width: 100%;
+	  height: 100%;
+	  display: block;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	}
+	
+	.hazirBlokContent .JKatAdi .satir1 {
+		margin-bottom: 10px;
+		font-size: 25px!important;
+	}
+	
+	.hazirBlokContent .JKatAdi .title {
+	  font-size: 15.5px!important;
+	}
+	/* Anasayfa Sayfa Tasarımı Bitiş */
+
+	/* Menü Başlangıç */
+    .mobilMenu {
+      top: 105px;
+	  height: 100%;
+    }
+    .mobilMenu.acik {
+      box-shadow: 0 0 4px 2px #ccc;
+    }
+	
+	.mobilMenu .navUl > li > ul.active {
+		padding-bottom: 150px;
+	}
+
+    .menuUstBolum .mobilMenuBT {
+      color: #000;
+      font-size: 20px;
+    }
+
+    .menuUstBolum .CloseBtnMenu {
+      color: #000;
+    }
+
+    .menuUstBolum ,
+    .mobilaf {
+      background: unset;
+    }
+
+    .menuUstBolum {
+      border-bottom: unset;
+      margin-bottom: 40px;
+    }
+
+    .mobilMenu .navUl > li > a {
+      font-size: 16px;
+      text-transform: uppercase;
+      padding-left: 50px;
+    }
+                              
+    .mobilMenu > .menuIcerikAlan {
+    	margin-top: 15px;
+    }
+                              
+    .navUl > li i.fa-angle-right::before {
+        content: "\f067";
+        font-weight: 400;
+        font-size: 16px;
+    }
+	/* Menü Bitiş */
+
+	/* Slider Başlangıç */	
+	#mainHolder_divDesign .landing-block:first-child .txrow .txcol-sm,
+	#mainHolder_divDesign .landing-block:first-child .ticiContainer {
+		padding: 0 !important;
+	}
+	/* Slider Bitiş */
+
+	/* Sidebar Cart Başlangıç */
+	.CartProduct.more .SepetUst {
+		background: #000;
+	}
+	
+	.CartProduct.more .button {
+		border-radius: 0;
+	}
+	
+	.CartProduct.more .headerOrderBtn {
+		background: #000;
+	}
+	
+	.CartProduct .SProduct li a .SepetTopAdet {
+		margin-right: -15px;
+	}
+	.CartProduct .SProduct li a .sepetTopSatisBirimi {
+		margin-right: 15px;
+	}
+	
+	.CartProduct .SProduct li a .SepettopAd {
+		max-width: 48%;
+	}
+	/* Sidebar Cart Bitiş */
+
+	.footer-whatsapp-fix {
+		left: 0;
+	}
+	.footer-whatsapp-fix a {
+		line-height: 1.5;
+		padding: 12.5px 0;
+	}
+
+}
+
+.htop {
+	background: #000;
+}
+.headerUyeGiris a:after,
+.headerHesabim::after,
+.headerUyeGiris a,
+.headerUyeOl a,
+.headerHesabim,
+.headerCikis {
+	color: #fff;
+}
+
+.headerContent .headerUyeGiris a:after,
+.headerContent .headerHesabim::after,
+/**/
+.headerContent .usernav a,
+/**/
+.headerContent .headerUyeGiris a,
+.headerContent .headerUyeOl a,
+.headerContent .headerHesabim,
+.headerContent .headerCikis {
+  color: #000
+}
+
+.headerContent .headerUyeGiris a::before,
+.headerContent .headerHesabim::before {
+    content: '';
+    background: url(https://www.oksit.com.tr/Uploads/Images/group-161-white.png) center no-repeat;
+    width: 22px;
+    height: 40px;
+}
+
+.headerContent .usernav + .mycart {
+    margin: 10px 0;
+}
+
+#divIcerik.homepage {
+	margin: 0;
+}
+
+
+/* Site Footer */
+
+.footer-whatsapp-fix{display:none;}
+
+@media screen and (max-width: 767px) {
+
+ .footer-whatsapp-fix{display:block;position:fixed;bottom:0;width:100%;line-height:50px;background:#0dc143;text-align:center;z-index:99999;}
+
+ .footer-whatsapp-fix a{color:#fff;font-size:16px;display:block;}
+
+ .footer-whatsapp-fix a i{color:#fff;font-size:19px;margin-right:5px ; }
+
+ }
+ 
+
+#ETBIS img {
+  width: 100px!important;
+  height: auto!important;
+}
+
+
+/*  Tüm Sayfalar  */
+
+    /* header düzenleme başlangıç  */
+      body .htop .ticiContainer {
+    margin: 0 auto !important;
+    }
+      .htop .HeadSoc {
+    display: none;
+    }
+     body .usernav li:first-child::after {
+        color: #000 !important;
+    }
+    body .mycart > a::before {
+      width: 27px;
+      height: 27px;
+    }
+    
+    body .mycart .sepetUrunSayisi {
+      left: 4px;
+      top: 6px;
+    }
+    
+    body .mycart > span > a::before {
+      width: 27px;
+      height: 25px;
+    }
+      
+    body .headerContent #divHeaderCart > a .sepetTecxt {
+    display: none;
+    }
+      
+    body .htop a {
+      color: #000;
+    }
+    
+    body .htop .HeadSoc i {
+      color: #000 !important;
+    }
+    
+    body .htop .ticiContainer {
+      padding: ;
+      margin: 0 400px;
+    }
+    
+    @media (min-width: 1200px) {
+     body .usernav li:first-child::after {
+        color: #0000;
+      }
+    }
+    
+    body .headerUyeGiris a::after {
+      color: #000 !important;
+    }
+    body .htop {
+      background: #fff;
+    }
+    /* header düzenleme bitiş  */
+      
+    /* /UyeGiris Başlangıç */
+    .userDivLeft + #mainHolder_divHizliUyelikAlan {
+      display: none;
+    }
+    
+    #divUyeGirisContent .userDivRow {
+      display: flex;
+      justify-content: center;
+    }
+    
+    #divUyeGirisForm {
+        padding: 80px;
+        box-shadow: 0 0 10px 2px #ddd;
+    }
+    
+    #divUyeGirisForm > div {
+        display: grid;
+    }
+    
+    #divUyeGirisForm .userLoginBtn {
+        order: 2;
+    }
+    
+    #divUyeGirisForm .userLoginBtn:last-child {
+        text-transform: uppercase;
+    }
+    
+    #divUyeGirisForm .userLoginBtn + div {
+        order: 1;
+    }
+    
+    #divUyeGirisForm .userPassBtn {
+        float: left;
+    }
+    
+    #divUyeGirisForm .userWrapper.emailDiv::before {
+      content: "E-Posta Adresi*";
+      font-size: 14px;
+    }
+    
+    #divUyeGirisForm .userWrapper.passDiv::before {
+      content: "Şifre*";
+      font-size: 14px;
+    }
+    
+    #mainHolder_divUserLoginContent {
+      background: #f1f1f1;
+    }
+    
+    .TcxPassEye {
+      top: 50%;
+    }
+    
+    .userPassBtn {
+      font-size: 14px;
+    }
+    
+    #divUyeGirisForm .userSignUp,
+    #divUyeGirisForm .userLoginBtn {
+      background: #000;
+    }
+    
+    .sepetTitleText > span,
+    .iletisimTitleText > span,
+    .userLoginTitleText > span {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 20px;
+    }
+    
+    #divUyeGirisForm .userSignUp {
+        display:block!important;
+        order: 3;
+        color: #fff;
+        text-decoration: none;
+    }
+    /* /UyeGiris Bitiş */
+    
+    /* /iletisim Başlangıç */
+    .iletisimTitleText + div p,
+    .iletisimLeftBlock + div p {
+      line-height: 3;
+    }
+    
+    .iletisimLeftBlock > span {
+        font-size: 20px;
+    }
+    
+    .iletisimLeftBlock > ul {
+        margin-bottom: 50px;
+        line-height: 2.5;
+        font-size: 14px;
+    }
+    /* /iletisim Bitiş */
+    
+    @media (min-width: 1200px) {
+        
+      /* /iletisim Başlangıç */
+      .iletisimLeftBlock {
+        width: 20%;
+        float: left;
+      }
+      .iletisimLeftBlock + div {
+        width: 80%;
+        float: left;
+      }
+      /* /iletisim Bitiş */
+    
+    }
+      
+    body ul.breadcrumb li:nth-child(1) a::before {
+      display: none;
+    }
+    
+    .iletisimTitleText ~ #mainHolder_divBlocks > #divCenterBlock {
+      margin-top: 25px;
+      padding: 40px 0;
+    }
+    
+    .sepetTitleText ,
+    .iletisimTitleText ,
+    .userLoginTitleText {
+        border-bottom: 2px solid #ebebeb;
+    }
+    
+    /* /Hesabim#/Favorilerim Başlangıç */
+    .hesabimFavoriSayfasi .istekDetayIcerik .istekUrunResmi {
+      width: 100%;
+    }
+    .hesabimFavoriSayfasi .istekDetayIcerik {
+      max-width: 300px;
+      display: block;
+    }
+    
+    .hesabimFavoriSayfasi .istekDetayIcerik .favoriUrunDetay .favoriUrunDetaySag {
+      display: block;
+    }
+    .hesabimFavoriSayfasi .istekDetayIcerik .favoriUrunDetay .favoriUrunDetaySag .divItem {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    /* /Hesabim#/Favorilerim Bitiş */
+    
+    @media (max-width: 1199px) {
+      
+      /* Script ile CSS müdahalesi yapılamayan sayfa türleri için düzenleme Başlangıç */
+      body {
+        padding-top: 120px; 
+      }
+      /* Bitiş */
+      
+      body ul.breadcrumb {
+        padding-left: 5vw;
+      }
+      
+      /* /UyeGiris Başlangıç */
+      #divUyeGirisForm {
+        padding: 60px 25px 60px 25px;
+      }
+    
+      .iletisimTitleText > span,
+      .userLoginTitleText > span {
+        position: relative;
+        float: left;
+        top: 0;
+        margin-bottom: 20px;
+      } 
+      /* /UyeGiris Bitiş */
+      
+      /* /iletisim Başlangıç */
+      .iletisimTitleText ~ #mainHolder_divBlocks > #divCenterBlock {
+        margin-top: 40px;
+        padding: 0 25px;
+      }
+      
+      .iletisimAraButon {
+        float: left;
+        width: 100%;
+        display: grid;
+        justify-content: center;
+      }
+      
+      .iletisimAraButon a {
+        display: block;
+        width: 300px;
+        margin: 0 auto 60px auto;
+        text-align: center;
+        border: 2px solid #000;
+        padding: 10px 15px;
+        font-weight: 500;
+        color: #000;
+        font-size: 14px;
+      }
+      
+      .middleTopBlock + div {
+          margin-bottom: 50px;
+      }
+      /* /iletisim Bitiş */
+      
+      /* /Hesabim#/Favorilerim Başlangıç */
+      .hesabimFavoriSayfasi .istekDetayIcerik {
+        max-width: 100%;
+        border: unset;
+      }
+      
+      .hesabimFavoriSayfasi .tdTutucu .row .col-sm-6.col-xs-12 {
+        width: 50%;
+      }
+      
+      .hesabimFavoriSayfasi .tdTutucu .row {
+        margin: 0;
+      }
+      
+      .hesabimFavoriSayfasi .istekDetayIcerik .favoriUrunDetay .favoriUrunDetaySag .divItem a {
+        font-size: 10px;
+      }
+      
+      .hesabimFavoriSayfasi .istekDetayIcerik .favoriUrunDetay .favoriUrunP .hsbmSpan {
+        border-right: unset;
+      }
+      /* /Hesabim#/Favorilerim Bitiş */
+    
+    }
+	
+	
+        .fixed-whatsapp {
+        width: 50px;
+        height: 50px;
+        padding: 8px 11px;
+        position: fixed;
+        bottom: 70px;
+        left: 10px;
+        background-color: #25d366;
+        border-radius: 25px;
+        color: #fff !important;
+        overflow: hidden;
+        white-space: nowrap;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -ms-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        align-items: center;
+        transition: all ease 1s;
+        -webkit-transition: all ease 1s;
+        -moz-transition: all ease 1s;
+        -ms-transition: all ease 1s;
+        -o-transition: all ease 1s;
+        z-index: 999;
+          }
+          .fixed-whatsapp.active {
+        width: 230px;
+         }
+          .fixed-whatsapp:before {
+        font-family: "FontAwesome";
+        margin-right: 12px;
+        font-size: 32px;
+        font-weight: 300;
+        content: "\f232";
+          }
+    
+        .fixed-whatsapp::before{
+        background-image: url("https://www.oksit.com.tr/Uploads/Images/whatsapp-white.png");
+        }
+        .fixed-whatsapp::before {
+        content: " " !important;
+        height: 30px;
+        padding: 0 15px;
+        background-size: contain;
+        }

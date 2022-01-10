@@ -1,0 +1,411 @@
+    .Images.imageZoomPreview,
+    #divVideoGoruntulemeAlan {
+      display: none!important;
+    }
+    body #divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box.selected::after {
+    border-color: #000;
+    }
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+    border-color: black;
+    }
+    body .urunTab > ul > li.active > a {
+      border-color: gray !important;
+    }
+    
+    body .UrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover {
+      border-color: gray !important;
+    }
+    
+    bodu #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box {
+      border-color: #8080803d !important;
+    }
+    
+    .SmallImages {
+      width: 100%;
+      max-height: 100%;
+    }
+    .SmallImages div {
+        width: 100%;
+    }
+    .SmallImages div img {
+        width: 100%;
+    }
+    /**/
+    
+    #divIcerik {
+      max-width: 1920px;
+    }
+    body .navigation .navUl > li:hover > a::after {
+    background: gray !important;
+    }
+    body .RightDetail .eksecenekLine.resimlivaryasyon .right_line .size_box img {
+      width: 35px !important;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box::after {
+      border-radius: 100%;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box {
+      width: 35px;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box img {
+      border-radius: 100%;
+      padding: 3px;
+    }
+    
+    
+    .categoryTitle {
+      display: none;
+    }
+    
+    #divAdetCombo {
+      width: auto;
+      margin-right: 15px;
+    }
+    
+    .ProductIcon2 {
+      display: none;
+    }
+    .ProductIcon {
+      width: auto;
+    }
+    .TopDet .product_social_icon_wrapper {
+      width: auto;
+      margin: 30px 0 30px 30px;
+    }
+    .urunOzellik {
+      margin: 0;
+    }
+    
+    .PriceList {
+      width: auto;
+    }
+    
+    #divAdetCombo select,
+    .basketBtn input {
+      border-radius: 5px;
+    }
+    body .PriceList {
+    border: unset;
+    margin-bottom: 0;
+    padding: ;
+    padding-bottom: 10px !important;
+    }
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+      background: unset;
+      color: #000;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover {
+      background: unset;
+      color: #000;
+    }
+    
+    @media (min-width: 769px) {
+      body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon {
+    margin-bottom: 0;
+    }
+      body .RightDetail {
+        height: 75vh;
+        height: 100vh;
+    }
+    
+    body .basketBtn {
+        width: 400px;
+    }
+    body .basketBtn input {
+        height: 50px;
+    }
+    
+      body .RightDetail .BottomList {
+      display: none;
+    }
+    
+    body .PriceList {
+      border: unset;
+      padding: 0;
+    }
+    
+    body #divUrunEkSecenek {
+      padding: 0;
+      border: unset;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine {
+      border: unset;
+      padding: unset;
+    }
+    
+    body .UFavorilerimeEkle {
+      display: none;
+    }
+    
+    body .basketBtn {
+      margin-bottom: 20px;
+    }
+    
+    body #divAdetCombo {
+      display: none !important;
+    }
+    
+      body .RightDetail {
+        top: 100px;
+      }
+    
+    
+      body .ProductDetailMainRow {
+    display: none;
+    }
+     html body.margin {
+    padding-top: 0;
+    }
+     body .leftImage {
+    margin-top: -80px;
+    }
+      body #header {
+    background: transparent;
+    }
+    
+      .RightDetail {
+        position: sticky;
+        top: 150px;
+        width: 50%;
+        padding-left: calc(27.5% - 250px);
+        overflow-y: auto; /* scroll */
+        height: 75vh;
+      }
+    
+      .leftImage {
+        width: 50%;
+      }
+    }
+     body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box {
+    border-radius: 5px;
+    min-width: 40px;
+    min-height: 32px;
+    }
+    @media (max-width: 768.9px) {
+    
+      body .ticiFooterContent .ticiFooterMenu .footerCol h3 {
+    font-family: inherit;
+    font-size: 13px;
+    line-height: 45px;
+    padding-bottom: 2px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgb(29, 29, 29);
+    font-weight: 500;
+    }
+      body .sliderBannerContainer {
+      display: none;
+    }
+    
+    body .ticiFooterContent .footerRow {
+      margin-top: 50px;
+    }
+    
+     body .ticiFooterContent .ticiFooterMenu .footerCol .fmenu-wrap {
+        border: unset;
+      }
+      body .ticiFooterContent .ticiFooterMenu .footerCol.active h3 {
+        border-bottom: 1px solid #eaeaea;
+      }
+     body .ticiFooterContent .ticiFooterMenu .footerCol h3 {
+        border-bottom: 1px solid #eaeaea;
+      }
+     body .ticiFooterContent .footerCol.f-col-3 {
+        padding: 0;
+      }
+    
+    
+        body a#linkOncekiSayfa {
+        display: none;
+      }
+    
+    body #aFavoriEkleBtn > span:nth-child(1) > i:nth-child(1) {
+      display: none;
+    }
+    
+      body #header {
+        background-color: rgba(255, 255, 255, 0);
+     
+    }
+    
+      body {
+          padding-top: 45px;
+      }
+      body a#linkOncekiSayfa {
+        top: 60px;
+      }
+      .UFavorilerimeEkle {
+        top: 55px;
+      }
+      .ProductIcon {
+        width: 100%;
+        margin: 30px 0 0 0;
+      }
+      body #divAdetCombo {
+    display: none !important;
+    }
+    body #divEtiketler {
+    display: none;
+    }
+    }
+    body .urunTab > ul > li.active > a {
+    border-color: #000 !important;
+    }
+    body .urunTab > ul > li.active > a {
+      border-color: #000 !important;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected {
+      border: 2.5px solid;
+    }
+    
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box {
+      border-color: black;
+    }
+    body #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover {
+    border-color: #000;
+    }
+	
+	
+    .urun-detay-yazi-sayac {
+      float: left;
+      padding: 10px 0 22.5px;
+      width: 75%;
+    }
+    @media(max-width: 768px){
+        .urun-detay-yazi-sayac {
+            width: 100%;
+    }
+        }
+    .urun-detay-yazi-sayac > .ikonlar > div {
+    justify-items: center;
+    }
+    .urun-detay-yazi-sayac > .ikonlar {
+      display: flex;
+      justify-content: space-around;
+    }
+    .urun-detay-yazi-sayac > .ikonlar > div {
+      display: grid;
+      text-align: center;
+    }
+    .urun-detay-yazi-sayac > .ikonlar img {
+      height: 50px;
+    }
+    .urun-detay-yazi-sayac > .ikonlar .resim.b,
+    .urun-detay-yazi-sayac > .ikonlar .rakam.b,
+    .urun-detay-yazi-sayac > .ikonlar .yazi.b,
+    .urun-detay-yazi-sayac > .butonlar .buton.b {
+      display: none;
+    }
+    .urun-detay-yazi-sayac > .ikonlar .rakam {
+      font-weight: 500;
+      font-size: 15px;
+    }
+    .urun-detay-yazi-sayac .aciklama {
+      font-weight: 500;
+    }
+    .urun-detay-yazi-sayac .butonlar {
+      float: left;
+      margin-top: 15px;
+    }
+    .urun-detay-yazi-sayac .butonlar label {
+      margin-right: 5px;
+    }
+    
+    /*
+    .counter:not(.is-visible) {
+        visibility: hidden;
+    }
+    */
+    
+    .switch-checkbox {
+      position: relative;
+      display: inline-block;
+      width: 60px;
+      height: 18px;
+      
+      float: left;
+    }
+    
+    .switch-checkbox input { 
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+    
+    .slider-checkbox {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    
+    .slider-checkbox:before {
+      position: absolute;
+      content: "";
+      height: 10px;
+      width: 10px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    
+    input:checked + .slider-checkbox {
+      background-color: #2196F3;
+    }
+    
+    input:focus + .slider-checkbox {
+      box-shadow: 0 0 1px #2196F3;
+    }
+    
+    input:checked + .slider-checkbox:before {
+      -webkit-transform: translateX(42px);
+      -ms-transform: translateX(42px);
+      transform: translateX(42px);
+    }
+    
+    /* Rounded sliders */
+    .slider-checkbox.round {
+      border-radius: 34px;
+    }
+    
+    .slider-checkbox.round:before {
+      border-radius: 50%;
+    }
+	
+	
+/* Hataları düzeltme amaçlı eklenen ek kodlar: */
+@media (min-width: 768px) {
+  #divProductGalleryThumb {
+    display: none;
+  }
+
+  .ProductGallery .gallery-container .GalleryArea {
+    margin-left: 0;
+  }
+  #divProductImageCarousel.owl-carousel .owl-stage {
+    width: auto!important;
+  }
+  #divProductImageCarousel.owl-carousel.owl-drag .owl-item {
+    width: 100%!important;
+  }
+  #divProductImageCarousel.owl-carousel.owl-drag .owl-item a img {
+    width: 100%;
+  }
+  #div-drift-container.drift-container.drift-index,
+  body > .drift-bounding-box.drift-open {
+    display:none!important;
+  }
+}

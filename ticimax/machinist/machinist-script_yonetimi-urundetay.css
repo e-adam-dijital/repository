@@ -1,0 +1,93 @@
+  .ProductIcon { display: none;}
+ body ul.breadcrumb li:nth-last-child(2):after { display: none;}
+ body ul.breadcrumb li:nth-last-of-type(1) {max-width: 100%; display: none;}
+ 
+ 
+    body .urunOzellikTab .urunTab > ul > li.active .urunDetayPanel.panelToggle{
+     display: none !important;
+   }
+   @media(max-width: 768px){
+       body .TopDet #IlgiliUrunDiv ul {
+     height: 100%;
+   }
+ 
+ body #divIlgiliUrunler .jCarouselLite .ulUrunSlider .owl-stage .owl-item {
+   width: 16% !important;
+ }
+  
+   }
+   .UD_Share{float: left;width: 100%;right: 0;padding-top: 10px;display:none;}
+ .UD_Share ul{float: left;}
+ .UD_Share ul li{float: left;}
+ .UD_Share ul li a{float: left;border: 1px solid #e5e5e5;line-height: 38px;color: #fff;font-size: 13px;padding: 0 10px;background: #2eba44;}
+ .UD_Share ul li a i{float: left;line-height: 38px;margin-right: 12px;font-weight: 300;}
+ .UD_Share ul li.whts a i{color: #fff;font-size: 23px;}      
+ .UD_Share ul li {list-style:none;}                  
+ @media screen and (min-width:1025px) and (max-width:1200px) {
+ .UD_Share ul li a{font-size: 13px;}
+ }   
+ @media screen and (min-width:768px) and (max-width:992px) {
+ .UD_Share ul li a{padding: 0 10px;font-size: 10px;}
+ .UD_Share ul li.whts a i{font-size: 20px;}
+ }
+ @media screen and (max-width:767px) {
+   .UD_Share{bottom: 0px;position:relative;margin-top:10px;}
+   .UD_Share ul {float:none;}
+   .UD_Share ul li{margin: 0;width: 100%;}
+   .UD_Share ul li a{padding: 0 5px;width: 100%;font-size: 12px;line-height: 35px;text-align:center;}
+   .UD_Share ul li a i{line-height: 35px;margin-right: 2px;display: inline-block;vertical-align:top;float: none;}
+   .UD_Share ul li.whts a i{font-size: 15px;}
+ }   
+ 
+ 
+ .RightDetail .MiddleList .basketBtn::after {
+     content: "";
+     background-image: url("https://www.machinist.com.tr/Uploads/EditorUploads/checkmark-52px.png");
+     width: 26px;
+     height: 23px;
+     background-size: 26px;
+     position: absolute;
+     top: 10px;
+     left: 50%;
+     display: none;
+ }
+ 
+ html body .ticimaxDialogContent {
+     display: none !important;
+ }
+ 
+ body .sepeteEklendi {
+     text-align: center;
+     background: green;
+     color: #fff;
+     padding: 5px;
+     display: none;
+     position: fixed;
+     top: 0;
+     width: 100%;
+     z-index: 99999;
+ }
+ 
+ body .yetersizStok {
+     text-align: center;
+     background: red;
+     color: #fff;
+     padding: 5px;
+     display: none;
+     position: fixed;
+     top: 0;
+     width: 100%;
+     z-index: 99999;
+ }
+ 
+ 
+     @media (min-width: 1200px){
+       #bedenTablosu img {
+  max-width: 1500px;
+  max-height: 750px;
+}
+       #divTabOzellikler {
+       height: 200px;
+       overflow-y: scroll;
+     } 
+}

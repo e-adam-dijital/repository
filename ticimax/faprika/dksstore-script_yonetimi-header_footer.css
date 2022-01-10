@@ -1,0 +1,964 @@
+/* Tüm Sayfalar - Header */
+
+body #logo {
+    max-width: 170px !important;
+}
+  body .productItem .discountPrice {
+float: left;
+margin-right: 5px;
+}
+  body .searchContent ul {
+padding: 0 !important;
+}
+  @media(min-width: 1200px){
+   
+
+body .navigation .navUl > li > .Flexscroll {
+  max-height: 530px;
+}
+
+
+body .navigation #HeaderMenu2 li.ulVar .Flexscroll > ul .menuBanner img {
+margin-bottom: 10px;
+}
+}
+@media(min-width:1200px) and (max-width:1450px){
+  .navigation .navUl > li .Flexscroll > ul li a{
+    font-size: 12px;
+    margin-right: 4px;
+  }
+}
+      html body.sepetimBody .basketCompletebtn {
+    background: #000;
+    }
+    .BasketPage .bOdeme.pasif {
+    background: #000;
+    opacity: .5;
+    }
+    html body.sepetimBody .basketCompletebtn {
+    background: #000;
+    }
+    body .button.headerCartBtn {
+        width: 97%;
+        color: #fff;
+        background: #000;
+        line-height: 25px;
+    }
+    body .CartProduct .button.headerOrderBtn {
+        display: none !important;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent #mainHolder_divHizliUyelikAlan.userDivRight {
+        display: none;
+    }
+    .uyeButtonAktif {
+        background: #e2e6eb;
+    }
+
+    #mainHolder_divUserLoginContent.userLoginContent #divUyeGirisForm .yeniUyelikButon {
+        text-align: center;
+        padding: 15px;
+        border: 1px solid #e2e6eb;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent #divUyeGirisForm .yeniUyelikButon span {
+        font-size: 14px;
+        font-weight: bold;
+        color: #000;
+        cursor: pointer;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent .userDivLeft #divUyeGirisForm .uyelogo,
+    #mainHolder_divUserLoginContent.userLoginContent .userDivRight .uyelogo {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    #mainHolder_divUserLoginContent.userLoginContent .userDivLeft #divUyeGirisForm .spanTittle,
+    #mainHolder_divUserLoginContent.userLoginContent .userDivRight .spanTittle {
+        display: none;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent {
+        text-align: center;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent .girisUyeOlContainer > div {
+        width: 50%;
+        display: inline-block;
+        padding: 10px;
+        border: 2px solid #e2e6eb;
+    }
+    .girisUyeOlContainer {
+        width: 29.1%;
+        margin: 0 auto;
+    }
+    #mainHolder_divUserLoginContent.userLoginContent #divUyeGirisContent .girisUyeOlContainer > div {
+        cursor: pointer;
+    }
+    body .more .headerOrderBtn {
+        background: #000 !important;
+    }
+
+    @media (min-width: 1200px) {
+        body .navigation .navUl > li .Flexscroll > ul > li > ul {
+            max-height: 100%;
+        }
+        body .Flexscroll ul > li {
+            margin-top: 10px;
+        }
+
+        body .userContainer .userDivLeft,
+        .userContainer .userDivRight {
+            width: 380px;
+        }
+        body #divUyeGirisContent .userDivRow {
+            display: flex;
+            justify-content: center;
+        }
+
+        body .CartProduct .headerCartBtn:hover {
+            background: #000;
+        }
+
+        body #back-to-top a {
+            background: #fff;
+            color: #000;
+            box-shadow: 0px 3px 20px -3px rgba(0, 0, 0, 0.25);
+        }
+
+        body .mycart .sepetUrunSayisi {
+            width: 16px;
+            line-height: 16px;
+            background: #525252;
+        }
+
+        body .header-top-container .info::before {
+            content: "";
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/chat-1.png);
+            width: 16px;
+            height: 11px;
+            background-size: 16px;
+            display: inline-block;
+            float: unset;
+            margin-right: 5px;
+            height: 15px;
+        }
+
+        body #header .headerContentContainer #btnKelimeAra {
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/search.png);
+            width: 31px;
+            height: 29px;
+            background-size: 27px;
+            margin-top: 4px;
+        }
+
+        body .headerHesabim::before,
+        body .headerUyeGiris a::before {
+            content: "";
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-1.jpg);
+            width: 26px;
+            height: 23px;
+            background-size: 30px;
+        }
+
+        body .mycart > a::before {
+            content: "";
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-2.jpg);
+            background-size: 30px;
+            width: 26px;
+            height: 23px;
+            display: block;
+        }
+
+        body .fa-search::before {
+            content: "";
+            background-image: url(https://www.dksstore.com/Uploads/EditorUploads/artboard-3.jpg);
+            width: 26px;
+            height: 23px;
+            background-size: 30px;
+            display: block;
+        }
+
+        .divIcerikContainer {
+            background: #f3f6f9;
+        }
+
+        body .navigation .navUl > li > .Flexscroll {
+            z-index: 999;
+        }
+
+        body #footer .linkler .blink > ul > li > span {
+            font-size: 14px;
+            color: #212121;
+            font-weight: 600;
+            margin-bottom: 25px;
+        }
+
+        body #footer .linkler .blink > ul > li > ul > li > a {
+            color: #666;
+        }
+
+        body .navigation .navUl > li:hover > a {
+            color: #fff;
+        }
+
+        body .navigation .navUl > li:hover > a::after {
+            border-bottom: unset;
+        }
+
+        body .navigation .navUl > li:hover > a::after {
+            background: unset;
+        }
+
+        body .navigation .navUl > li:hover > a {
+            background: #000;
+        }
+
+        #footer .linkler .blink ul > .footerKurumsal .kurumsalSosyal span {
+            margin-right: 10px;
+        }
+
+        body .ebultenDiv span {
+            color: #666;
+        }
+
+        body .copy {
+            color: #666;
+        }
+
+        body .FooterSC {
+            background-color: #fff;
+        }
+
+        body .htop span,
+        .htop a {
+            color: #666;
+        }
+
+        body .searchContent {
+            max-width: 100%;
+            width: 36%;
+            margin-right: 75px;
+            width: 40%;
+        }
+
+        body .navigation .navUl > li > a {
+            color: #212121;
+            font-weight: 600;
+        }
+
+        body .navigation #HeaderMenu2 > li > a {
+            text-transform: uppercase;
+            z-index: 9;
+        }
+
+        body #header .headerContentContainer #txtbxArama {
+            color: #9a9a9a;
+            border: 1px solid #e2e6eb;
+            border-radius: 3px;
+            font-size: 13px;
+            height: 35px;
+            font-weight: normal;
+        }
+
+        body #header .headerContentContainer #btnKelimeAra {
+            border-left: 1px solid #e2e6eb;
+        }
+
+        body .navigation #HeaderMenu2 > li > a::before {
+            content: "";
+            position: absolute;
+            right: 0;
+            height: 50%;
+            width: 1px;
+            border-left: 1px solid #e2e6eb;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+        }
+
+        body .navigation .navUl > li > a {
+            line-height: 45px;
+        }
+
+        body .headerContentContainer {
+            max-width: 1200px;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        body .headerContent {
+            margin: 0;
+            padding: 0;
+        }
+
+        body .navigation {
+            border-top: 1px solid #e2e6eb;
+            height: 40px;
+        }
+
+        body .headercontetntContainer {
+            max-width: 1200px;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        body .headerContent {
+            box-shadow: unset;
+        }
+
+        body .htop {
+            border-bottom: 1px solid #e2e6eb;
+        }
+
+        body .htop span,
+        .htop a {
+            font-size: 11px;
+        }
+
+        body .top * {
+            line-height: 27px;
+        }
+
+        body #header.homeHeader {
+            border-bottom: 1px solid #e2e6eb;
+        }
+
+        body #header.homeHeader {
+            position: unset;
+        }
+
+        body .htop {
+            background: #fff;
+        }
+
+        body .header-top-container .info {
+            float: left;
+        }
+
+        body .header-top-container .header-top-links {
+            float: right;
+        }
+
+        body .header-top-container .header-top-links a {
+            margin-left: 15px;
+        }
+
+        body .navigation {
+            display: block;
+            position: relative;
+            float: left;
+            clear: both;
+            margin: 0 !important;
+            width: 100%;
+        }
+
+        body .searchContent {
+            position: unset;
+            float: unset;
+            display: inline-block;
+            margin-top: 10px;
+            background: unset;
+        }
+
+        body #divIcerik {
+            max-width: 1200px;
+            margin: 0 auto !important;
+        }
+
+        body #footer .ebultenDiv {
+            width: 350px;
+        }
+
+        #footer .contact .contact-block:not(.wide) {
+          display: flex;
+        }
+
+        #footer .contact .contact-block {
+            padding: 8px;
+            border: 1px solid #e2e6eb;
+            font-size: 11px;
+            margin-bottom: 5px;
+        }
+
+        body #footer .contact .wide {
+            width: 99%;
+        }
+
+        body #footer .linkler {
+            padding-bottom: 0;
+        }
+
+        body .creditCard {
+            border-top: 1px solid #e2e6eb;
+        }
+
+        body .FooterMiddle {
+            border-top: 1px solid #e2e6eb;
+        }
+
+        body .ebultenGelecek #divNewsLetter {
+            border: 1px solid #e2e6eb;
+        }
+
+        .divIcerikContainer {
+            width: 100%;
+            display: inline-block;
+        }
+    .CartProduct .SProduct li a .SepettopAd span:last-child {
+      display: none !important;
+      }
+    }
+
+    @media (max-width: 768px) {
+        body .category-vertical-filters.top-filters .tukgo {
+display: none;
+}
+        body .headerContent .mycartClick > a {
+            float: left;
+            color: #000;
+        }
+
+        body .headerContent .mycartClick > a span {
+            display: none;
+        }
+
+        body .headerContent .mycartClick > a {
+            margin-right: 10px;
+        }
+
+        body .headerContent .mobilMenuAcButton > span {
+            display: none;
+        }
+
+        body .bottomHead {
+            display: none;
+        }
+
+        body #logo {
+            float: left;
+            margin-left: 70px;
+        }
+
+        body .homeHeader .arabtn {
+            display: block;
+        }
+
+        body .arabtn {
+            right: 85px !important;
+        }
+
+        body .homeHeader .searchContent {
+            display: none;
+        }
+
+        body .searchContent.active {
+            display: block !important;
+        }
+
+        body {
+            padding-top: 60px !important;
+        }
+
+        body .mobilMenu {
+            width: 100%;
+        }
+
+        body .menuUstBolum .mobilMenuBT {
+            color: #000;
+        }
+
+        body .menuUstBolum .CloseBtnMenu i {
+            color: #000;
+        }
+
+        body .menuUstBolum {
+            background: #fff;
+        }
+
+        body .mobilMenu .navUl > li > a,
+        .mobilMenu .navUl > li > ul li a {
+            color: #666;
+        }
+
+        body .mycart .sepetUrunSayisi {
+            position: absolute !important;
+            top: 5px;
+        }
+
+        body #footer .linkler .blink > ul li {
+            width: 50%;
+        }
+
+        body #footer .linkler .blink > ul > li > ul {
+            display: block !important;
+        }
+
+        #footer .linkler .blink > ul ul li {
+            width: 100%;
+        }
+
+        body .FooterMiddle .ebultenDiv {
+            display: block !important;
+        }
+
+        body .FooterMiddle li:not(.kurumsalSosyal) > span {
+            color: #000 !important;
+        }
+
+        html body #footer .linkler .blink > ul > li:last-child {
+            width: 100%;
+        }
+
+        body .contact-block {
+            border: 1px solid #e2e6eb;
+            margin-top: 6px;
+            padding: 5px;
+            display: flex;
+        }
+
+        body #footer .linkler .blink > ul > li > ul > li > a {
+            color: #666;
+        }
+
+        body .ebultenDiv span {
+            color: #666;
+        }
+
+        body .FooterTop,
+        .FooterMiddle,
+        .FooterBottom {
+            background: #fff;
+        }
+
+        #footer .linkler .blink > ul > li > span {
+            border: unset;
+        }
+
+        body #footer {
+            padding: 10px;
+            border-top: 2px solid #e2e6eb;
+        }
+
+        body #footer .linkler .blink > ul > li > span .ackapabtn {
+            display: none;
+        }
+
+        body .ebultenGelecek #divNewsLetter {
+            border: 1px solid #e2e6eb;
+        }
+
+        body #footer .linkler .blink > ul > li > span {
+            pointer-events: none;
+        }
+
+        body .ebultenDiv {
+            border: unset;
+        }
+
+        body #footer .linkler .blink > ul > li > ul {
+            border: unset;
+        }
+
+        .mobilMenu {
+            height: 100%;
+        }
+
+        body .mycart .sepetUrunSayisi {
+            background: #000;
+        }
+
+        body .CartProduct .button {
+            background: #000;
+        }
+
+        body .CartProduct {
+            width: 100%;
+            height: 100%;
+        }
+
+        .CartProduct .button {
+            color: #fff !important;
+        }
+
+        body .SepetUst {
+            background: #000;
+        }
+
+        body .userLoginBtn {
+            background: #000 !important;
+        }
+
+        .mobilMenu .navUl > li,
+        .mobilMenu .navUl > li > ul li {
+            margin-top: 10px;
+        }
+        body .girisUyeOlContainer {
+            width: 80%;
+        }
+        html body .sepetListAlt #mainHolder_ucSepetim_btnSepetiTemizle {
+            padding: 5px 36px;
+        }
+        body .button.headerCartBtn {
+            width: 97%;
+        }
+        body .mobilMenuAcButton {
+            left: 20px;
+            top: 15px;
+            font-size: 25px;
+        }
+        body .mycartClick {
+            right: 20px;
+        }
+        body .CartProduct .button.headerCartBtn {
+            line-height: 40px;
+        }
+
+
+.topFilter-Block_Text .mobilFilterBtn::before{
+content: '';
+background-image: url(https://www.dksstore.com/Uploads/EditorUploads/filtre.png);
+width: 25px;
+height: 26px;
+background-size: 25px;
+display: inline-block;
+z-index: 999;
+position: relative;
+left: 1px;
+top: 5px;
+}
+body .mobilFilterOpenBtn .button.mobilSiralamBtn {
+display: flex;
+}
+.brandlistselection .sortingContent::before {
+    content: '';
+    background-image: url(https://www.dksstore.com/Uploads/EditorUploads/editor.png);
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    display: inline-block;
+    z-index: 999;
+    position: absolute;
+    left: 5px;
+    top: 10px;
+}
+body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+font-size: 11px;
+padding-left: 25px;
+}
+
+body .mobilMenu .navUl > li, .mobilMenu .navUl > li > ul li {
+  border: unset;
+}
+
+body .mobilMenu .navUl > li .ResimsizDown i, .mobilMenu .navUl > li > ul li .ResimsizDown2 i {
+  font-size: 40px;
+}
+
+body .mobilMenu .navUl > li .ResimsizDown {
+  z-index: 2;
+  top: 0px;
+height: 100%;
+}
+
+body .mobilMenu .menuIcerikAlan #divUcTopMenu ul img {
+  width: 95%;
+  z-index: 3;
+  position: relative;
+}
+body .mycartClick i, body .arabtn i{
+    z-index: 9;
+    position: relative;
+}
+
+.mobilMenu .mobilContainer h4 {
+  font-size: 19px;
+  opacity: 0.6;
+}
+.mobilMenu .mobilContainer .mobilMenuHesap li a {
+  color: #000;
+  font-size: 17px;
+}
+.mobilMenu .mobilContainer .mobilMenuHesap li {
+  margin-top: 15px;
+}
+.mobilMenu .mobilContainer .mobilMenuSosyal li {
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 15px;
+  font-size: 25px;
+  filter: brightness(0%);
+}
+.mobilMenu .mobilMenuHesap {
+margin: 10px;
+float: left;
+width: 100%;
+}
+.mobilMenu .mobilMenuSosyal {
+margin: 10px;
+float: left;
+width: 100%;
+}
+
+.mobilMenu .mobilContainer .mobilMenuSosyal li {
+display: inline-block;
+margin-right: 20px;
+margin-top: 15px;
+font-size: 25px;
+filter: brightness(0%);
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .giris a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/account.png);
+  width: 24px;
+  height: 23px;
+  background-size: 25px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .favorii a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/favourites.png);
+  width: 26px;
+  height: 23px;
+  background-size: 26px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .taksit a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/debit-card-64px.png);
+  width: 24px;
+  height: 23px;
+  background-size: 25px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .siparis a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/online-store-60px.png);
+  width: 24px;
+  height: 23px;
+  background-size: 25px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .sirarisT a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/delivery-64px.png);
+  width: 24px;
+  height: 23px;
+  background-size: 25px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .magaza a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/online-shop-48px.png);
+  width: 24px;
+  height: 23px;
+  background-size: 25px;
+  display: block;
+  margin-right: 10px;
+}
+
+.mobilMenu .mobilContainer .mobilMenuHesap .iletisim a::before {
+  content: "";
+  background-image: url(https://www.dksstore.com/Uploads/EditorUploads/phone-48px.png);
+  width: 24px;
+  height: 28px;
+  background-size: 28px;
+  display: block;
+  margin-right: 10px;
+}
+
+
+  body .mobilMenu .mobilContainer .mobilMenuHesap li a {
+    display: flex;
+  }
+
+.mobilMenu .menuIcerikAlan #HeaderMenu2 .ResimsizDown {
+display: grid;
+align-content: center;
+justify-content: end;
+}
+}
+
+
+/* Site Footer */
+
+@media (max-width: 767.98px){
+  .footerKurumsal span i {
+    margin: 5px 12px;
+  }
+}
+
+
+/*  Tüm Sayfalar  */
+
+    @media screen and (max-width: 767px) {
+  body .bankimg {
+  display: block;
+  max-width: 80px;
+  }
+  }
+    #divOdemeMenu .odemeSecenekMenu {
+        display: grid;
+    }
+  
+    .odemeSecenekMenu #mainHolder_ucOdeme_liMenuKrediKarti {
+      order: 1;
+    }
+  
+    .odemeSecenekMenu #mainHolder_ucOdeme_liMenuKapidaOdeme {
+      order: 0;
+    }
+    
+    .OdemeMenu ul li > a {
+      color: #000;
+    }
+	
+	
+  .fixed-whatsapp {
+      width: 50px;
+      padding: 8px 11px;
+      position: fixed;
+      bottom: 70px;
+      left: 10px;
+      background-color: #25d366;
+      border-radius: 25px;
+      color: #fff !important;
+      overflow: hidden;
+      white-space: nowrap;
+      display: -webkit-flex;
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: -ms-flex;
+      display: flex;
+      -webkit-align-items: center;
+      -moz-align-items: center;
+      -ms-align-items: center;
+      align-items: center;
+      transition: all ease 1s;
+      -webkit-transition: all ease 1s;
+      -moz-transition: all ease 1s;
+      -ms-transition: all ease 1s;
+      -o-transition: all ease 1s;
+      z-index: 999;
+    }
+    .fixed-whatsapp.active {
+      width: 250px;
+    }
+    .fixed-whatsapp:before {
+      font-family: "FontAwesome";
+      margin-right: 12px;
+      font-size: 32px;
+      font-weight: 300;
+      content: "\f232";
+    }
+  
+      .fixed-whatsapp::before{
+      background-image: url("https://www.dksstore.com/Uploads/EditorUploads/whatsapp-white.png");
+      }
+       .fixed-whatsapp::before {
+      content: " " !important;
+      height: 30px;
+      padding: 0 15px;
+      background-size: contain;
+  }
+        #divUcTopMenu li a,
+      #divUcTopMenu li a{
+      color: #5f5f73;
+      padding: 0 12.5px;
+  }
+  
+  
+      body .cargoIcon {
+  bottom: 95px;
+        line-height: 30px;
+  font-size: 11px;
+  width: 50%;
+  border-radius: 26px;
+  left: unset;
+  right: 5px;
+  }
+  
+  .ozelAlan4 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+  }
+  
+  
+    .ps-container--sticky-scroll {
+      position: absolute;
+      opacity: 0;
+      z-index: -100;
+      left: 0;
+      right: 0;
+      top: 0;
+  }
+  .ps-container--sticky-scroll .brands {
+      justify-content: space-evenly;
+  }
+  .ps-container--sticky-scroll .brands {
+      background: #FFF;
+      border-bottom: 2px solid #333F48;
+      height: 60px;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
+      overflow-y: hidden;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+  }
+  .ps-container--sticky-scroll .brands li {
+      padding: 0 20px;
+  }
+  .ps-container--sticky-scroll .brands {
+      list-style: none;
+      white-space: nowrap;
+  }
+  .ps-container--sticky-scroll .brands a {
+      display: block;
+      color: #333F48;
+  }
+  .ps-container--sticky-scroll .brands img {
+      vertical-align: middle;
+      height: auto;
+  }
+  .ps-container--sticky-scroll.is-pinned {
+      transition: opacity 0.4s ease-in-out;
+      opacity: 1;
+      position: fixed;
+      z-index: 999;
+  }
+  @media(max-width: 768px){
+    body .ps-container--sticky-scroll.is-pinned {
+      z-index: 1;
+  }
+  }
+  
+
+.BasketDetail.HediyeContentContainer span, .BasketDetail.HediyeContentContainer span::before {
+  color: white;
+}
+#mainHolder_divHediyeContentContainer {
+  background: linear-gradient(to right, #5c5c5c 50%, #e3e3e3 75%, #b3b3b3 100%);
+}
+.HediyeContent textarea {
+  width: 50%;
+}
+@media (max-width: 767.98px){
+  .HediyeContent + img {
+    right: 5%!important;
+    width: 40%!important;
+  }
+}

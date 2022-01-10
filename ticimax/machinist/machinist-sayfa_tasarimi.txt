@@ -1,0 +1,2849 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3 hide-mobile">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<a href="/erkek">
+						<video class="video-banner-desktop" width="100%" height="auto" autoplay="autoplay"
+							loop="loop" muted="" playsinline="">
+							<source
+								src="https://player.vimeo.com/external/653735620.hd.mp4?s=32576b28f276e38fe427302ac39dd58778e0110d&profile_id=175"
+								type="video/mp4">
+							</source>
+						</video>
+						<video class="video-banner-mobile" width="100%" height="auto" autoplay="autoplay"
+							loop="loop" muted="" playsinline="">
+							<source
+								src="https://player.vimeo.com/external/653736116.sd.mp4?s=9d49583dfe8937b19a235665f5bb774ff7007b1b&profile_id=165"
+								type="video/mp4">
+							</source>
+						</video>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-15 t-pb-15 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<div class="HomeCarousel">
+						<div class="HC-Container">
+							<div><a href="/ceket-mont"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/ceket-mont.jpg?t=20211208164048">
+									<span>Ceket-Mont</span> </a></div>
+							<div><a href="/erkek-hoodie"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/oversize.jpg?t=20211208164048">
+									<span>Oversize</span> </a></div>
+							<div><a href="/erkek-hoodie"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/hoodie.jpg?t=20211208164048">
+									<span>Hoodie</span> </a></div>
+							<div><a href="/kimono"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/kimono.jpg?t=20211208164048">
+									<span>Kimono</span> </a></div>
+							<div><a href="/erkek-takimlar"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/takimlar.jpg?t=20211208164048">
+									<span>Takımlar</span> </a></div>
+							<div><a href="/sweatshirt"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/sweat.jpg?t=20211208164048">
+									<span>Sweat</span> </a></div>
+							<div><a href="/erkek-gomlek"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/gomlek.jpg?t=20211208164048">
+									<span>Gömlek</span> </a></div>
+							<div><a href="/pantolon"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/jean.jpg?t=20211207175152">
+									<span>Jean</span> </a></div>
+							<div><a href="/kadin-sweatshirt"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/kadin-sweat.jpg?t=20211208164048">
+									<span>Kadın Sweat</span> </a></div>
+							<div><a href="/kadin-esofman"><img alt=""
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/kadin-esofman.jpg?t=20211207175152">
+									<span>Kadın Eşofman</span> </a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="/ceket-mont"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-a16ad9f6-d.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="/erkek-gomlek"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-653863c8-6.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.machinist.com.tr/erkek-sweatshirt-basic"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/Machinist-Clothing--Street--Urban--Wear-129b.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-0 t-lr-0 design-bg-1 t-vw-5"
+		data-ayar='{"autoplay":true,"loop":false,"autoplayTimeout":3000,"margin":20,"itemCount":4}'>
+		<div class="ticiContainer hazirBlokContent anasayfa_urun_slider">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="sliderBannerContainer " id="divUrunler" init="false">
+						<div class="ProductList Kategori1 kategoriBlock">
+							<div class="jCarouselLite blockID-0 lazyImage" data-lazy-function="owlSlider">
+								<div class="JKatAdi categoryTitle">
+									<span class="satir1">
+										<span class="bold">
+											<span class="satir1">YENİ GELENLER</span>
+										</span>
+									</span>
+								</div>
+								<div class="clear"></div>
+								<ul class="ulUrunSlider sliderOpacity">
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3126"
+													title="Oversize Pitikare Çift Cepli Siyah-Kırmızı-Ekru Gömlek"
+													href='/oversize-pitikare-cift-cepli-siyah-kirmizi-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g863siykirekrumachinist-clothing-a-bb7a.jpg"
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g863siykirekrumachinist-clothing-a-bb7a.jpg"
+														alt="Oversize Pitikare Çift Cepli Siyah-Kırmızı-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3126"
+												data-variant-id="12768">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3126"><a
+														title="Oversize Pitikare Çift Cepli Siyah-Kırmızı-Ekru Gömlek"
+														href='/oversize-pitikare-cift-cepli-siyah-kirmizi-ekru-gomlek'>Oversize
+														Pitikare Çift Cepli Siyah-Kırmızı-Ekru Gömlek</a>
+												</div>
+												<div class="productStokKodu"><span>G863SİYKIREKRU</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetd8d8a3400e194d83b5dc2ba586f007d8"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3126-12768'>
+													<a onclick="productFavoritesProcess(-1,2,3126,12768,1,this,0,1,'d8d8a3400e194d83b5dc2ba586f007d8')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3126)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('d8d8a3400e194d83b5dc2ba586f007d8',3126,12768,0,1,'/oversize-pitikare-cift-cepli-siyah-kirmizi-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3126"
+														data-variantıd="12768"
+														data-unique="d8d8a3400e194d83b5dc2ba586f007d8">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-pitikare-cift-cepli-siyah-kirmizi-ekru-gomlek'
+														class="detailUrl" data-id="3126">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaild8d8a3400e194d83b5dc2ba586f007d8">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3125"
+													title="Oversize Pitikare Çift Cepli Siyah-Hardal-Kahve Gömlek"
+													href='/oversize-pitikare-cift-cepli-siyah-hardal-kahve-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g863siyharkahmachinist-clothing-e802e7.jpg"
+														alt="Oversize Pitikare Çift Cepli Siyah-Hardal-Kahve Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3125"
+												data-variant-id="12764">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3125"><a
+														title="Oversize Pitikare Çift Cepli Siyah-Hardal-Kahve Gömlek"
+														href='/oversize-pitikare-cift-cepli-siyah-hardal-kahve-gomlek'>Oversize
+														Pitikare Çift Cepli Siyah-Hardal-Kahve Gömlek</a>
+												</div>
+												<div class="productStokKodu"><span>G863SİYHARKAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet84c2afcc89e34c919ae1f34670d564f2"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3125-12764'>
+													<a onclick="productFavoritesProcess(-1,2,3125,12764,1,this,0,1,'84c2afcc89e34c919ae1f34670d564f2')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3125)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('84c2afcc89e34c919ae1f34670d564f2',3125,12764,0,1,'/oversize-pitikare-cift-cepli-siyah-hardal-kahve-gomlek',1)"
+														class="btnAddToCart" data-productıd="3125"
+														data-variantıd="12764"
+														data-unique="84c2afcc89e34c919ae1f34670d564f2">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-pitikare-cift-cepli-siyah-hardal-kahve-gomlek'
+														class="detailUrl" data-id="3125">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail84c2afcc89e34c919ae1f34670d564f2">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3124"
+													title="Oversize Pitikare Çift Cepli Siyah-Bej-Ekru Gömlek"
+													href='/oversize-pitikare-cift-cepli-siyah-bej-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g860siybejekrumachinist-clothing-0b-4f1.jpg"
+														alt="Oversize Pitikare Çift Cepli Siyah-Bej-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3124"
+												data-variant-id="12760">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3124"><a
+														title="Oversize Pitikare Çift Cepli Siyah-Bej-Ekru Gömlek"
+														href='/oversize-pitikare-cift-cepli-siyah-bej-ekru-gomlek'>Oversize
+														Pitikare Çift Cepli Siyah-Bej-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G860SİYBEJEKRU</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetac2483d428c840e7b162a110f3461efc"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3124-12760'>
+													<a onclick="productFavoritesProcess(-1,2,3124,12760,1,this,0,1,'ac2483d428c840e7b162a110f3461efc')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3124)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('ac2483d428c840e7b162a110f3461efc',3124,12760,0,1,'/oversize-pitikare-cift-cepli-siyah-bej-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3124"
+														data-variantıd="12760"
+														data-unique="ac2483d428c840e7b162a110f3461efc">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-pitikare-cift-cepli-siyah-bej-ekru-gomlek'
+														class="detailUrl" data-id="3124">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailac2483d428c840e7b162a110f3461efc">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3123"
+													title="Oversize Pitikare Çift Cepli Bej-Ekru Gömlek"
+													href='/oversize-pitikare-cift-cepli-bej-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g860bejekrumachinist-clothing--064c9.jpg"
+														alt="Oversize Pitikare Çift Cepli Bej-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3123"
+												data-variant-id="12756">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3123"><a
+														title="Oversize Pitikare Çift Cepli Bej-Ekru Gömlek"
+														href='/oversize-pitikare-cift-cepli-bej-ekru-gomlek'>Oversize
+														Pitikare Çift Cepli Bej-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G860BEJEKRU</span></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet55c5ab9ed53645f183e7a7da855dbae4"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3123-12756'>
+													<a onclick="productFavoritesProcess(-1,2,3123,12756,1,this,0,1,'55c5ab9ed53645f183e7a7da855dbae4')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3123)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('55c5ab9ed53645f183e7a7da855dbae4',3123,12756,0,1,'/oversize-pitikare-cift-cepli-bej-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3123"
+														data-variantıd="12756"
+														data-unique="55c5ab9ed53645f183e7a7da855dbae4">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-pitikare-cift-cepli-bej-ekru-gomlek'
+														class="detailUrl" data-id="3123">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail55c5ab9ed53645f183e7a7da855dbae4">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3122"
+													title="Oversize Pitikare Çift Cepli Bej-Kahve Gömlek"
+													href='/oversize-pitikare-cift-cepli-bej-kahve-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g860bejkahvemachinist-clothing-14806b.jpg"
+														alt="Oversize Pitikare Çift Cepli Bej-Kahve Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3122"
+												data-variant-id="12752">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3122"><a
+														title="Oversize Pitikare Çift Cepli Bej-Kahve Gömlek"
+														href='/oversize-pitikare-cift-cepli-bej-kahve-gomlek'>Oversize
+														Pitikare Çift Cepli Bej-Kahve Gömlek</a></div>
+												<div class="productStokKodu"><span>G860BEJKAHVE</span></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet597bf9fe43d74c85b04a8f4a199868a8"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3122-12752'>
+													<a onclick="productFavoritesProcess(-1,2,3122,12752,1,this,0,1,'597bf9fe43d74c85b04a8f4a199868a8')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3122)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('597bf9fe43d74c85b04a8f4a199868a8',3122,12752,0,1,'/oversize-pitikare-cift-cepli-bej-kahve-gomlek',1)"
+														class="btnAddToCart" data-productıd="3122"
+														data-variantıd="12752"
+														data-unique="597bf9fe43d74c85b04a8f4a199868a8">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-pitikare-cift-cepli-bej-kahve-gomlek'
+														class="detailUrl" data-id="3122">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail597bf9fe43d74c85b04a8f4a199868a8">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3121"
+													title="Oversize Oduncu Çift Cepli Saks-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-saks-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g871sakssiyahmachinist-clothing-2-a8df.jpg"
+														alt="Oversize Oduncu Çift Cepli Saks-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3121"
+												data-variant-id="12748">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3121"><a
+														title="Oversize Oduncu Çift Cepli Saks-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-saks-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Saks-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G871SAKSSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetb13f2ad370974791b7cfb718e22c0181"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3121-12748'>
+													<a onclick="productFavoritesProcess(-1,2,3121,12748,1,this,0,1,'b13f2ad370974791b7cfb718e22c0181')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3121)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('b13f2ad370974791b7cfb718e22c0181',3121,12748,0,1,'/oversize-oduncu-cift-cepli-saks-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3121"
+														data-variantıd="12748"
+														data-unique="b13f2ad370974791b7cfb718e22c0181">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-saks-siyah-gomlek'
+														class="detailUrl" data-id="3121">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailb13f2ad370974791b7cfb718e22c0181">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3120"
+													title="Oversize Oduncu Çift Cepli Gül Kurusu-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-gul-kurusu-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g871gulkurususiyahmachinist-clothing-3d413e.jpg"
+														alt="Oversize Oduncu Çift Cepli Gül Kurusu-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3120"
+												data-variant-id="12744">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3120"><a
+														title="Oversize Oduncu Çift Cepli Gül Kurusu-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-gul-kurusu-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Gül Kurusu-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G871GÜLKURUSUSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet74c3480dea82455f9d47be5ce5ff1477"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3120-12744'>
+													<a onclick="productFavoritesProcess(-1,2,3120,12744,1,this,0,1,'74c3480dea82455f9d47be5ce5ff1477')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3120)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('74c3480dea82455f9d47be5ce5ff1477',3120,12744,0,1,'/oversize-oduncu-cift-cepli-gul-kurusu-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3120"
+														data-variantıd="12744"
+														data-unique="74c3480dea82455f9d47be5ce5ff1477">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-gul-kurusu-siyah-gomlek'
+														class="detailUrl" data-id="3120">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail74c3480dea82455f9d47be5ce5ff1477">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3119"
+													title="Oversize Oduncu Çift Cepli Kırmızı-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-kirmizi-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g871kirmizisiyahmachinist-clothing-655-99.jpg"
+														alt="Oversize Oduncu Çift Cepli Kırmızı-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3119"
+												data-variant-id="12740">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3119"><a
+														title="Oversize Oduncu Çift Cepli Kırmızı-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-kirmizi-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Kırmızı-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G871KIRMIZISİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet0fb3de0d945743cea45c97b69a4ae2e4"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3119-12740'>
+													<a onclick="productFavoritesProcess(-1,2,3119,12740,1,this,0,1,'0fb3de0d945743cea45c97b69a4ae2e4')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3119)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('0fb3de0d945743cea45c97b69a4ae2e4',3119,12740,0,1,'/oversize-oduncu-cift-cepli-kirmizi-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3119"
+														data-variantıd="12740"
+														data-unique="0fb3de0d945743cea45c97b69a4ae2e4">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-kirmizi-siyah-gomlek'
+														class="detailUrl" data-id="3119">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail0fb3de0d945743cea45c97b69a4ae2e4">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3118"
+													title="Oversize Oduncu Çift Cepli Siyah-Ekru Gömlek"
+													href='/oversize-oduncu-cift-cepli-siyah-ekru-gomlek1'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g871siyahekrumachinist-clothing-988a-2.jpg"
+														alt="Oversize Oduncu Çift Cepli Siyah-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3118"
+												data-variant-id="12736">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3118"><a
+														title="Oversize Oduncu Çift Cepli Siyah-Ekru Gömlek"
+														href='/oversize-oduncu-cift-cepli-siyah-ekru-gomlek1'>Oversize
+														Oduncu Çift Cepli Siyah-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G871SİYAHEKRU</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetd06f3d761acf46f1affdbdd930791753"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3118-12736'>
+													<a onclick="productFavoritesProcess(-1,2,3118,12736,1,this,0,1,'d06f3d761acf46f1affdbdd930791753')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3118)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('d06f3d761acf46f1affdbdd930791753',3118,12736,0,1,'/oversize-oduncu-cift-cepli-siyah-ekru-gomlek1',1)"
+														class="btnAddToCart" data-productıd="3118"
+														data-variantıd="12736"
+														data-unique="d06f3d761acf46f1affdbdd930791753">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-siyah-ekru-gomlek1'
+														class="detailUrl" data-id="3118">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetaild06f3d761acf46f1affdbdd930791753">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3117"
+													title="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek1'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g821ekrusiyahmachinist-clothing-1-45b0.jpg"
+														alt="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3117"
+												data-variant-id="12732">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3117"><a
+														title="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek1'>Oversize
+														Oduncu Çift Cepli Ekru-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G821EKRUSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet288b92f0caee4577905ecef25a05a21f"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3117-12732'>
+													<a onclick="productFavoritesProcess(-1,2,3117,12732,1,this,0,1,'288b92f0caee4577905ecef25a05a21f')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3117)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('288b92f0caee4577905ecef25a05a21f',3117,12732,0,1,'/oversize-oduncu-cift-cepli-ekru-siyah-gomlek1',1)"
+														class="btnAddToCart" data-productıd="3117"
+														data-variantıd="12732"
+														data-unique="288b92f0caee4577905ecef25a05a21f">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek1'
+														class="detailUrl" data-id="3117">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail288b92f0caee4577905ecef25a05a21f">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3116"
+													title="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g809ekrusiyahmachinist-clothing-f7b133.jpg"
+														alt="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3116"
+												data-variant-id="12728">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3116"><a
+														title="Oversize Oduncu Çift Cepli Ekru-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Ekru-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G809EKRUSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet84eee542239a49289a700c30aa6fa00c"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3116-12728'>
+													<a onclick="productFavoritesProcess(-1,2,3116,12728,1,this,0,1,'84eee542239a49289a700c30aa6fa00c')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3116)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('84eee542239a49289a700c30aa6fa00c',3116,12728,0,1,'/oversize-oduncu-cift-cepli-ekru-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3116"
+														data-variantıd="12728"
+														data-unique="84eee542239a49289a700c30aa6fa00c">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-ekru-siyah-gomlek'
+														class="detailUrl" data-id="3116">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail84eee542239a49289a700c30aa6fa00c">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3115"
+													title="Oversize Kareli Oduncu Çift Cepli Ekru-Siyah Gömlek"
+													href='/oversize-kareli-oduncu-cift-cepli-ekru-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g804ekrusiyahmachinist-clothing-bb-606.jpg"
+														alt="Oversize Kareli Oduncu Çift Cepli Ekru-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3115"
+												data-variant-id="12724">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3115"><a
+														title="Oversize Kareli Oduncu Çift Cepli Ekru-Siyah Gömlek"
+														href='/oversize-kareli-oduncu-cift-cepli-ekru-siyah-gomlek'>Oversize
+														Kareli Oduncu Çift Cepli Ekru-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G804EKRUSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet703e97c5a9134eaf9895789ab5c297ad"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3115-12724'>
+													<a onclick="productFavoritesProcess(-1,2,3115,12724,1,this,0,1,'703e97c5a9134eaf9895789ab5c297ad')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3115)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('703e97c5a9134eaf9895789ab5c297ad',3115,12724,0,1,'/oversize-kareli-oduncu-cift-cepli-ekru-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3115"
+														data-variantıd="12724"
+														data-unique="703e97c5a9134eaf9895789ab5c297ad">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-kareli-oduncu-cift-cepli-ekru-siyah-gomlek'
+														class="detailUrl" data-id="3115">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail703e97c5a9134eaf9895789ab5c297ad">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3114"
+													title="Oversize Oduncu Çift Cepli Pembe-Bordo-Ekru Gömlek"
+													href='/oversize-oduncu-cift-cepli-pembe-bordo-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g853pemborekrumachinist-clothing-70ef6b.jpg"
+														alt="Oversize Oduncu Çift Cepli Pembe-Bordo-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3114"
+												data-variant-id="12720">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3114"><a
+														title="Oversize Oduncu Çift Cepli Pembe-Bordo-Ekru Gömlek"
+														href='/oversize-oduncu-cift-cepli-pembe-bordo-ekru-gomlek'>Oversize
+														Oduncu Çift Cepli Pembe-Bordo-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G853PEMBOREKRU</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet2cb424ccf5254395b33a8ff2e1a6622e"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3114-12720'>
+													<a onclick="productFavoritesProcess(-1,2,3114,12720,1,this,0,1,'2cb424ccf5254395b33a8ff2e1a6622e')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3114)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('2cb424ccf5254395b33a8ff2e1a6622e',3114,12720,0,1,'/oversize-oduncu-cift-cepli-pembe-bordo-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3114"
+														data-variantıd="12720"
+														data-unique="2cb424ccf5254395b33a8ff2e1a6622e">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-pembe-bordo-ekru-gomlek'
+														class="detailUrl" data-id="3114">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail2cb424ccf5254395b33a8ff2e1a6622e">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3113"
+													title="Oversize Oduncu Çift Cepli Mavi-Oranj-Ekru Gömlek"
+													href='/oversize-oduncu-cift-cepli-mavi-oranj-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g853mavoraekrumachinist-clothing--0538-.jpg"
+														alt="Oversize Oduncu Çift Cepli Mavi-Oranj-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3113"
+												data-variant-id="12716">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3113"><a
+														title="Oversize Oduncu Çift Cepli Mavi-Oranj-Ekru Gömlek"
+														href='/oversize-oduncu-cift-cepli-mavi-oranj-ekru-gomlek'>Oversize
+														Oduncu Çift Cepli Mavi-Oranj-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G853MAVORAEKRU</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet31b987f4379348839e690d8b082df3ca"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3113-12716'>
+													<a onclick="productFavoritesProcess(-1,2,3113,12716,1,this,0,1,'31b987f4379348839e690d8b082df3ca')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3113)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('31b987f4379348839e690d8b082df3ca',3113,12716,0,1,'/oversize-oduncu-cift-cepli-mavi-oranj-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3113"
+														data-variantıd="12716"
+														data-unique="31b987f4379348839e690d8b082df3ca">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-mavi-oranj-ekru-gomlek'
+														class="detailUrl" data-id="3113">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail31b987f4379348839e690d8b082df3ca">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3112"
+													title="Oversize Oduncu Çift Cepli Ekru-Mint-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-ekru-mint-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g853ekrumintsiymachinist-clothing-a2c785.jpg"
+														alt="Oversize Oduncu Çift Cepli Ekru-Mint-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3112"
+												data-variant-id="12712">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3112"><a
+														title="Oversize Oduncu Çift Cepli Ekru-Mint-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-ekru-mint-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Ekru-Mint-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G853EKRUMİNTSİY</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetb734dd5536814e9cb9b7f725850c2dd2"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3112-12712'>
+													<a onclick="productFavoritesProcess(-1,2,3112,12712,1,this,0,1,'b734dd5536814e9cb9b7f725850c2dd2')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3112)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('b734dd5536814e9cb9b7f725850c2dd2',3112,12712,0,1,'/oversize-oduncu-cift-cepli-ekru-mint-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3112"
+														data-variantıd="12712"
+														data-unique="b734dd5536814e9cb9b7f725850c2dd2">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-ekru-mint-siyah-gomlek'
+														class="detailUrl" data-id="3112">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailb734dd5536814e9cb9b7f725850c2dd2">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3111"
+													title="Oversize Oduncu Çift Cepli Kiremit-Siyah Gömlek"
+													href='/oversize-oduncu-cift-cepli-kiremit-siyah-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g851kiremitsiyahmachinist-clothing-63-a5b.jpg"
+														alt="Oversize Oduncu Çift Cepli Kiremit-Siyah Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3111"
+												data-variant-id="12708">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3111"><a
+														title="Oversize Oduncu Çift Cepli Kiremit-Siyah Gömlek"
+														href='/oversize-oduncu-cift-cepli-kiremit-siyah-gomlek'>Oversize
+														Oduncu Çift Cepli Kiremit-Siyah Gömlek</a></div>
+												<div class="productStokKodu"><span>G851KİREMİTSİYAH</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetf7c595ce68554b5abe93601fab830370"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3111-12708'>
+													<a onclick="productFavoritesProcess(-1,2,3111,12708,1,this,0,1,'f7c595ce68554b5abe93601fab830370')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3111)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('f7c595ce68554b5abe93601fab830370',3111,12708,0,1,'/oversize-oduncu-cift-cepli-kiremit-siyah-gomlek',1)"
+														class="btnAddToCart" data-productıd="3111"
+														data-variantıd="12708"
+														data-unique="f7c595ce68554b5abe93601fab830370">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-kiremit-siyah-gomlek'
+														class="detailUrl" data-id="3111">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailf7c595ce68554b5abe93601fab830370">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3110"
+													title="Oversize Oduncu Çift Cepli Bej-Ekru Gömlek"
+													href='/oversize-oduncu-cift-cepli-bej-ekru-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g851bejekrumachinist-clothing-6740-4.jpg"
+														alt="Oversize Oduncu Çift Cepli Bej-Ekru Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3110"
+												data-variant-id="12704">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3110"><a
+														title="Oversize Oduncu Çift Cepli Bej-Ekru Gömlek"
+														href='/oversize-oduncu-cift-cepli-bej-ekru-gomlek'>Oversize
+														Oduncu Çift Cepli Bej-Ekru Gömlek</a></div>
+												<div class="productStokKodu"><span>G851BEJEKRU</span></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet0c8930936eac49bbaa45ee45da9cb0ad"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3110-12704'>
+													<a onclick="productFavoritesProcess(-1,2,3110,12704,1,this,0,1,'0c8930936eac49bbaa45ee45da9cb0ad')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3110)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('0c8930936eac49bbaa45ee45da9cb0ad',3110,12704,0,1,'/oversize-oduncu-cift-cepli-bej-ekru-gomlek',1)"
+														class="btnAddToCart" data-productıd="3110"
+														data-variantıd="12704"
+														data-unique="0c8930936eac49bbaa45ee45da9cb0ad">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-bej-ekru-gomlek'
+														class="detailUrl" data-id="3110">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail0c8930936eac49bbaa45ee45da9cb0ad">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3109"
+													title="Oversize Oduncu Çift Cepli Füme-Gri Gömlek"
+													href='/oversize-oduncu-cift-cepli-fume-gri-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g851fumegrimachinist-clothing-a-dbe2.jpg"
+														alt="Oversize Oduncu Çift Cepli Füme-Gri Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3109"
+												data-variant-id="12700">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3109"><a
+														title="Oversize Oduncu Çift Cepli Füme-Gri Gömlek"
+														href='/oversize-oduncu-cift-cepli-fume-gri-gomlek'>Oversize
+														Oduncu Çift Cepli Füme-Gri Gömlek</a></div>
+												<div class="productStokKodu"><span>G851FÜMEGRİ</span></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet770c159245124605b7c26aa30bd119c6"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3109-12700'>
+													<a onclick="productFavoritesProcess(-1,2,3109,12700,1,this,0,1,'770c159245124605b7c26aa30bd119c6')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3109)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('770c159245124605b7c26aa30bd119c6',3109,12700,0,1,'/oversize-oduncu-cift-cepli-fume-gri-gomlek',1)"
+														class="btnAddToCart" data-productıd="3109"
+														data-variantıd="12700"
+														data-unique="770c159245124605b7c26aa30bd119c6">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/oversize-oduncu-cift-cepli-fume-gri-gomlek'
+														class="detailUrl" data-id="3109">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail770c159245124605b7c26aa30bd119c6">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3108"
+													title="Superoversize Patchli Oduncu Çift Cepli Siyah-Haki Gömlek"
+													href='/superoversize-patchli-oduncu-cift-cepli-siyah-haki-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g815siyahhakimachinist-clothing-9de6-4.jpg"
+														alt="Oversize Patchli Oduncu Çift Cepli Siyah-Haki Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3108"
+												data-variant-id="12696">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3108"><a
+														title="Superoversize Patchli Oduncu Çift Cepli Siyah-Haki Gömlek"
+														href='/superoversize-patchli-oduncu-cift-cepli-siyah-haki-gomlek'>Superoversize
+														Patchli Oduncu Çift Cepli Siyah-Haki Gömlek</a>
+												</div>
+												<div class="productStokKodu"><span>G815SİYAHHAKİ</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet41a424215c0d48eb87577093576ece91"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3108-12696'>
+													<a onclick="productFavoritesProcess(-1,2,3108,12696,1,this,0,1,'41a424215c0d48eb87577093576ece91')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3108)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('41a424215c0d48eb87577093576ece91',3108,12696,0,1,'/superoversize-patchli-oduncu-cift-cepli-siyah-haki-gomlek',1)"
+														class="btnAddToCart" data-productıd="3108"
+														data-variantıd="12696"
+														data-unique="41a424215c0d48eb87577093576ece91">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/superoversize-patchli-oduncu-cift-cepli-siyah-haki-gomlek'
+														class="detailUrl" data-id="3108">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler ">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail41a424215c0d48eb87577093576ece91">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<a class="itemCategory" href="/erkek-gomlek" title="">
+												<div class="itemCategoryLine">
+													<span>
+														Gömlek
+													</span>
+												</div>
+											</a>
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="3107"
+													title="Superoversize Patchli Oduncu Çift Cepli Siyah-Kırmızı Gömlek"
+													href='/superoversize-patchli-oduncu-cift-cepli-siyah-kirmizi-gomlek'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.machinist.com.tr/Uploads/UrunResimleri/thumb/g815siyahkirmizimachinist-clothing-7bb-2b.jpg"
+														alt="Oversize Patchli Oduncu Çift Cepli Siyah-Kırmızı Gömlek">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="3107"
+												data-variant-id="12692">
+												<div class="productMarka" style="display: none;">Machinist
+													Clothing</div>
+												<div class="productName detailUrl" data-id="3107"><a
+														title="Superoversize Patchli Oduncu Çift Cepli Siyah-Kırmızı Gömlek"
+														href='/superoversize-patchli-oduncu-cift-cepli-siyah-kirmizi-gomlek'>Superoversize
+														Patchli Oduncu Çift Cepli Siyah-Kırmızı Gömlek</a>
+												</div>
+												<div class="productStokKodu"><span>G815SİYAHKIRMIZI</span>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺159,92
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+													<div class="regularPrice">
+														<span>
+															₺199,90
+														</span>
+														<span class="regularKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdetbd0bdeb155694147934ac61feb147f19"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-3107-12692'>
+													<a onclick="productFavoritesProcess(-1,2,3107,12692,1,this,0,1,'bd0bdeb155694147934ac61feb147f19')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,3107)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('bd0bdeb155694147934ac61feb147f19',3107,12692,0,1,'/superoversize-patchli-oduncu-cift-cepli-siyah-kirmizi-gomlek',1)"
+														class="btnAddToCart" data-productıd="3107"
+														data-variantıd="12692"
+														data-unique="bd0bdeb155694147934ac61feb147f19">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/superoversize-patchli-oduncu-cift-cepli-siyah-kirmizi-gomlek'
+														class="detailUrl" data-id="3107">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="discountIcon tip">
+													<span class="discountIcon_s1">%20</span>
+													<span class="discountIcon_s2">İndirim</span>
+													<div class="discountIconDetail">
+														%20İndirim
+													</div>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+												<div class="newIcon tip" title="Yeni Ürün">
+													Yeni Ürün
+												</div>
+												<div class="ozelAlan5">
+													%20 İndirimli
+												</div>
+											</div>
+											<div class="boxBedenlerContent" style="display:none">
+												<div class="boxBedenlerTittle"></div>
+												<div class="boxBedenlerContainer">
+													<div>
+														<div class="boxBedenler noStokUrunListe">
+															Small
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Medium
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															Large
+														</div>
+													</div>
+													<div>
+														<div class="boxBedenler ">
+															X-Large
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetailbd0bdeb155694147934ac61feb147f19">
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="Block_Link" style="display:none;">
+							<a href="#" tici-lang="Global_KategoriyeGit"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/erkek-gomlek"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/Machinist-Clothing--Street--Urban--Wear-e953.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-4 box-t-mb-15">
+					<a class="blokResimLink" href="/kimono"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-0ad1ac73-c.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-4 box-t-mb-15">
+					<a class="blokResimLink" href="/sweatshirt"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-4236e2eb-7.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-4">
+					<a class="blokResimLink" href="/erkek-hoodie"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-14cd6aed-0.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.machinist.com.tr/parfum"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/Machinist-Clothing--Street--Urban--Wear-2a43.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--
+	<section class="landing-block  t-mt-10 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/erkek"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-23368783-a.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	-->
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="/kadin-sweatshirt"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/Machinist-Clothing--Street--Urban--Wear-d751.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.instagram.com/machinistclothing/"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/title-0128e96f-8.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-0 t-pb-10 t-lr-0 design-bg-1 t-vw-5">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm html-context">
+					<div class="instablog">
+						<div class="test">
+							<div class="item1">
+								<a href="https://www.instagram.com/p/CVh-Ec0D9HM/" target="_blank"><img
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/insta1.jpg" alt=""></a>
+							</div>
+							<div class="item2">
+								<a href="https://www.instagram.com/p/CVx8pcyoOSE/" target="_blank"><img
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/insta2.jpg" alt=""></a>
+							</div>
+							<div class="item3">
+								<a href="https://www.instagram.com/p/CVlii3gD_I3/" target="_blank"><img
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/insta3.jpg" alt=""></a>
+							</div>
+							<div class="item4">
+								<a href="https://www.instagram.com/p/CVhoXZgDehK/" target="_blank"><img
+										src="https://www.machinist.com.tr/Uploads/EditorUploads/insta4.jpg" alt=""></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-5 hide-mobile">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm-12">
+					<a class="blokResimLink" href="https://www.instagram.com/machinistclothing/"
+						title="Machinist Clothing | Street | Urban | Wear"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="https://www.machinist.com.tr/Uploads/SayfaTasarim/Sayfa1/Machinist-Clothing--Street--Urban--Wear-4589.jpg"
+							alt="Machinist Clothing | Street | Urban | Wear"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+<!--
+</div>
+-->

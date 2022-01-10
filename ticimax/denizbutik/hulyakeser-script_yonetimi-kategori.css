@@ -1,0 +1,383 @@
+    @media(min-width: 1200px){
+     html  body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item::before {
+      margin-right: 9px;
+      width: 18px;
+      height: 18px;
+      border: 2px solid #d6d6d6 !important;
+      border-radius: 3px;
+      background: #fff;
+      display: inline-block !important;
+      margin-top: 0;
+      text-align: center;
+      line-height: 13px;
+      color: #fff;
+      -webkit-transition: background-color .25s ease-out,border-color .25s ease-out;
+      transition: background-color .25s ease-out,border-color .25s ease-out;
+  }
+  html body .category-vertical-filters .vertical-filter-panel .list-group-item::before {
+      width: 14px;
+      display: inline-block;
+      margin-right: 8px;
+      margin-top: 0;
+      float: left;
+      content: "";
+      border: 1px solid #d7d7d7;
+  }
+  html body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item a, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group li a {
+      float: left;
+      color: #212529;
+      display: inline-block;
+      font-weight: 400;
+      width: calc(100% - 28px);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }
+      html body ul.breadcrumb *, body ul.breadcrumb li:nth-child(1) a::before, body ul.breadcrumb li::after {
+     line-height: 40px !important; 
+  }
+      html body #divSayfalamaUst .blockSelect .sort_3 i::before{
+      content: "\f00a" !important;;
+    }
+    html body #divSayfalamaUst .blockSelect .sort_4 i::before {
+        content: "\f009" !important;;
+    }
+    
+      body .leftBlock {
+      padding-right: 20px;
+    }
+     html body #divSayfalamaUst .blockSelect i {
+    
+    font-size: 20px;
+    }
+    
+    body .leftBlock.LeftMiddle {
+      width: 200px;
+    }
+    
+    body .centerCount.LeftMiddle {
+      width: calc(100% - 200px);
+    }
+    
+     body #divIcerik.ticiContainer {
+    max-width: 1110px;
+    }
+    body .categoryTitle {
+    border-top: 1px solid #eee;
+    margin-top: 20px;
+    }
+      .kategoriMenu {
+    text-align: center;
+    }
+    .kategoriMenu a {
+    padding: 7px 12px;
+    margin-right: 10px;
+    border: 1px solid #E2E2E2;
+    border-radius: 60px;
+    color: #666666;
+    background: #F8F8F8;
+    font-weight: 600;
+    }
+      body .leftBlock .panel-heading a {
+    margin-top: 10px;
+    }
+     body .brandlistselection .filterDeleteContent {
+    position: absolute;
+    }
+    body .categoryContainer .ProductListContent .productItem {
+    margin-bottom: 0;
+    } 
+  
+    body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item::before {
+    display: none !important;
+    }
+    html body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item a, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group li a {
+    overflow: hidden;
+    }
+     body #divIcerik .KategoriTitle {
+        font-size: 17px;
+        font-weight: 600;
+        text-transform: uppercase;
+        position: absolute;
+        left: 20%;
+        top: 28px;
+    
+    }
+    html body ul.breadcrumb {
+    height: 40px;
+    }
+    body .categoryTitleText {
+    height: 40px;
+    margin-bottom: 20px;
+    }
+    html body #divSayfalamaUst {
+    margin-top: 10px;
+    }
+    
+      body .favori a::before {
+    font-size: 16px;
+    }
+      
+    body.brandlistselection .sortingContent > span {
+      position: absolute;
+      left: 0;
+      top: 19px;
+      line-height: 28px;
+      color: #595959;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    
+    body .brandlistselection .sortingContent > span {
+      position: absolute;
+      left: 0;
+    }
+    
+    body .brandlistselection .sortingContent > span {
+      top: 10px;
+      line-height: 28px;
+      color: #595959;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    
+    body #divSayfalamaUst {
+      border: unset;
+      margin-bottom: 17px;
+      padding-bottom: 0;
+    }
+    
+    body #divSayfalamaUst.Slct .brandlistselection .sortingContent select {
+      float: left;
+      height: 30px;
+      color: #000;
+      font-size: 12px;
+      font-weight: 400;
+      border: 1px solid #d0d0d0;
+      background: #fafafa;
+      border-radius: 0;
+      padding: 0 5px;
+      margin-top: 6px;
+    }
+    
+      body .productItem .productName a {
+      float: left;
+      width: 100%;
+      padding: 0;
+      line-height: 19px;
+      height: 19px;
+      font-weight: 600;
+      font-size: 13px;
+      color: #404040;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    body .productItem .regularPrice span {
+      font-size: 14px;
+      color: #b4b4b4;
+      -moz-text-decoration-color: #b4b4b4;
+      text-decoration-color: #b4b4b4;
+      line-height: 22px;
+      font-weight: 400;
+      text-decoration: line-through;
+    }
+    body .productItem .discountPrice span {
+      font-size: 15px;
+      line-height: 22px;
+      font-weight: 600;
+    }
+    .leftBlock .panel-heading a {
+      display: block;
+      line-height: 22px;
+      font-size: 15px;
+      color: #212529;
+      font-weight: 600;
+      padding: 0 0 10px;
+    }
+    body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item a, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group li a {
+      float: left;
+      font-size: 13px;
+      color: #212529;
+      display: inline-block;
+      line-height: 15px;
+      white-space: nowrap;
+    }
+    
+   body .discountIcon {
+right: unset;
+left: 5px;
+background: #000;
+}
+    
+    body .favori {
+    top: 10px;
+    right: 20px;
+    }
+    
+    .favori a {
+    background: #fff;
+    width: 30px;
+    border-radius: 100%;
+    height: 30px;
+    line-height: 30px;
+    }
+    
+    body .productItem .productName {
+    margin: 0;
+    }
+    
+    body .leftBlock .category-vertical-filters .panel.div-kategori > ul > li:not(.list-group-item) > a {
+    margin-bottom: 7px;
+    }
+    
+    body .leftBlock .category-vertical-filters .panel.div-kategori ul li:not(.list-group-item) a {
+    margin-bottom: 13px;
+    }
+    
+    body .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item a, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group li a {
+    font-size: 13px;
+    }
+    body .brandlistselection .sortingContent li:nth-child(2) {
+      display: none;
+    }
+    
+    html body #divSayfalamaUst.Slct .brandlistselection .sortingContent {
+      display: flex !important;
+      justify-content: flex-end !important;
+    }
+    
+    }
+     @media(max-width: 768px){
+          .kategoriMenu {
+        text-align: center;
+        }
+        .kategoriMenu a {
+        padding: 7px 12px;
+        margin-right: 10px;
+        border: 1px solid #E2E2E2;
+        border-radius: 60px;
+        color: #666666;
+        background: #F8F8F8;
+        font-weight: 600;
+        }
+        body .productItem .productName a {
+        float: left;
+        width: 100%;
+        padding: 0;
+        line-height: 19px;
+        height: 19px;
+        font-weight: 600;
+        font-size: 13px;
+        color: #404040;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    html body .productItem .productDetail {
+        display: block;
+        float: left;
+        width: 100%;
+        text-align: left;
+        height: 46px;
+        padding: 5px 0 0;
+        transition: all .3s ease;
+    }
+    body .productItem .regularPrice span {
+        font-size: 14px;
+        color: #b4b4b4;
+        -moz-text-decoration-color: #b4b4b4;
+        text-decoration-color: #b4b4b4;
+        line-height: 22px;
+        font-weight: 400;
+        text-decoration: line-through;
+    }
+    body .productItem .discountPrice span {
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 600;
+    }
+    body .favori {
+    top: 10px;
+    right: 20px;
+    }
+    
+    body .favori a {
+    background: #fff;
+    width: 30px;
+    border-radius: 100%;
+    height: 30px;
+    line-height: 30px;
+    }
+    body .discountIcon {
+      display: none;
+    }
+    body .kategoriMenu {
+    margin: 10px 0;
+    }
+    body .productItem .productName {
+    margin: 0;
+    }
+       body #divSayfalamaUst .mobilFilterOpenBtn .button, body #filterOrderSelect {
+      color: #666 !important;
+      font-size: 12px !important;
+      border-right: 1px solid #e3e3e3;
+  }
+  body .topFilter-Block_Text .mobilFilterBtn::before {
+      content: '';
+      background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/filtre-1.png);
+      width: 15px;
+      height: 15px;
+      background-size: contain;
+      display: inline-block;
+      z-index: 999;
+      position: relative;
+      right: 7px;
+      top: 2px;
+  }
+  
+  body .brandlistselection .sortingContent::before {
+      content: '';
+      background-image: url(https://www.hulyakeser.com/Uploads/EditorUploads/sirala-2.png);
+      width: 18px;
+      height: 15px;
+      background-size: cover;
+      display: inline-block;
+      z-index: 999;
+      position: absolute;
+      left: 4px;
+      top: 12px;
+  }
+  .KategoriTitle >span{
+        font-size: 12px;
+      font-weight: 400;
+        display: block;
+  }
+  .categoryTitleText{
+    display: none;
+  }
+  .KategoriTitle:not(span){
+  background-color: #ededed;
+  padding: 10px;
+  text-align: center;
+  margin: 0 0 5px 0;
+  color: #535353;
+  font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .brandlistselection .sortingContent > li:first-child {
+    padding-left: 15%!important;
+  }
+  
+     }
+	 
+        
+  .categorydesign p, .categorydesign span, .categorydesign b {
+    font-family: poppins,sans-serif!important;
+    font-size: 9pt!important;
+  }
+  .categorydesign {
+    padding: 3%;
+  }
+  

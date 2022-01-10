@@ -1,0 +1,379 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+	<section class="landing-block  t-mt-0 t-mb-15 t-pt-0 t-pb-0 t-lr-0 design-bg-1 t-vw-9"
+		data-ayar='{"items":1,"autoplay":true,"loop":false,"autoplayTimeout":4000,"stagePadding":0,"margin":0}'>
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="owl-carousel owl-theme anasayfa_tek_slider">
+						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
+								data-src="/Uploads/EditorUploads/siustore-anasayfa-mobile.jpg"
+								alt="title"></a>
+						<a class="blokResimLink" href="#" title="title"><img class="owl-lazy editable"
+								data-src="/Uploads/EditorUploads/siustore-anasayfa-2-mobile.jpg"
+								alt="title"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-1.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-2.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-2 design-bg-1 t-vw-3">
+		<div class="ticiContainer hazirBlokContent">
+			<div class="txrow">
+				<div class="txcol-12 txcol-sm-6 box-t-mb-15">
+					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-3.jpg"
+							alt="title"></a>
+				</div>
+				<div class="txcol-12 txcol-sm-6">
+					<a class="blokResimLink" href="#" title="title"><img class="lazyImage editable"
+							src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+							data-original="/Uploads/EditorUploads/siustore-anasayfa-banner-4.jpg"
+							alt="title"></a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="landing-block  t-mt-0 t-mb-0 t-pt-10 t-pb-10 t-lr-0 design-bg-1 t-vw-3"
+		data-ayar='{"autoplay":true,"loop":true,"autoplayTimeout":3000,"margin":20,"itemCount":4}'>
+		<div class="ticiContainer hazirBlokContent anasayfa_urun_slider">
+			<div class="txrow">
+				<div class="txcol-sm">
+					<div class="sliderBannerContainer " id="divUrunler" init="false">
+						<div class="ProductList Kategori1 kategoriBlock">
+							<div class="jCarouselLite blockID-0 lazyImage" data-lazy-function="owlSlider">
+								<div class="JKatAdi categoryTitle">
+									<span class="satir1">
+										<span class="bold">
+											<span class="satir1">NEW IN</span>
+										</span>
+									</span>
+								</div>
+								<div class="clear"></div>
+								<ul class="ulUrunSlider sliderOpacity">
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="16"
+													title="Organic Cotton Track Pants"
+													href='/organic-cotton-track-pants'>
+													<img class='resimOrginal owl-lazy'
+														src="https://www.siustore.co/Uploads/UrunResimleri/thumb/siu-esofman-alti-pastel-cherry-9acdcb.jpg"
+														data-src="https://www.siustore.co/Uploads/UrunResimleri/thumb/siu-esofman-alti-pastel-cherry-9acdcb.jpg"
+														alt="Siu Eşofman Altı Pastel Cherry">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="16"
+												data-variant-id="16">
+												<div class="productMarka" style="display: none;">Siu</div>
+												<div class="productName detailUrl" data-id="16"><a
+														title="Organic Cotton Track Pants"
+														href='/organic-cotton-track-pants'>Organic Cotton
+														Track Pants</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺408,00
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet738323c0628546cba7f1ec5ae73b6633"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-16-16'>
+													<a onclick="productFavoritesProcess(-1,2,16,16,1,this,0,1,'738323c0628546cba7f1ec5ae73b6633')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,16)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('738323c0628546cba7f1ec5ae73b6633',16,16,0,1,'/organic-cotton-track-pants',1)"
+														class="btnAddToCart" data-productId="16"
+														data-variantId="16"
+														data-unique="738323c0628546cba7f1ec5ae73b6633">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/organic-cotton-track-pants' class="detailUrl"
+														data-id="16">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail738323c0628546cba7f1ec5ae73b6633">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="14"
+													title="Organic Cotton Track Pants"
+													href='/cream-track-pants'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.siustore.co/Uploads/UrunResimleri/thumb/krem-esofman-alti--96cb-.jpg"
+														alt="Krem Eşofman Altı">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="14"
+												data-variant-id="14">
+												<div class="productMarka" style="display: none;">Siu</div>
+												<div class="productName detailUrl" data-id="14"><a
+														title="Organic Cotton Track Pants"
+														href='/cream-track-pants'>Organic Cotton Track
+														Pants</a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺408,00
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet237f9196cb044a68ac9c2bfcd8e57130"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-14-14'>
+													<a onclick="productFavoritesProcess(-1,2,14,14,1,this,0,1,'237f9196cb044a68ac9c2bfcd8e57130')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,14)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('237f9196cb044a68ac9c2bfcd8e57130',14,14,0,1,'/cream-track-pants',1)"
+														class="btnAddToCart" data-productId="14"
+														data-variantId="14"
+														data-unique="237f9196cb044a68ac9c2bfcd8e57130">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/cream-track-pants' class="detailUrl"
+														data-id="14">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail237f9196cb044a68ac9c2bfcd8e57130">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="12"
+													title="Organic Cotton Track Pants "
+													href='/organic-cotton-track-pants-'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.siustore.co/Uploads/UrunResimleri/thumb/sky-blue-esofman-alti--4dfa-.jpg"
+														alt="Sky Blue Eşofman Altı">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="12"
+												data-variant-id="12">
+												<div class="productMarka" style="display: none;">Siu</div>
+												<div class="productName detailUrl" data-id="12"><a
+														title="Organic Cotton Track Pants "
+														href='/organic-cotton-track-pants-'>Organic Cotton
+														Track Pants </a></div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺408,00
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet59dde0f927e54667b8b8a2c3513af62b"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-12-12'>
+													<a onclick="productFavoritesProcess(-1,2,12,12,1,this,0,1,'59dde0f927e54667b8b8a2c3513af62b')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,12)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('59dde0f927e54667b8b8a2c3513af62b',12,12,0,1,'/organic-cotton-track-pants-',1)"
+														class="btnAddToCart" data-productId="12"
+														data-variantId="12"
+														data-unique="59dde0f927e54667b8b8a2c3513af62b">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/organic-cotton-track-pants-' class="detailUrl"
+														data-id="12">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail59dde0f927e54667b8b8a2c3513af62b">
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="productItem">
+											<div class="productImage">
+												<a class="detailLink detailUrl" data-id="9"
+													title="Organic Track Pants" href='/organic-track-pants'>
+													<img class='resimOrginal owl-lazy'
+														src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+														data-src="https://www.siustore.co/Uploads/UrunResimleri/thumb/siyah-esofman-alti-a84d-4.jpg"
+														alt="Siyah Eşofman Altı">
+												</a>
+											</div>
+											<div class="productDetail videoAutoPlay" data-id="9"
+												data-variant-id="9">
+												<div class="productMarka" style="display: none;">Siu</div>
+												<div class="productName detailUrl" data-id="9"><a
+														title="Organic Track Pants"
+														href='/organic-track-pants'>Organic Track Pants</a>
+												</div>
+												<div class="productPrice ">
+													<div class="discountPrice">
+														<span>
+															₺408,00
+														</span>
+														<span class="discountKdv">
+															KDV Dahil
+														</span>
+													</div>
+												</div>
+											</div>
+											<div style="display: none;" class="urunListeAdet">
+												<a class="urunListeAdetAzalt qtyMinus">Azalt</a>
+												<input value="1"
+													class="urunListeAdetTextBox txtSepetAdet txtSepetAdet09023be04c2b4bf2a906b432be486a67"
+													type="number" min='1' step='1' data-double='False'
+													formnovalidate="">
+												<a class="urunListeAdetArtir qtyPlus">Artır</a>
+											</div>
+											<div class="productIcon">
+												<div class='favori favoriContent-9-9'>
+													<a onclick="productFavoritesProcess(-1,2,9,9,1,this,0,1,'09023be04c2b4bf2a906b432be486a67')"
+														init="false" data-action="1"
+														class="favoriteslist listfavoriPasif tip"
+														onload="urunfavoriKontrol(this,9)"
+														title="Favorilere Ekle">
+														Favorilere Ekle
+													</a>
+												</div>
+												<div class="mycartIcon tip" title="Sepete Ekle">
+													<a onclick="productListAddToCartV2('09023be04c2b4bf2a906b432be486a67',9,9,0,1,'/organic-track-pants',1)"
+														class="btnAddToCart" data-productId="9"
+														data-variantId="9"
+														data-unique="09023be04c2b4bf2a906b432be486a67">
+														<span class="urunListeSpanSepeteEkle">Sepete
+															Ekle</span>
+													</a>
+												</div>
+												<div class="examineIcon tip detailLink"
+													title="Ürünü İncele">
+													<a href='/organic-track-pants' class="detailUrl"
+														data-id="9">
+														Ürünü İncele
+													</a>
+												</div>
+												<div class="cargoIcon">
+													Ücretsiz Kargo
+												</div>
+											</div>
+											<div class="productItemVariantDetail" style="display:none"
+												id="productListVariantDetail09023be04c2b4bf2a906b432be486a67">
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="Block_Link" style="display:none;">
+							<a href="#" tici-lang="Global_KategoriyeGit"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<!--
+</div>
+-->
