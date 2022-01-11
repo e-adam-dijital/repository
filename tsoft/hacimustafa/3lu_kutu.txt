@@ -1,0 +1,22 @@
+<div class="fl col-12">
+    <div class="row">
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/yoresel-urunler"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hac%C4%B1Mustafalogo.png"
+                    src="/Data/EditorFiles/anasayfa/YORESEL_URUNLER-2.jpg" class="no-lazy" width="100%"
+                    alt="yöresel ürünler" />
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/ziyaretci-defteri"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hac%C4%B1Mustafalogo.png"
+                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/DUSUNCELERINIZ.jpg" class="no-lazy" width="100%"
+                    alt="tatlı" />
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/cikolata-draje"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hac%C4%B1Mustafalogo.png"
+                    src="/Data/EditorFiles/anasayfa/CIKOLATALAR.jpg" class="no-lazy" width="100%"
+                    alt="çikolata draje" />
+            </a>
+        </div>
+    </div>
+</div>
