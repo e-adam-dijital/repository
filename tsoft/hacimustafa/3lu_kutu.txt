@@ -1,21 +1,25 @@
 <div class="fl col-12">
     <div class="row">
-        <div class="box col-4 col-sm-12 pos-r">
-            <a href="/yoresel-urunler"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/YORESEL_URUNLER-2.jpg" class="no-lazy" width="100%"
-                    alt="yöresel ürünler" />
+        <div class="box col-6 col-sm-12 pos-r">
+            <a href="/lokum"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubLOKUMLAR.jpg?_t=1643208225" class="no-lazy"
+                    width="100%" alt="tatlı" />
             </a>
         </div>
-        <div class="box col-4 col-sm-12 pos-r">
-            <a href="/ziyaretci-defteri"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/DUSUNCELERINIZ.jpg" class="no-lazy" width="100%"
-                    alt="tatlı" />
+        <div class="box col-6 col-sm-12 pos-r">
+            <a href="/helva-cesitleri"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubHELVALAR.jpg?_t=1643208225" class="no-lazy"
+                    width="100%" alt="çikolata draje" />
             </a>
         </div>
-        <div class="box col-4 col-sm-12 pos-r">
-            <a href="/cikolata-draje"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/CIKOLATALAR.jpg" class="no-lazy" width="100%"
-                    alt="çikolata draje" />
+    </div>
+</div>
+<div class="fl col-12">
+    <div class="row">
+        <div class="box col-12 col-sm-12 pos-r">
+            <a href="/tatli"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubTATLILAR.jpg?_t=1643208225" class="no-lazy" alt="yöresel ürünler"
+                    width="100%">
             </a>
         </div>
     </div>
