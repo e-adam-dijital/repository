@@ -87,17 +87,24 @@
 -->
 <div class="fl col-12">
     <div class="row">
-        <div class="box col-6 col-sm-12 pos-r">
-            <a href="/lokum"><img
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/sekerleme"><img
                     lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/LOKUM.jpg"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubSEKERLEMELER.jpg?_t=1643208225"
                     class="no-lazy" width="100%" alt="lokumlar">
             </a>
         </div>
-        <div class="box col-6 col-sm-12 pos-r">
-            <a href="/baklava-burma"><img
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/cikolata-draje"><img
                     lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/eadam/Yeni%20Slider/Yeni/BAKLAVA.jpg"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubCIKOLATALAR.jpg?_t=1643208225"
+                    class="no-lazy" width="100%" alt="baklava">
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/kahve"><img
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubKAHVELER.jpg?_t=1643208225"
                     class="no-lazy" width="100%" alt="baklava">
             </a>
         </div>
