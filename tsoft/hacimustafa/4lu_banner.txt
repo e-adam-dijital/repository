@@ -1,9 +1,23 @@
 <div class="fl col-12">
     <div class="row">
-        <div class="box col-12 col-sm-12 pos-r">
-            <a href="/magazalarimiz"><img
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/yoresel-urunler"><img
                     lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/MAGAZALARIMIZ.jpg" class="no-lazy"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubYORESELURUNLER.jpg?_t=1643208225" class="no-lazy"
+                    width="100%" alt="yöresel ürünler">
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/kuruyemis"><img
+                    lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubKURUYEMISLER.jpg?_t=1643208225" class="no-lazy"
+                    width="100%" alt="yöresel ürünler">
+            </a>
+        </div>
+        <div class="box col-4fa-border col-sm-12 pos-r">
+            <a href="/ev-ve-yasam"><img
+                    lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubKOLONYALAR.jpg?_t=1643208225" class="no-lazy"
                     width="100%" alt="yöresel ürünler">
             </a>
         </div>
@@ -11,32 +25,18 @@
 </div>
 <div class="fl col-12">
     <div class="row">
-        <div class="box col-3 col-sm-12 pos-r">
-            <a href="/kahve"><img
+        <div class="box col-6 col-sm-12 pos-r">
+            <a href="/ziyaretci-defteri"><img
                 lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/KAHVE.jpg" class="no-lazy"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubDUSUNCELERINIZ.jpg?_t=1643208225" class="no-lazy"
                     width="100%" alt="kahve">
             </a>
         </div>
-        <div class="box col-3 col-sm-12 pos-r">
-            <a href="/helva-cesitleri"><img
+        <div class="box col-6 col-sm-12 pos-r">
+            <a href="/magazalarimiz"><img
                 lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/HELVA.jpg" class="no-lazy"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubMAGAZALARIMIZ.jpg?_t=1643208225" class="no-lazy"
                     width="100%" alt="helva">
-            </a>
-        </div>
-        <div class="box col-3 col-sm-12 pos-r">
-            <a href="/kuruyemis"><img
-                lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/KURUYEMIS.jpg" class="no-lazy"
-                    width="100%" alt="kuruyemiş">
-            </a>
-        </div>
-        <div class="box col-3 col-sm-12 pos-r">
-            <a href="/ev-ve-yasam"><img
-                lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="/Data/EditorFiles/anasayfa/KOLONYA.jpg" class="no-lazy"
-                    width="100%" alt="ev ve yaşam">
             </a>
         </div>
     </div>
