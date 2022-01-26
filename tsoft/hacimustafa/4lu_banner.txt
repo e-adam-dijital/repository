@@ -14,7 +14,7 @@
                     width="100%" alt="yöresel ürünler">
             </a>
         </div>
-        <div class="box col-4fa-border col-sm-12 pos-r">
+        <div class="box col-4 col-sm-12 pos-r">
             <a href="/ev-ve-yasam"><img
                     lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
                     src="https://www.hacimustafa.com/Data/EditorFiles/gihubKOLONYALAR.jpg?_t=1643208225" class="no-lazy"
