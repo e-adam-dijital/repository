@@ -7,7 +7,7 @@
             </a>
         </div>
         <div class="box col-6 col-sm-12 pos-r">
-            <a href="/helva-cesitleri"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+            <a href="/tahin-helva"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
                     src="https://www.hacimustafa.com/Data/EditorFiles/gihubHELVALAR.jpg?_t=1643208225" class="no-lazy"
                     width="100%" alt="çikolata draje" />
             </a>
