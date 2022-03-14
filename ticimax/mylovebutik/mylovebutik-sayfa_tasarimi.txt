@@ -14,7 +14,7 @@
     .hazirSablonlar-17 .trow .margin-bottom30 { margin-bottom: 10px; }
     .hazirSablonlar-17 .trow .img-responsive { min-width: 100%; max-width: 100%; }
     .hazirSablonlar-17 .trow:after { clear: both; display: table; content: ""; }
-    .hazirSablonlar-17 .trow { margin-left: -15px; margin-right: -15px; }
+    .hazirSablonlar-17 .trow { /* margin-left: -15px; margin-right: -15px; */ }
     .hazirSablonlar-17 .trow .tcol { float: left; position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; }
     .hazirSablonlar-17 .trow .tcol-lg-3 { width: 25%; }
     .hazirSablonlar-17 .trow .tcol-lg-4 { width: 33.33333333%; }
@@ -29,7 +29,7 @@
 
     @media(max-width:540px) {
         .hazirSablonlar-17 .trow .margin-bottom30 { margin-bottom: 10px; }
-        .hazirSablonlar-17 .trow { margin-left: -5px; margin-right: -5px; }
+        .hazirSablonlar-17 .trow { /* margin-left: -5px; margin-right: -5px; */ }
         .hazirSablonlar-17 .trow .tcol { padding-right: 5px; padding-left: 5px; }
         .hazirSablonlar-17 .trow .tcol-xs-12 { width: 100%; }
         .hazirSablonlar-17 .trow .tcol-xs-6 { width: 50%; }

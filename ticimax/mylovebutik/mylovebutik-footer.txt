@@ -67,7 +67,7 @@
 		<li><a href="https://twitter.com/mylovebutik"><i class="fab fa-twitter"></i></a></li>
 		<li><a href="https://www.youtube.com/channel/UCIe5ShWinO0XD3nPvSCm5_Q/featured?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
 		<li><a href="https://tr.pinterest.com/mylovebutikk/"><i class="fab fa-pinterest-p"></i></a></li>
-		<li><a href="https://vm.tiktok.com/ZS9YnvgS/"><img src="/CustomCss/images/tik-tok.png" /></a></li>
+		<!--<li><a href="https://vm.tiktok.com/ZS9YnvgS/"><img src="/CustomCss/images/tik-tok.png" /></a></li>-->
 		<li><a href="https://play.google.com/store/apps/details?id=com.ticimax.androidbase.mylovebutik&amp;gl=TR"><i class="fab fa-google-play"></i> </a></li>
 		<li><a href="https://apps.apple.com/tr/app/mylove-butik/id1598314477?l=tr"><i class="fa fa-apple" style="font-size:30px"></i> </a></li>
 	</ul>
@@ -86,7 +86,7 @@
 
 <div class="copy"><span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; Copyright © 2022&nbsp;e-adam.com tüm hakları saklıdır.</span></div>
 
-<div class="kartimg"><img src="/customcss/images/kartimg.png" /></div>
+<div class="kartimg"><img src="https://www.mylovebutik.com/customcss/images/kartimg.png" /></div>
 </div>
 </div>
 

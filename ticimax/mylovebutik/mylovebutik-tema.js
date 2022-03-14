@@ -633,8 +633,8 @@ function varyantIsim(){
     $('#divUrunEkSecenek .eksecenekLine.resimlivaryasyon .left_line span').html(ekimgIsim);
 }
 function BedenTablosu() {
-    $('.kutuluvaryasyon').before('<div class="bedenT"><a class="fancybox bedenTablosu" href="#bedenTablosu"><img src="/customcss/images/bdnicon.png"> Hangi Bedensin?</a></div>');
-    $(".PriceList").append("<div style='display:none;' id='bedenTablosu'><img class='img-responsive' src='/Uploads/EditorUploads/BedenTablosu.jpg' /></div>");
+    $('.kutuluvaryasyon').before('<div class="bedenT"><a class="fancybox bedenTablosu" href="#bedenTablosu"><img src="https://www.mylovebutik.com/customcss/images/bdnicon.png"> Hangi Bedensin?</a></div>');
+    $(".PriceList").append("<div style='display:none;' id='bedenTablosu'><img class='img-responsive' src='https://www.mylovebutik.com/Uploads/EditorUploads/BedenTablosu.jpg' /></div>");
 }
 function HeaderFixed() {
     var sepetsayfakontrol = $("body").find(".BasketPage").length;
