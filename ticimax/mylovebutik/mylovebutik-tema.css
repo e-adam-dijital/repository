@@ -1,7 +1,7 @@
 /* ==================== */
 /* ------FE6--SC------- */
 /* ==================== */
-@import url('https://www.mylovebutik.com/CustomCss/fonticon/fontawesomeall.min.css'); /* ../fonticon/fontawesomeall.min.css */
+@import url('https://cdn.ticimax.com/v8100/App_Themes/Konsept-14/fonticon/fontawesomeall.min.css'); /* ../fonticon/fontawesomeall.min.css */
 @import url('https://fonts.googleapis.com/css2?family=spartan:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /***/
 *{outline: 0;-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
@@ -257,7 +257,7 @@ textarea { resize: vertical;overflow: auto;  }
 /*sepet*/
 .mycart{float: left;z-index:99;position: relative;}
 .mycart > a {display: block;color: #000;font-size: 0;text-align:center;}
-.mycart > a:before {content: ''; width: 25px; height: 25px; display: block; background:url(/CustomCss/ticimax/images/shopping.svg)no-repeat center / contain;}
+.mycart > a:before {content: ''; width: 25px; height: 25px; display: block; background:url(https://www.mylovebutik.com/CustomCss/ticimax/images/shopping.svg)no-repeat center / contain;}
 /*sepettext*/
 .mycart .sepetTecxt {display:none;float: left;line-height: 25px;text-transform:uppercase;}
 .mycart .sepetUrunSayisi {float: left;line-height: 25px;margin-left: 10px;    position: absolute;color: #fff;background: #000;font-size: 12px;border-radius: 100%;top: 0;width: 24px;}
@@ -312,7 +312,7 @@ textarea { resize: vertical;overflow: auto;  }
 .welcome ul {float:left;margin: 0;list-style:none;padding: 0;}
 .uyeGirisWelcome,.uyeGirisUyeAdi{display: none;}
 .headerUyeGiris a, .headerUyeOl a, .headerHesabim, .headerCikis {float: left;color: #000;font-size: 0;line-height: normal;text-align:center;text-transform:uppercase;}
-.headerUyeGiris a:before, .headerHesabim:before { content: ''; width: 25px; height: 25px; display: block; background: url(/CustomCss/ticimax/images/user1.svg)no-repeat center / contain; }
+.headerUyeGiris a:before, .headerHesabim:before { content: ''; width: 25px; height: 25px; display: block; background: url(https://www.mylovebutik.com/CustomCss/ticimax/images/user1.svg)no-repeat center / contain; }
 .headerUyeOl a, .headerCikis{}
 /*socialbutton*/
 .welcome li {display:inline-block;vertical-align:top;}
@@ -609,7 +609,7 @@ body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir:hover
 body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir:hover a span{color: #fff;}
 
 body #divSayfalamaUst.Slct .blockSelect {float: right;margin:0 15px 0 0;display: block!important;padding:2px 0;border: 1px solid #e9e5e5;border-radius: 25px;}
-body #divSayfalamaUst.Slct .blockSelect a{float: left;width: 42px; height: 26px;margin:0;padding: 0;text-align:center;border:none;background:url('/customcss/images/blockselect.png')no-repeat 10px 8px;transition: none;}
+body #divSayfalamaUst.Slct .blockSelect a{float: left;width: 42px; height: 26px;margin:0;padding: 0;text-align:center;border:none;background:url('https://www.mylovebutik.com/customcss/images/blockselect.png')no-repeat 10px 8px;transition: none;}
 body #divSayfalamaUst.Slct .blockSelect i{display: none;}
 body #divSayfalamaUst.Slct .blockSelect a.sort_3{border-right: 1px solid #f0efee;}
 body #divSayfalamaUst.Slct .blockSelect a.sort_4{width: 50px;background-position: -33px 8px;}
@@ -1236,7 +1236,7 @@ a.headerSearchIcon svg { width: 25px; }
 .navigation .navUl > li.ulVar:hover > a:before { content: ''; position: absolute; left: 15px; right: 45px; bottom: 0; display: block; background-color: #000; height: 1px; z-index: 6; }
 .navigation .navUl > li.ulVar:hover > a { background-color: #fff; }
 .navigation .HeaderMenu2 > li ul li > ul{left: 100%;}
-.navigation .navUl > li.ulVar > a:after {content: '';width: 7px;height: 22px;background: url(/CustomCss/ticimax/images/down-arrow.svg)no-repeat center / 7px;display: inline-block;vertical-align: top;margin-left: 8px;}
+.navigation .navUl > li.ulVar > a:after {content: '';width: 7px;height: 22px;background: url(https://www.mylovebutik.com/CustomCss/ticimax/images/down-arrow.svg)no-repeat center / 7px;display: inline-block;vertical-align: top;margin-left: 8px;}
 /*Menu tipi 1*/
 
     .productItem.Firsatsin .discountPrice:after {content: '';height: 1px;max-width: 65px;margin: 0 auto;background: #b2b2b2;left: 68px;right: 0;top: 50%;position: absolute;transform: rotate( 178deg );}

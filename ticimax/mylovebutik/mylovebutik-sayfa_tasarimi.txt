@@ -9,7 +9,8 @@
 <a href="https://www.mylovebutik.com/ceket"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-5.jpg" /></a>
 <a href="https://www.mylovebutik.com/etek"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-6.jpg" /></a>
 
-<style type="text/css">.hazirSablonlar-17 .trow * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+<style type="text/css">
+		.hazirSablonlar-17 .trow * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
     .hazirSablonlar-17 .trow .margin-bottom30 { margin-bottom: 10px; }
     .hazirSablonlar-17 .trow .img-responsive { min-width: 100%; max-width: 100%; }
     .hazirSablonlar-17 .trow:after { clear: both; display: table; content: ""; }

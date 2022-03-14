@@ -12,3 +12,8 @@
 
 /*  Tüm Sayfalar  */
 
+#ETBIS {float: left;width: 100%;text-align: center;}
+#ETBIS > div {max-width: 100px;display: inline-block;margin-bottom: 20px;}
+@media (min-width: 767px) {
+  .FooterBottom {padding-bottom: 0!important;}
+}
