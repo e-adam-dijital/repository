@@ -1,0 +1,87 @@
+.ProductDetailMain #divOnyazi h2 {font-weight: normal;line-height: 20px;}  
+#divKombinSatinAl {text-align: left;}
+
+
+.RightDetail.SpricV #pnlFiyatlar {
+  /*
+  position: absolute;
+  left: 0;
+  */
+ right: unset;
+ width: max-content;
+ float: left !important;
+}
+.RightDetail.SpricV #divIndirimsizFiyat .right_line * {
+  font-size: 25px!important;
+  font-weight: 700;
+  color: #000!important;
+}
+.RightDetail.SpricV #divIndirimsizFiyat .right_line ::after {
+  display: none;
+}
+
+.kampanyaYazisi {
+  font-size: 22px;
+  position: absolute;
+  bottom: -15px;
+  /* -40px vb. */
+  text-align: center;
+  line-height: 24px;
+  border-top: 1px solid #d7d7d7;
+
+  position: relative;
+  float: left;
+  clear: both;
+  border: 3px solid #cc1a1a;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  padding: 2px 5px;
+}
+.kampanyaYazisi > span:first-of-type {
+  font-size: 12px;
+  float: left;
+  font-weight: 700;
+}
+.kampanyaYazisi > span:last-of-type {
+  font-weight: 600;
+  /*display: block;*/
+	font-size: 14px;
+	color: #cc1a1a;
+}
+.PriceList {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+@media (max-width: 768px) {
+  .kampanyaYazisi > span:last-of-type {
+    font-size: 14px;
+  }
+
+  .PriceList {
+    border-bottom: 15px solid transparent;
+  }
+
+  .kampanyaYazisi {
+    position: fixed;
+    bottom: 62.5px;
+    z-index: 1000;
+    width: 100%;
+    background: #fff;
+    left: 0;
+  }
+}
+.kampanyaYazisi span {
+  color: #cc1a1add;
+  font-size: 12px;
+  line-height: 20px;
+}
+body.global_body .mobileAddition {
+  z-index: 999;
+}
+
+
+/* Ürün detay sayfasındaki akordiyon kapanma sorunu için eklendi */
+.urunOzellikTab .urunTab > ul > li:not(.active) > div {
+  display: none;
+}

@@ -1,0 +1,59 @@
+<!--<div id="divIcerik" class="homepage"><div id="mainHolder_divDesign">...</div></div>-->
+<!--
+<div id="mainHolder_divDesign">
+-->
+
+<a href="https://www.mylovebutik.com/bluz"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-2.jpg" /></a>
+<a href="https://www.mylovebutik.com/bluz"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-3.jpg" /></a>
+<a href="https://www.mylovebutik.com/bluz"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-4.jpg" /></a>
+<a href="https://www.mylovebutik.com/ceket"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-5.jpg" /></a>
+<a href="https://www.mylovebutik.com/etek"><img alt="" src="https://www.mylovebutik.com/Uploads/EditorUploads/0503-web-6.jpg" /></a>
+
+<style type="text/css">.hazirSablonlar-17 .trow * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+    .hazirSablonlar-17 .trow .margin-bottom30 { margin-bottom: 10px; }
+    .hazirSablonlar-17 .trow .img-responsive { min-width: 100%; max-width: 100%; }
+    .hazirSablonlar-17 .trow:after { clear: both; display: table; content: ""; }
+    .hazirSablonlar-17 .trow { margin-left: -15px; margin-right: -15px; }
+    .hazirSablonlar-17 .trow .tcol { float: left; position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; }
+    .hazirSablonlar-17 .trow .tcol-lg-3 { width: 25%; }
+    .hazirSablonlar-17 .trow .tcol-lg-4 { width: 33.33333333%; }
+    .hazirSablonlar-17 .trow .tcol-lg-6 { width: 50%; }
+    .hazirSablonlar-17 .trow .tcol-lg-12 { width: 100%; }
+
+    .hazirSablonlar-17 .promobanner { position: relative; overflow: hidden; }
+    .hazirSablonlar-17 .promobanner a { transition: all 300ms; -webkit-transition: all 300ms; -moz-transition: all 300ms; -o-transition: all 300ms; }
+    .hazirSablonlar-17 .promobanner a img { transform: scale(1); -webkit-transform: scale(1); -moz-transform: scale(1); -o-transform: scale(1); transition: all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; }
+    .hazirSablonlar-17 .promobanner a:hover img { transform: scale(1.1); -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -o-transform: scale(1.1); }
+
+
+    @media(max-width:540px) {
+        .hazirSablonlar-17 .trow .margin-bottom30 { margin-bottom: 10px; }
+        .hazirSablonlar-17 .trow { margin-left: -5px; margin-right: -5px; }
+        .hazirSablonlar-17 .trow .tcol { padding-right: 5px; padding-left: 5px; }
+        .hazirSablonlar-17 .trow .tcol-xs-12 { width: 100%; }
+        .hazirSablonlar-17 .trow .tcol-xs-6 { width: 50%; }
+    }
+</style>
+<div class="hazirSablonlar-17">
+<div class="trow">
+<div class="tcol tcol-lg-12 tcol-xs-12">
+<div class="trow">
+<div class="tcol tcol-lg-4 tcol-xs-12 margin-bottom30">
+<div class="promobanner zoom"><a href="https://www.mylovebutik.com/bluz"><img alt="" class="img-responsive" src="https://www.mylovebutik.com/Uploads/EditorUploads/alt-160222.jpg" /> </a></div>
+</div>
+
+<div class="tcol tcol-lg-4 tcol-xs-12 margin-bottom30">
+<div class="promobanner zoom"><a href="https://www.mylovebutik.com/bijuteri"><img alt="" class="img-responsive" src="https://www.mylovebutik.com/Uploads/EditorUploads/alt-2-160222.jpg" /> </a></div>
+</div>
+
+<div class="tcol tcol-lg-4 tcol-xs-12 margin-bottom30">
+<div class="promobanner zoom"><a href="https://www.mylovebutik.com/pantolon"><img alt="" class="img-responsive" src="https://www.mylovebutik.com/Uploads/EditorUploads/alt-3-160222.jpg" /> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!--
+</div>
+-->

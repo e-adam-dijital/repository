@@ -1,0 +1,116 @@
+.categorydesign{line-height:3em}
+
+
+@media (max-width: 768px){
+  .productItem .productDetail .boxBedenlerContent {
+      position: absolute;
+      top: -9px;
+      left: 0;
+      bottom: unset!important;
+    }
+ 
+}
+
+
+.RightDetail.SpricV #pnlFiyatlar {
+  /*
+  position: absolute;
+  left: 0;
+  */
+  right: unset;
+  width: max-content;
+  float: left !important;
+}
+.RightDetail.SpricV #divIndirimsizFiyat .right_line * {
+  font-size: 25px!important;
+  font-weight: 700;
+  color: #000!important;
+}
+.productItem.Firsatsin .discountPrice::after {
+  display: none;
+}
+
+.kampanyaYazisi {
+  font-size: 22px;
+  position: absolute;
+  /*bottom: -10px;*/
+  /* -40px vb. */
+  text-align: center;
+  line-height: 18px; /* 24px */
+  /*border-top: 1px solid #d7d7d7;*/
+}
+.kampanyaYazisi > span:first-of-type {
+  font-size: 11px;
+	color: #cc1a1add;
+}
+.kampanyaYazisi > span:last-of-type {
+  font-weight: 600;
+  /*display: block;*/
+  font-size: 14px;
+  color: #cc1a1a;
+}
+.PriceList {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+@media (max-width: 768px) {
+  .PriceList {
+    border-bottom: 15px solid transparent;
+  }
+  .kampanyaYazisi > span:last-of-type {
+    font-size: 13px;
+
+    /*line-height: 0.5;*/
+  }
+}
+.kampanyaYazisi {
+  position: relative;
+  /*float: left;*/
+  clear: both;
+  border: 3px solid #cc1a1a;
+  
+  padding: 2px 5px;
+}
+.productItem.Firsatsin .discountPrice span {
+  color: #000;  
+}
+.productItem.Firsatsin .discountPrice::after {
+  display: none;
+}
+.productItem.Firsatsin .productPrice {
+  padding-left: 0;
+  top: 0;
+}
+@media (min-width: 769px) {
+  .newIcon {
+    position: absolute;
+    right: 0;
+    top: 15px;
+  }
+}
+.productItem .discountPrice span {
+  font-size: 16px;
+}
+.boxBedenlerContent .boxBedenlerContainer {
+  background: transparent;
+  justify-content: center;
+}
+.KatSepetFiyat {
+  position: relative;
+  top: 5px;
+  bottom: unset;
+  
+  width: fit-content;
+  margin-left: 0;
+}
+.KatSepetFiyat span {
+  color: #cc1a1add;
+	font-size: 12px;
+	line-height: 18px;
+}
+body .kampanyaYazisi {
+border: 1px solid #cc1a1a;
+}
+
+/* Hata düzeltmesi için eklenen kodlar : */
+

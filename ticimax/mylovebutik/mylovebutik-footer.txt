@@ -1,0 +1,108 @@
+<!-- Bu Alandaki CSS vs JS Kodları mylovebutik-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+
+<div class="FooterSC">
+<div class="FooterMiddle">
+<!--
+<div class="ticiContainer">
+<div class="footerLogo" style="display:flex;justify-content:center">&nbsp;</div>
+
+<h2 style="text-align: center; font-size: 17px;">Modadaki Göz Alıcı Şıklık</h2>
+
+<p style="text-align: justify;font-size: 15px;">2017 yılında kurulan MyLove, kadınların kısa sürede vazgeçilmezi haline gelen bir online hazır giyim markasıdır. Kaliteli ve yerli ürünleri, ulaşılabilir fiyatları ve evrensel moda yaklaşımı Türkiye ve dış pazarlarda yoğun ilgi görmesini ve kategorisinde sektörün liderleri arasında yer almasını sağlamıştır. Kurulduğu günden bu yana hedeflerini her zaman bir üst seviyeye taşıyan MyLove, yılların tecrübesi ve sadık müşteri kitlesinin talepleri doğrultusundan kendi tasarımlarını üretmeye ve müşteriyle buluşturmaya başlamıştır. Jean modellerinden elbise çeşitlerine, dış giyimden ev şıklığına, pijama modellerinden spor kıyafetlerine uzanan geniş ürün yelpazesiyle MyLove, sezonlardan bağımsız, hem trend hem de fonksiyonel parçalar sunarak her genç kadının gardrobunda yer edinmeyi hedefliyor.</p>
+</div>
+-->
+
+<div class="linkler">
+<div class="blink">
+<ul>
+	<li><span>İLETİŞİM</span>
+
+	<div class="iletidiv">
+	<ul>
+		<li>
+		<div class="ilt1"><span><a href="http://wa.me/905551064165">WhatsApp Destek Hattı</a></span></div>
+
+		<div class="ilt2"><span><a href="http://wa.me/905551064165">0555 106 41 65</a>&nbsp;</span></div>
+		</li>
+		<li>
+		<div class="ilt1"><span><a href="tel:08503072362">Müşteri Hizmetleri</a></span></div>
+
+		<div class="ilt2"><span><a href="tel:08503072362">0850 307 23 62</a></span></div>
+		</li>
+	</ul>
+	</div>
+	</li>
+	<li><span>KURUMSAL</span>
+	<ul>
+		<li><a href="/hakkimizda">Hakkımızda</a></li>
+		<li><a href="/bize-ulasin">İletişim</a></li>
+		<li><a href="/blog">Blog</a></li>
+		<li><a href="/kvkk">KVKK</a></li>
+		<li><a href="/mesafeli-satis-sozlesmesi">Mesafeli Satış Sözleşmesi</a></li>
+	</ul>
+	</li>
+	<li><span>YARDIM</span>
+	<ul>
+		<li><a href="/uyelik">Üyelik</a></li>
+		<li><a href="/siparistakip.aspx">Sipariş Takip</a></li>
+		<li><a href="/kolayiade.aspx">Kolay İade</a></li>
+		<li><a href="/parapuan-kampanyasi">My Para</a></li>
+		<li><a href="/musteri-hizmetleri">Müşteri Hizmetleri</a></li>
+		<li><a href="/sik-sorulan-sorular">Sık Sorulanlar</a></li>
+		<li><a href="/iade-kosullari">İade Koşulları</a></li>
+	</ul>
+	</li>
+	<li>
+	<div class="ebultenYazi">
+	<p>Haber Bültenine Üye Ol!</p>
+
+	<div class="ebultenDiv">
+	<div class="ebultenGelecek">&nbsp;</div>
+	</div>
+
+	<div class="socialdiv">
+	<ul>
+		<li><a href="https://www.facebook.com/mylovebutik"><i class="fab fa-facebook-f"></i></a></li>
+		<li><a href="https://www.instagram.com/mylovebutik/"><i class="fab fa-instagram"></i></a></li>
+		<li><a href="https://twitter.com/mylovebutik"><i class="fab fa-twitter"></i></a></li>
+		<li><a href="https://www.youtube.com/channel/UCIe5ShWinO0XD3nPvSCm5_Q/featured?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
+		<li><a href="https://tr.pinterest.com/mylovebutikk/"><i class="fab fa-pinterest-p"></i></a></li>
+		<li><a href="https://vm.tiktok.com/ZS9YnvgS/"><img src="/CustomCss/images/tik-tok.png" /></a></li>
+		<li><a href="https://play.google.com/store/apps/details?id=com.ticimax.androidbase.mylovebutik&amp;gl=TR"><i class="fab fa-google-play"></i> </a></li>
+		<li><a href="https://apps.apple.com/tr/app/mylove-butik/id1598314477?l=tr"><i class="fa fa-apple" style="font-size:30px"></i> </a></li>
+	</ul>
+	</div>
+	</div>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="FooterBottom">
+<div class="ticiContainer">
+<div class="adresDiv"><span>Esentepe mah, Zincirlidere Cd. No:92/A, 34360 Şişli/İstanbul </span></div>
+
+<div class="copy"><span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; Copyright © 2022&nbsp;e-adam.com tüm hakları saklıdır.</span></div>
+
+<div class="kartimg"><img src="/customcss/images/kartimg.png" /></div>
+</div>
+</div>
+
+<div class="product_social_icon_wrapper" style="display:none;"><span class="PaylasTit">Paylaş :</span>
+
+<ul>
+	<li><a class="product_social_icons" content="facebook" href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
+	<li><a class="product_social_icons" content="twitter" href="javascript:;"><i class="fab fa-twitter"></i></a></li>
+	<li><a class="product_social_icons" content="pinterest" href="javascript:;"><i class="fab fa-pinterest"></i></a></li>
+</ul>
+</div>
+
+<!--
+<div id="ETBIS">
+<div id="6311144886837034">&nbsp;<a href="https://etbis.eticaret.gov.tr/sitedogrulama/6311144886837034" target="_blank">
+<img src="" style="width:300px; height:120px" />
+</a></div>
+</div>
+-->
