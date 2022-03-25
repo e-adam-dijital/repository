@@ -1,22 +1,24 @@
 <div class="fl col-12">
-    <div class="row">
+    <!--
+		<div class="row">
         <div class="box col-6 col-sm-12 pos-r">
             <a href="/lokum"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
                     src="https://www.hacimustafa.com/Data/EditorFiles/gihubLOKUMLAR.jpg?_t=1643208225" class="no-lazy"
-                    width="100%" alt="tatlı" />
+                    width="100%" alt="" />
             </a>
         </div>
         <div class="box col-6 col-sm-12 pos-r">
             <a href="/tahin-helva"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
                     src="https://www.hacimustafa.com/Data/EditorFiles/gihubHELVALAR.jpg?_t=1643208225" class="no-lazy"
-                    width="100%" alt="çikolata draje" />
+                    width="100%" alt="" />
             </a>
         </div>
     </div>
+		-->
     <div class="row">
         <div class="box col-12 col-sm-12 pos-r">
-            <a href="/tatli"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubTATLILAR.jpg?_t=1643208225" class="no-lazy" alt="yöresel ürünler"
+            <a href="/draje-badem-sekeri"><img lazy-src="//www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/draje.jpg?_t=1648188987" class="no-lazy" alt="Draje"
                     width="100%">
             </a>
         </div>

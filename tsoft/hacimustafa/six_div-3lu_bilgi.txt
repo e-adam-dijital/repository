@@ -88,24 +88,49 @@
 <div class="fl col-12">
     <div class="row">
         <div class="box col-4 col-sm-12 pos-r">
-            <a href="/sekerleme"><img
+            <a href="/lokum"><img
                     lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubSEKERLEMELER.jpg?_t=1643208225"
-                    class="no-lazy" width="100%" alt="lokumlar">
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/lokum.jpg?_t=1648188581"
+                    class="no-lazy" width="100%" alt="Lokum">
             </a>
         </div>
         <div class="box col-4 col-sm-12 pos-r">
-            <a href="/cikolata-draje"><img
+            <a href="/tatli"><img
                     lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubCIKOLATALAR.jpg?_t=1643208225"
-                    class="no-lazy" width="100%" alt="baklava">
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/tatlı.jpg?_t=1648188581"
+                    class="no-lazy" width="100%" alt="Tatlı">
             </a>
         </div>
         <div class="box col-4 col-sm-12 pos-r">
-            <a href="/kahve"><img
+            <a href="/yoresel-urunler"><img
                     lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
-                    src="https://www.hacimustafa.com/Data/EditorFiles/gihubKAHVELER.jpg?_t=1643208225"
-                    class="no-lazy" width="100%" alt="baklava">
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/yöresel urunler.jpg?_t=1648188581"
+                    class="no-lazy" width="100%" alt="Yöresel Ürünler">
+            </a>
+        </div>
+    </div>
+</div>
+<div class="fl col-12">
+    <div class="row">
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/ziyaretci-defteri"><img
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/dusunceleriniz.jpg?_t=1648188781"
+                    class="no-lazy" width="100%" alt="Düşünceleriniz">
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/magazalarimiz"><img
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/magazalarimiz.jpg?_t=1648188781"
+                    class="no-lazy" width="100%" alt="Mağazalarımız">
+            </a>
+        </div>
+        <div class="box col-4 col-sm-12 pos-r">
+            <a href="/hakkimizda"><img
+                    lazy-src="https://www.hacimustafa.com/Data/EditorFiles/hacıMustafalogo.png"
+                    src="https://www.hacimustafa.com/Data/EditorFiles/anasayfaslider/yeni/nasil.gonderiyoruz_.jpg?_t=1648188781"
+                    class="no-lazy" width="100%" alt="Nasıl Gönderiyoruz">
             </a>
         </div>
     </div>
