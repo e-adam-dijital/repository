@@ -664,8 +664,8 @@ body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir a spa
 	body #divSayfalamaUst .category-vertical-filters.top-filters .list-group.dropdown li a{float: left; line-height: 10px;font-size: 12px;color: #000000;}
 	body #divSayfalamaUst .category-vertical-filters.top-filters .list-group.dropdown li a:hover{text-decoration:underline;}
 	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item:before {margin-right: 10px; width: 12px ; height: 12px ; border:1px solid #cccccc!important; border-radius:0; background: #fff; display: inline-block!important; margin-top:0; text-align: center; line-height:10px;}
-	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item:hover:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #e280b9; font-size:8px;font-weight: normal;}
-	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item.selected:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #e280b9; font-size: 8px;font-weight: normal;}
+	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item:hover:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #0172ea; font-size:8px;font-weight: normal;}
+	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item.selected:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #0172ea; font-size: 8px;font-weight: normal;}
 
 	body #divSayfalamaUst .category-vertical-filters .vertical-filter-panel .list-group-item.list-group-item-image{background: transparent!important;}
 
@@ -711,8 +711,8 @@ body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir a spa
 .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.list-group-item-image:before {display: none!important;}
 
 .leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item:before {margin-right: 10px; width: 12px ; height: 12px ; border:1px solid #cccccc!important; border-radius:0; background: #fff; display: inline-block!important; margin-top:0; text-align: center; line-height:10px;}
-.leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #e280b9; font-size: 8px;font-weight: 600;}
-.leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item:hover:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #e280b9; font-size:8px;font-weight: 600;}
+.leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item.selected:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #0172ea; font-size: 8px;font-weight: 600;}
+.leftBlock .category-vertical-filters .vertical-filter-panel .list-group-item:hover:before { border-color:#cccccc!important; background:#fff; content: '\f00c'; font-family: 'FontAwesome'; color: #0172ea; font-size:8px;font-weight: 600;}
 
 body .leftBlock .slider-range {float: left;width: 100%;border: none;border-radius: 0;padding: 0;margin: 20px 0;height: 2px;background: #dddddd;}
 body .leftBlock .slider-range .ui-slider-range {height: 2px;background:#000;border-radius: 0;top:0;margin: 0;}
@@ -1027,34 +1027,34 @@ section{float: left;width: 100%;}
 #divOnyazi::-webkit-scrollbar-track, .urunTabAlt::-webkit-scrollbar-track, .SmallImages::-webkit-scrollbar-track, .SepetBlockInfo::-webkit-scrollbar-track, .searchContent ul::-webkit-scrollbar-track, body .kombinContent ul::-webkit-scrollbar-track, .CartProduct .SProduct::-webkit-scrollbar-track, .yanResimliMenu .KatMenu1::-webkit-scrollbar-track, .UrunGuruplari .Block_Text::-webkit-scrollbar-track, .ProductPreviewContent .ProductPreviewLeft .PreviewallImages::-webkit-scrollbar-track, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group::-webkit-scrollbar-track, .mobilMenu .menuIcerikAlan::-webkit-scrollbar-track, .mobilMenu .navUl > li > ul::-webkit-scrollbar-track, .mobilMenu .navUl > li > ul li ul::-webkit-scrollbar-track, .navigation .navUl > li > .Flexscroll > ul > li >ul::-webkit-scrollbar-track, .navigation .navUl > li > ul > li > ul >li> ul::-webkit-scrollbar-track,
 .navigation .navUl > li .Flexscroll::-webkit-scrollbar-track { background: #efefef;}
 #divOnyazi::-webkit-scrollbar-thumb, .urunTabAlt::-webkit-scrollbar-thumb, .SmallImages::-webkit-scrollbar-thumb, .SepetBlockInfo::-webkit-scrollbar-thumb, .searchContent ul::-webkit-scrollbar-thumb, .CartProduct .SProduct::-webkit-scrollbar-thumb, body .kombinContent ul::-webkit-scrollbar-thumb, .UrunGuruplari .Block_Text::-webkit-scrollbar-thumb, .yanResimliMenu .KatMenu1::-webkit-scrollbar-thumb, .ProductPreviewContent .ProductPreviewLeft .PreviewallImages::-webkit-scrollbar-thumb, .leftBlock .category-vertical-filters .vertical-filter-panel .list-group::-webkit-scrollbar-thumb, .mobilMenu .menuIcerikAlan::-webkit-scrollbar-thumb, .mobilMenu .navUl > li > ul::-webkit-scrollbar-thumb, .mobilMenu .navUl > li > ul li ul::-webkit-scrollbar-thumb, .navigation .navUl > li > .Flexscroll > ul > li >ul::-webkit-scrollbar-thumb, .navigation .navUl > li > ul > li > ul >li> ul::-webkit-scrollbar-thumb,
-.navigation .navUl > li .Flexscroll::-webkit-scrollbar-thumb{ background: #e280b9;}
+.navigation .navUl > li .Flexscroll::-webkit-scrollbar-thumb{ background: #0172ea;}
 /*Site ici scroll alanlar*/
 /*------------------------------------Sabit Renkler--------------------------------------------*/
 body {background: #fff;}
 /*sepetvebutonrenk*/
 body .button, .baglanButton, .siparisOzetTakip, body.sepetimBody .basketCompletebtn, #AdresContent .button, .BasketPage .OdemeMenu ul li.activeMenu > a , .pageNumberContent a:hover, .pageBorder a:hover, .pageNumberContent a.SelectedSayfa, .pageBorder a.SelectedSayfa, #pnlSlider .flex-control-paging li a.flex-active, .mycart .sepetUrunSayisi, .favi span, body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li a.selected, .discountIcon, #divIndirimOrani, #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected, .menuUstBolum, body .category-vertical-filters.top-filters .FiltreUst, .SepetUst, .urunOzellik .mobilTab >ul >li.active > a, .favNum,
-.tooltip-inner{ background: #e280b9; }
+.tooltip-inner{ background: #0172ea; }
 /*bordercolor*/
 .iletisimContent .iletisimRight .iletisimbanka .span > .line1:nth-child(n+2), body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir, .pageNumberContent a:hover, .pageBorder a:hover, .pageNumberContent a.SelectedSayfa, .pageBorder a.SelectedSayfa, body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li a.selected, .OdemeMenu ul li.activeMenu, #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box.selected, .urunTab >ul > li.active > a,
-#divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box.selected:after{ border-color: #e280b9;}
-.tooltip.top .tooltip-arrow, .tooltip.top-left .tooltip-arrow, .tooltip.top-right .tooltip-arrow {border-top-color: #e280b9;}
-.tooltip.right .tooltip-arrow {border-right-color: #e280b9;}
-.tooltip.left .tooltip-arrow {border-left-color: #e280b9;}
-.tooltip.bottom .tooltip-arrow, .tooltip.bottom-left .tooltip-arrow, .tooltip.bottom-right .tooltip-arrow {border-bottom-color: #e280b9;}
+#divUrunEkSecenek .eksecenekLine.resimlivaryasyon .right_line .size_box.selected:after{ border-color: #0172ea;}
+.tooltip.top .tooltip-arrow, .tooltip.top-left .tooltip-arrow, .tooltip.top-right .tooltip-arrow {border-top-color: #0172ea;}
+.tooltip.right .tooltip-arrow {border-right-color: #0172ea;}
+.tooltip.left .tooltip-arrow {border-left-color: #0172ea;}
+.tooltip.bottom .tooltip-arrow, .tooltip.bottom-left .tooltip-arrow, .tooltip.bottom-right .tooltip-arrow {border-bottom-color: #0172ea;}
 .baglanButton { border-color: transparent; }
-.Basketstep ul li:before { border: 1px solid #e280b9;}
+.Basketstep ul li:before { border: 1px solid #0172ea;}
 /*color*/
 .sepetTitle .st_1,body .sepetTitle2 .st_1, body .BasketRigth ul li.genelToplam .tut, body .sepetTitle2 .st_1:before, .sepetTitle .st_1:before, .TeslimatAdresTittle, .Basketstep ul li.gecti span, body #divToplamOdeme, .TeslimatAdresTittle, a.YeniAdresEkle, .Basketstep ul li.onestepsec span, .Basketstep ul li.pasif i, .BasketPage .Basketstep ul li.pasif i, .BasketPage .cargoInformation div.cargoName span, .BasketPage .faturaAdresBtn.active, .adresAyniBtn.active, .BasketPage .sepetItemB4, .BasketPage .AdresItemAlt.AdresItemSelected .AdresItemAltLeft label span.check, .iletisimContent .categoryTitle .categoryTitleText, #pnlSlider .flex-direction-nav .flex-next:hover:before, #pnlSlider .flex-direction-nav .flex-prev:hover:before, body #divSayfalamaUst .filterDeleteContent .appliedFilter.FiltrelemeKaldir a span, body .siparisUrunUyariSecenek .siparisUrunDurumBaslik, .newsbutton, body ul.breadcrumb li:nth-last-of-type(1) *, .UFavorilerimeEkle #aFavroriCikarBtn .box1, .RightDetail ul.rating li i.starItem, .RightDetail ul.rating li.filled i, .RightDetail .rating-stars ul>li.star.hover>i.fa, .RightDetail .rating-stars ul>li.star.selected>i.fa, .urunTab > ul > li.active > a, .favori a.listfavoriAktif, .GuvenList ul li .gimg, .navigation .navUl > li > ul > li > ul > li.active >a,
-.navigation .navUl > li > ul > li > ul > li.active > .Mright{color: #e280b9;}
+.navigation .navUl > li > ul > li > ul > li.active > .Mright{color: #0172ea;}
 /*HoverRenk*/
 .button:hover, .userLoginBtn:hover, .userSignBtn:hover, .BasketPage .OdemeMenu ul li:hover >a, .BasketPage .alisverisedevamet:hover, .BasketPage #hed div.hediCekForm a:hover, .BasketPage a.YeniAdresEkle:hover, #AdresContent .button:hover, .basketCompletebtn:hover, .KasaOnuFirsatlarContent ul li a.button:hover, body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li >a:hover, .ProductIcon2 > div > a:hover, #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover, .ProductIcon > div:hover .box1,
-.navigation .navUl > li:hover > a:after{ background: #e280b9;}
+.navigation .navUl > li:hover > a:after{ background: #0172ea;}
 /*color*/
 .BasketPage .AdresItemAlt a:hover, .BasketPage .sepetiTemizle:hover, .BasketPage .sepet-sil:hover:before, .BasketPage .sepetTitle2 a:hover, .baglanButton:hover, .BasketPage .faturaAdresBtn:hover, .adresAyniBtn:hover, .socialStore .socialDiv ul li a:hover, .socialStore .store ul li a:hover, .mobilMenu .navUl > li > a:hover, .mobilMenu .navUl > li > ul li a:hover, .mobilMenu .navUl > li .ResimsizDown:hover, .mobilMenu .navUl > li > ul li .ResimsizDown2:hover, .mobilMenu .navUl > li > ul > span:hover, .mobilMenu .navUl > li > ul li ul > span:hover, .menuUstBolum .CloseBtnMenu:hover, .menuUstBolum .mobilMenuBT:hover, .mobilMenuAcButton:hover, .favi:hover, .mycart:hover > a, .headerSocialConnect .baglanButton a:hover, .welcome a:hover, .headerUyeGiris a:hover, .headerHesabim:hover, .headerCikis:hover, .arabtn:hover, .CartProduct .SProduct li a:nth-child(2):hover *, .RightDetail .riSingle a.riUp:hover, .RightDetail .riSingle a.riDown:hover, .welcomeOpen:hover, .mycartClick:hover, .favori a:hover, .HeadSoc ul li a:hover, .navigation .navUl > li:hover > a, .navigation .navUl > li .Flexscroll > ul > li:hover > a,
-.navigation .navUl > li ul li a:hover{color: #e280b9;}
+.navigation .navUl > li ul li a:hover{color: #0172ea;}
 /*bordercolor*/
 body #divSayfalamaUst:not(.Slct) .brandlistselection .sortingContent li >a:hover, .BasketPage a.YeniAdresEkle:hover, .OdemeMenu ul li:hover, .BasketPage .OdemeMenu ul li:hover >a,.CartProduct .headerCartBtn:hover, #divUrunEkSecenek .eksecenekLine.kutuluvaryasyon .right_line .size_box:hover,
-.ProductIcon > div:hover .box1 {border-color: #e280b9;}
+.ProductIcon > div:hover .box1 {border-color: #0172ea;}
 /*color*/
 .siparisOzetTakip {color: #fff;}
 .BasketDetail table tbody tr td a { display: inherit; }
