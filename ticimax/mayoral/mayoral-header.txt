@@ -1,7 +1,7 @@
 <!-- Bu Alandaki CSS vs JS Kodları mylovebutik-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
 
 <a class="logo" href="/"><img src="/Uploads/Images/e-adam-logo.png" /></a>
-<div class="htop" style="/*background: #e00886;*/ background: #e280b9;">
+<div class="htop" style="/*background: #e00886;*/ background: #0172ea;">
 <div class="ticiContainer" style="background: none;">
 <div class="pull-center"><span style="color: #fff; font-weight: 500;">ÜCRETSİZ KARGO!</span></div>
 </div>
