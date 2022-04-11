@@ -1,103 +1,210 @@
-<!-- Bu Alandaki CSS vs JS Kodları mango-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
+  <!-- Bu Alandaki CSS vs JS Kodları mango-script_yonetimi-header_footer.css/js Dosyalarına Eklenmeli -->
 
-<div class="FooterSC">
-<div class="FooterTop">
-<div class="footerLogo"><a href="#"><img src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/logo.png" /></a></div>
+  <div class="FooterSC">
+    <!--  
+      <div class="FooterTop">
+      <div class="footerLogo"><a href="#"><img
+            src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/logo.png" /></a></div>
 
-<div class="ticiContainer">
-<div class="socialStore">
-<div class="socialDiv"><span>Bizi Takip Edin</span>
+      <div class="ticiContainer">
+        
+        <div class="socialStore">
+          <div class="socialDiv"><span>Bizi Takip Edin</span>
 
-<ul>
-	<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-	<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-	<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-	<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-	<li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-</ul>
-</div>
+            <ul>
+              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+              <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+              <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
+            </ul>
+          </div>
 
-<div class="store"><span>Mobil Uygulamalar</span>
+          <div class="store"><span>Mobil Uygulamalar</span>
 
-<ul>
-	<li><a href="#"><i class="fab fa-apple"></i></a></li>
-	<li><a href="#"><i class="fab fa-google-play"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+            <ul>
+              <li><a href="#"><i class="fab fa-apple"></i></a></li>
+              <li><a href="#"><i class="fab fa-google-play"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  -->
+    <div class="FooterMiddle">
+      <div class="ticiContainer">
+        <div class="linkler">
+          <div class="blink">
+            <ul>
+              <!--
+              <li><span>POPÜLER KATEGORİLER</span>
 
-<div class="FooterMiddle">
-<div class="ticiContainer">
-<div class="linkler">
-<div class="blink">
-<ul>
-	<li><span>POPÜLER KATEGORİLER</span>
+                <ul>
+                  <li><a href="#">Kadın Giyim</a></li>
+                  <li><a href="#">Erkek Giyim</a></li>
+                  <li><a href="#">Petshop</a></li>
+                  <li><a href="#">Bebek Giyim</a></li>
+                  <li><a href="#">Kadın Parfüm</a></li>
+                </ul>
+              </li>
+              <li><span>ALIŞVERİŞ BİLGİLERİ</span>
+                <ul>
+                  <li><a href="#">Sipariş</a></li>
+                  <li><a href="#">Sepetim</a></li>
+                  <li><a href="#">İade Taleplerim</a></li>
+                  <li><a href="#">Sipariş Takibi</a></li>
+                  <li><a href="#">Hesabım</a></li>
+                </ul>
+              </li>
+              <li><span>MÜŞTERİ HİZMETLERİ</span>
+                <ul>
+                  <li><a href="#">Canlı Destek</a></li>
+                  <li><a href="#">Yardım</a></li>
+                  <li><a href="#">Garanti &amp; İade Sorgulama</a></li>
+                  <li><a href="#">Sıkça Sorulan Sorular</a></li>
+                </ul>
+              </li>
+              <li><span>KURUMSAL</span>
+                <ul>
+                  <li><a href="#">Hakkımızda</a></li>
+                  <li><a href="#">İletişim</a></li>
+                  <li><a href="#">İade ve Değişim Koşulları</a></li>
+                  <li><a href="#">Sıkça Sorulan Sorular</a></li>
+                </ul>
+              </li> -->
+              <li>
+                <div class="ebultenDiv"><span>Özel promosyonlar, kişiye özel indirimler ve son yenilikler ile ilgili bilgi alın</span>
+                  <div class="ebultenGelecek">&nbsp;</div>
+                </div>
+                <div class="footerLinkContainer">
+                <div class="footerLink">
+                <a href="/hakkimizda">Hakkımızda</a>
+                <a href="/bize-ulasin">İletişim</a>
+                <a href="/blog">Blog</a>
+                <a href="/kvkk">KVKK</a>
+                <a href="/mesafeli-satis-sozlesmesi">Mesafeli Satış Sözleşmesi</a>  
+                <a href="/uyelik">Üyelik</a>
+                <a href="/siparistakip.aspx">Sipariş Takip</a>
+                <a href="/kolayiade.aspx">Kolay İade</a>
+                <a href="/parapuan-kampanyasi">My Para</a>
+                <a href="/musteri-hizmetleri">Müşteri Hizmetleri</a>
+                <a href="/sik-sorulan-sorular">Sık Sorulanlar</a>
+                <a href="/iade-kosullari">İade Koşulları</a>
+                </div>
+  </div>
+            
+              </li>
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
 
-	<ul>
-		<li><a href="#">Kadın Giyim</a></li>
-		<li><a href="#">Erkek Giyim</a></li>
-		<li><a href="#">Petshop</a></li>
-		<li><a href="#">Bebek Giyim</a></li>
-		<li><a href="#">Kadın Parfüm</a></li>
-	</ul>
-	</li>
-	<li><span>ALIŞVERİŞ BİLGİLERİ</span>
-	<ul>
-		<li><a href="#">Sipariş</a></li>
-		<li><a href="#">Sepetim</a></li>
-		<li><a href="#">İade Taleplerim</a></li>
-		<li><a href="#">Sipariş Takibi</a></li>
-		<li><a href="#">Hesabım</a></li>
-	</ul>
-	</li>
-	<li><span>MÜŞTERİ HİZMETLERİ</span>
-	<ul>
-		<li><a href="#">Canlı Destek</a></li>
-		<li><a href="#">Yardım</a></li>
-		<li><a href="#">Garanti &amp; İade Sorgulama</a></li>
-		<li><a href="#">Sıkça Sorulan Sorular</a></li>
-	</ul>
-	</li>
-	<li><span>KURUMSAL</span>
-	<ul>
-		<li><a href="#">Hakkımızda</a></li>
-		<li><a href="#">İletişim</a></li>
-		<li><a href="#">İade ve Değişim Koşulları</a></li>
-		<li><a href="#">Sıkça Sorulan Sorular</a></li>
-	</ul>
-	</li>
-	<li><span>E-BÜLTEN KAYIT</span>
-	<div class="ebultenDiv"><span>Kampanyalarımızdan ve indirimlerimizden güncel olarak haberdar olun.</span>
-	<div class="ebultenGelecek">&nbsp;</div>
-	</div>
+    <div class="FooterBottom">
+      <div class="ticiContainer">
+        <div class="copy"><span>© 2022 Ticimax - Tüm hakları saklıdır.</span></div>
+        <!--
+        <div class="creditCard">
+          <div class="bankimg"><img src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/bankimg14.png" />
+          </div>
 
-	<div class="copy"><span>© 2019 Ticimax - Tüm hakları saklıdır.</span></div>
-	</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+          <div class="kartimg"><img src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/kartimg.png" />
+          </div>
+        </div>
+  --> 
+      </div>
+    </div>
 
-<div class="FooterBottom">
-<div class="ticiContainer">
-<div class="creditCard">
-<div class="bankimg"><img src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/bankimg14.png" /></div>
+  </div>
 
-<div class="kartimg"><img src="https://cdn.ticimax.com/Uploads/hazirSablonResimleri/footerImg/kartimg.png" /></div>
-</div>
-</div>
-</div>
-</div>
+  <div class="product_social_icon_wrapper" style="display:none;"><strong class="PaylasTit">Paylaş</strong>
 
-<div class="product_social_icon_wrapper" style="display:none;"><strong class="PaylasTit">Paylaş</strong>
+    <ul>
+      <li><a class="product_social_icons" content="facebook" href="javascript:;"><i class="fab fa-facebook-f"></i></a>
+      </li>
+      <li><a class="product_social_icons" content="twitter" href="javascript:;"><i class="fab fa-twitter"></i></a></li>
+      <li><a class="product_social_icons" content="pinterest" href="javascript:;"><i class="fab fa-pinterest-p"></i></a>
+      </li>
+      <li><a class="product_social_icons" content="googleplus" href="javascript:;"><i
+            class="fab fa-google-plus-g"></i></a></li>
+    </ul>
+  </div>
+  <style>
+    .mango .copy {
+    color: #adafb2;
+    font-size: 10px;
+    text-align: center;
+  }
+    .mango .footerLink {
+    width: 600px;
+    margin: 0 auto;
+  }
 
-<ul>
-	<li><a class="product_social_icons" content="facebook" href="javascript:;"><i class="fab fa-facebook-f"></i></a></li>
-	<li><a class="product_social_icons" content="twitter" href="javascript:;"><i class="fab fa-twitter"></i></a></li>
-	<li><a class="product_social_icons" content="pinterest" href="javascript:;"><i class="fab fa-pinterest-p"></i></a></li>
-	<li><a class="product_social_icons" content="googleplus" href="javascript:;"><i class="fab fa-google-plus-g"></i></a></li>
-</ul>
-</div>
+  .mango .footerLink a {
+    color: #000;
+    font-weight: bold;
+    margin-right: 25px;
+    font-size: 14px;
+  }
+
+  .mango .footerLinkContainer {
+    text-align: center;
+  }
+
+  .mango .ebultenDiv span {
+    color: #121314;
+    font-weight: bold;
+    font-size: 13px;
+  }
+
+  .mango .footerLinkContainer {
+  float: left;
+  width: 100%;
+  }
+  .mango .ebultenDiv {
+    width: 100%;
+    text-align: center;
+  }
+
+  .mango #footer .linkler .blink > ul {
+    justify-content: center;
+  }
+
+  .mango .ebultenDiv span {
+    color: #000;
+  }
+
+  .mango .FooterSC {
+    background: #fff;
+  }
+
+  .mango #footer {
+    border-top: .5px solid #d7d7d8;
+  }
+
+  .mango .sliderBannerContainer {
+    border: unset;
+  }
+  .mango .footerLink {
+    width: 600px;
+    margin: 0 auto;
+  }
+
+  .mango .footerLink a {
+    color: #000;
+    font-weight: bold;
+    margin-right: 25px;
+    font-size: 14px;
+  }
+
+  .mango .footerLinkContainer {
+    text-align: center;
+  }
+
+  .mango .ebultenDiv span {
+    color: #121314;
+    font-weight: bold;
+    font-size: 13px;
+  }
+    </style>
