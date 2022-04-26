@@ -327,8 +327,10 @@ function urunListCallback() {
                     },
                 },
             });
-    }); 
-    urunDuzeni(urunDuzeniTipi = 4);
+    });
+    urunDuzeni((urunDuzeniTipi));
+    urunDuzeniTipi = 4;
+    urunDuzeni(urunDuzeniTipi);
     if (globalModel.pageType == "homepage") {
         //Anasayfa
     }
