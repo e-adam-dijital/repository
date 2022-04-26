@@ -400,8 +400,8 @@ function urunDuzeni(tip) {
             $(".blockSelect .sort_2").addClass("Active");
             lazyLoad();
         } else if (tip == 3) {
-            $(".ProductList:not(.markaSlider)").removeClass().addClass("ProductList PlSc_3");
-            $(".ItemOrj").removeClass().addClass("ItemOrj col-4");
+            $(".ProductList:not(.markaSlider)").removeClass().addClass("ProductList PlSc_4"); /* PlSc_3 */
+            $(".ItemOrj").removeClass().addClass("ItemOrj col-3"); /* col-4 */
             $(".blockSelect .sort_3").addClass("Active");
             lazyLoad();
         } else if (tip == 4) {
