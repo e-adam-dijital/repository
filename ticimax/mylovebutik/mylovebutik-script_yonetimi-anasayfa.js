@@ -1210,7 +1210,7 @@ if (!Element.prototype.closest) {
     }
   
     const pageable = new Pageable("#containerCustom", {
-      animation: (/macintosh|macintel|macppc|mac68k|macos/i.test(navigator.userAgent)) ? 1000 : 330,
+      animation: (/macintosh|macintel|macppc|mac68k|macos/i.test(navigator.userAgent)) ? 1500 : 330,
       delay: 0,
       swipeThreshold: 50,
       onBeforeStart: function () {
