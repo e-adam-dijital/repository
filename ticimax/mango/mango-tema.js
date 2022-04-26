@@ -225,8 +225,49 @@ function urunListCallback() {
     //Slider ve Urunlisteleme
     //$('.leftBlock .jCarouselLite ul').each(function () {if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel")) $(this).owlCarousel({autoplay: true,loop: true, autoplayTimeout: 2000, autoplaySpeed: 2000, navClass: ['ProductListprev', 'ProductListnext'], autoplayHoverPause: true, margin: 1, nav: true, responsive: {0: {items: 1},} }); });
     //$('.rightBlock .jCarouselLite ul').each(function () {if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel")) $(this).owlCarousel({autoplay: true,loop: true, autoplayTimeout: 2000, navClass: ['ProductListprev', 'ProductListnext'], autoplaySpeed: 2000, autoplayHoverPause: true, margin: 1, nav: true, responsive: {0: {items: 1},} }); });
-
-  
+    if (globalBlokModel == 1) {
+        //Sol ve Orta blok
+        if (urunDuzeniTipi == 0) urunDuzeniTipi = 3;
+        $(".leftBlock").removeClass().addClass("leftBlock LeftMiddle");
+        $(".centerCount").removeClass().addClass("centerCount LeftMiddle");
+    } else if (globalBlokModel == 2) {
+        //Sol orta sag
+        if (urunDuzeniTipi == 0) urunDuzeniTipi = 2;
+        $(".leftBlock").removeClass().addClass("leftBlock LeftMiddleRight");
+        $(".rightBlock").removeClass().addClass("rightBlock LeftMiddleRight");
+        $(".centerCount").removeClass().addClass("centerCount LeftMiddleRight");
+    } else if (globalBlokModel == 3) {
+        //Sag orta
+        if (urunDuzeniTipi == 0) urunDuzeniTipi = 4;
+        $(".rightBlock").removeClass().addClass("rightBlock MiddleRight");
+        $(".centerCount").removeClass().addClass("centerCount MiddleRight");
+    } else if (globalBlokModel == 4) {
+        //Sadece orta
+        if (urunDuzeniTipi == 0) urunDuzeniTipi = 3;
+        $(".centerCount").removeClass().addClass("centerCount Middle");
+    }
+    if ($(".blockSelect").length > 0) {
+        $("body").on("click", ".blockSelect .sort_hrz", function () {
+            urunDuzeniTipi = 1;
+            urunDuzeni(urunDuzeniTipi);
+        });
+        $("body").on("click", ".blockSelect .sort_2", function () {
+            urunDuzeniTipi = 2;
+            urunDuzeni(urunDuzeniTipi);
+        });
+        $("body").on("click", ".blockSelect .sort_3", function () {
+            urunDuzeniTipi = 3;
+            urunDuzeni(urunDuzeniTipi);
+        });
+        $("body").on("click", ".blockSelect .sort_4", function () {
+            urunDuzeniTipi = 4;
+            urunDuzeni(urunDuzeniTipi);
+        });
+        $("body").on("click", ".blockSelect .sort_5", function () {
+            urunDuzeniTipi = 5;
+            urunDuzeni(urunDuzeniTipi);
+        });
+    }
     $(".sliderBannerContainer:not(.NoSlider) .jCarouselLite ul").each(function () {
         //Slider
         if ($(this).find("li").length > 0 && !$(this).hasClass("owl-carousel"))
@@ -287,8 +328,7 @@ function urunListCallback() {
                 },
             });
     });
-   urunDuzeniTipi = 4;
-   urunDuzeni(urunDuzeniTipi);
+    urunDuzeni(urunDuzeniTipi);
     if (globalModel.pageType == "homepage") {
         //Anasayfa
     }
