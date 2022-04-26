@@ -838,7 +838,7 @@ if (!Element.prototype.closest) {
       if (
         /macintosh|macintel|macppc|mac68k|macos/i.test(navigator.userAgent) &&
         (this.scrolling == undefined || this.scrolling == false) &&
-        (n - localStorage.getItem("firstScrollTimePA") > 1400 ||
+        (n - localStorage.getItem("firstScrollTimePA") > 1750 ||
           !localStorage.getItem("firstScrollTimePA"))
       ) {
         localStorage.setItem("thisIndexPA", this.index);
