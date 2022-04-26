@@ -1,7 +1,7 @@
 /* ==================== */
 /* ------FE6--SC------- */
 /* ==================== */
-var urunDuzeniTipi = 4; //Urun duzen tipi
+var urunDuzeniTipi = 0; //Urun duzen tipi
 var mobilBlokCozunurluk = 768; //Mobil dinamikblok
 var sliderZoomCozunurluk = 768; //mobilOzelSlider
 var isHoverCartProduct = false; //Hover da kapatma
@@ -327,8 +327,8 @@ function urunListCallback() {
                     },
                 },
             });
-    });
-    urunDuzeni(urunDuzeniTipi);
+    }); 
+    urunDuzeni(urunDuzeniTipi = 4);
     if (globalModel.pageType == "homepage") {
         //Anasayfa
     }
