@@ -22,7 +22,7 @@ template { display: none; }
 [hidden] { display: none; }
 [tabindex="-1"]:focus { outline: none !important; }
 html {-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;  -webkit-box-sizing: border-box; box-sizing: border-box; -ms-overflow-style: scrollbar; -webkit-tap-highlight-color: transparent;  }
-body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0;font-size:0.8rem; -webkit-animation: fadein 500ms ease-in-out .5s both; animation: fadein 500ms ease-in-out .5s both;}
+body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0;font-size:0.8rem; -webkit-animation: fadein 500ms ease-in-out .5s both; animation: fadein 500ms ease-in-out .5s both;}
 button, input { overflow: visible; }
 button, select { text-transform: none; }
 button, html [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; }
@@ -43,7 +43,7 @@ a:active, a:hover { outline-width: 0; }
 h1,h2,h3,h4,h5,h6{ margin: 0px; padding: 0px; font-weight: normal;}
 input:-webkit-autofill { -webkit-box-shadow: 0 0 0 50px white inset; -webkit-text-fill-color: #333; }
 input:-webkit-autofill:focus { -webkit-box-shadow: 0 0 0 50px white inset; -webkit-text-fill-color: #333; }
-select, input { font-family: 'Poppins', sans-serif !important; }
+select, input { font-family: 'Roboto', sans-serif !important; }
 button { -moz-appearance: none;-webkit-appearance: none;}
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active { transition: background-color 600s ease-in-out 0s; }
 textarea { resize: vertical;overflow: auto;  }
@@ -75,9 +75,9 @@ textarea { resize: vertical;overflow: auto;  }
 #cb3DSecureOdeme { margin-right: 8px; }
 #txtbxCep { border: solid 1px #a9a9a9; height: 26px; color: #777777; background-color: transparent; }
 .clear { clear: both; }
-.textarea { font-family: 'Poppins', sans-serif; border: solid 1px #a9a9a9; padding: 4px; width: 100%; height: 80px; resize: none; color: #777777; background-color: transparent; transition-duration: 0.2s, 0.2s; -webkit-transition-duration: 0.2s, 0.2s;}
-.textbox { font-family: 'Poppins', sans-serif; color: #666666; display: block; font-size: 14px; width: 100%; transition-duration: 0.2s, 0.2s; -webkit-transition-duration: 0.2s, 0.2s;}
-.button {font-family: 'Poppins', sans-serif; cursor: pointer; color: #fff; padding: 4px 5px; transition: all 0.3s ease 0s; border: none;  text-align: center; }
+.textarea { font-family: 'Roboto', sans-serif; border: solid 1px #a9a9a9; padding: 4px; width: 100%; height: 80px; resize: none; color: #777777; background-color: transparent; transition-duration: 0.2s, 0.2s; -webkit-transition-duration: 0.2s, 0.2s;}
+.textbox { font-family: 'Roboto', sans-serif; color: #666666; display: block; font-size: 14px; width: 100%; transition-duration: 0.2s, 0.2s; -webkit-transition-duration: 0.2s, 0.2s;}
+.button {font-family: 'Roboto', sans-serif; cursor: pointer; color: #fff; padding: 4px 5px; transition: all 0.3s ease 0s; border: none;  text-align: center; }
 .selectboxx { height: 26px; line-height: 26px; padding: 0 5px; background-color: none !important; width: 100%; margin-bottom: 4px; }
 .validate, .validateSol, .validateOrta {position: absolute;right: 0;left: 0;bottom: 0;/* display: table; */background-color: #a94442;color: #fff;border-radius: 5px;padding: 0 10px;}
 .validate .validateOk, .validateSol .validateSolOk, .validateOrta .validateOrtaOk {background-color: #a94442;position: absolute;right: 0;bottom: 0;left: 0;height: 10px;display: block;border-radius: 0 0 5px 5px;}
@@ -292,7 +292,7 @@ textarea { resize: vertical;overflow: auto;  }
 /*on yazi*/
 #divOnyazi {float:left;width: 100%;margin-top:10px;}
 #divOnyazi h2{font-weight:normal;font-size:100%;}
-#divOnyazi * {font-family: 'Poppins', sans-serif !important;}
+#divOnyazi * {font-family: 'Roboto', sans-serif !important;}
 #divOnyazi strong {font-weight:bold;}
 #divOnyazi strong * {font-weight:bold;}
 #divOnyazi i {font-family: 'FontAwesomePro'!important;margin-right: 12px;}
@@ -512,8 +512,8 @@ body #divStokYok:before{content: '\f057';font-family:'FontAwesomePro';font-weigh
 .yorumlarItemS1 { padding-bottom: 5px; font-size: 12px; color: #666; border-bottom: 1px dashed #A09B98; }
 .urunDetayPanel .button { color: #fff; }
 
-.urunTabAlt { font-family: 'Poppins',sans-serif !important;padding:0;}
-.urunTabAlt * { font-family: 'Poppins',sans-serif !important;}
+.urunTabAlt { font-family: 'Roboto',sans-serif !important;padding:0;}
+.urunTabAlt * { font-family: 'Roboto',sans-serif !important;}
 .urunTabAlt i { font-family: 'FontAwesome' !important; }
 .urunTabAlt img { max-width: 100% !important; }
 .urunTabAlt iframe { max-width: 100% !important;}
@@ -743,7 +743,7 @@ body .leftBlock .FiyatTextBox input{border: 1px solid #d7d7d7;height: 25px;paddi
 .productItem .regularPrice span {font-size: 12px;color: #000000; line-height: 0.8; font-weight:normal; text-decoration: line-through;}
 
 .productItem .productMarka, .productItem .productOnYazi { display: none !important;}
-.productItem .productOnYazi, .productItem .productOnYazi * { background: none !important; font-family: 'Poppins', sans-serif !important; color: #4a4a4a; font-size: 14px; line-height: 25px; }
+.productItem .productOnYazi, .productItem .productOnYazi * { background: none !important; font-family: 'Roboto', sans-serif !important; color: #4a4a4a; font-size: 14px; line-height: 25px; }
 
 /*Urun Iconlari*/
 .newIcon, .discountIcon, .cargoIcon, .firsatIcon,.urunListStokUyari, .discountIcon div, .discountIcon .discountIcon_s2,.favori, .examineIcon, .mycartIcon{ z-index: 3; display: none;}
@@ -966,7 +966,7 @@ a#ucSepetim_btnSepetiTemizle { margin-top: 28px; display: inline-block; }
 .sepetiTemizle { float: right; line-height: 43px; padding: 0 10px; }
 .popupSepet { width: 99%; }
 .popupSepet #hed div { width: 94%; }
-.sayfaIcerik * { font-family: 'Poppins', sans-serif !important; }
+.sayfaIcerik * { font-family: 'Roboto', sans-serif !important; }
 #mainHolder_UrunDetay_imgCookie { display: none !important; }
 .product_social_icon_wrapper { display: none; }
 .HesabimContainer .urunDetayPanel { max-height: 100%; }
