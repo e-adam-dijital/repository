@@ -134,7 +134,7 @@ line-height: ;
 }
 body .mycart > a::before {
 content: "";
-background: url(https://www.mitaconcept.com/Uploads/EditorUploads/cart.png);
+background: url(https://eadam.ticimaxtest.com/Uploads/EditorUploads/cart.png); /*https://www.mitaconcept.com*/
 background-size: auto;
 display: block;
 background-size: cover;
