@@ -82,7 +82,7 @@ order: 3;
 .yardim a {
 color: #000;
 text-transform: uppercase;
-font-weight: 500;
+font-weight: 400;
 font-size: 12px;
 }
 
@@ -155,7 +155,7 @@ background: unset !important;
 color: #fff;
 right: 1px;
 top: 5.5px;
-font-size: 11px;
+font-size: 13px;
 }
 
 body .searchContent {
