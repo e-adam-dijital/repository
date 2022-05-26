@@ -68,7 +68,7 @@ body .CartProduct {
 width: 360px;
 }
 .headerUyeGiris a, .headerUyeOl a, .headerHesabim, .headerCikis {
-font-weight: 500;
+font-weight: 400;
 }
 .yardim {
 float: right;
@@ -82,7 +82,7 @@ order: 3;
 .yardim a {
 color: #000;
 text-transform: uppercase;
-font-weight: 500;
+font-weight: 400;
 font-size: 12px;
 }
 
@@ -99,7 +99,7 @@ order: 1;
 .siparisTakip a {
 color: #000;
 text-transform: uppercase;
-font-weight: 500;
+font-weight: 400;
 font-size: 12px;
 }
 
