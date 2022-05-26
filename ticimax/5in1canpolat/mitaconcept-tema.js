@@ -12,7 +12,7 @@ var urunDetay_varyasyonSecili=true; //varyasyon secme ve secmeme
 //Sayfa Yuklenme sahnesi
 $(document).ready(function () {
     //fontyukleme
-    setTimeout(function () { loadStyle("https://cdn.ticimax.com/v8100/App_Themes/Konsept-14/fonticon/fontawesomeall.min.css", function () { }); }, 500); setTimeout(function () { loadStyle("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap&subset=latin-ext", function () { }); }, 500);
+    setTimeout(function () { loadStyle("https://cdn.ticimax.com/v8100/App_Themes/Konsept-14/fonticon/fontawesomeall.min.css", function () { }); }, 500); setTimeout(function () { loadStyle("https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&display=swap&subset=latin-ext", function () { }); }, 500);
     //sayfaislemleri
     if ($('#divSayfalamaUst').length>0) { KategoriIslemleri(); }//Kategori islemleri
     else if (globalModel.pageType == 'productdetail') {UrunDetayIslemleri(); }//Detay islemleri
