@@ -424,7 +424,7 @@ top: 15px;
 }
 body .headerContent .fa-shopping-cart::before{
 content: "";
-background: url(https://www.mitaconcept.com/Uploads/EditorUploads/cart.png);
+background: url(https://eadam.ticimaxtest.com/Uploads/EditorUploads/cart.png); /*https://www.mitaconcept.com*/
 background-size: auto;
 background-size: auto;
 display: block;
