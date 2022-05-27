@@ -266,7 +266,7 @@ function mobileMenu() {//Mobil Menu ve mobil scriptler
     var menuKopya = $('.navigation').html();
     $('.navigation').remove();
     $('body').prepend('<div class="mobilMenu"><div class="menuUstBolum"><div class="mobilMenuBT"><i class="fal fa-bars"></i><span>MENU</span></div><div class="CloseBtnMenu"><i class="far fa-times"></i></div></div><div class="menuIcerikAlan">' + menuKopya + '</div>');
-    $('.headerContent').prepend('<div class="mobilMenuAcButton"><span>MENU</span><i class="fal fa-bars"></i></div>');
+    $('.headerContent').prepend('<div class="mobilMenuAcButton"><!--<span>MENU</span>--><i class="fal fa-bars"></i></div>');
     //Resimsiz Menu
     if ($('.HeaderMenu2').length>0) {
         $('.mobilMenu .HeaderMenu2 > li > ul').closest('li').append('<div class="ResimsizDown"><i class="fal fa-angle-right"></i></div>');
