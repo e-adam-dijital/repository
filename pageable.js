@@ -853,6 +853,7 @@
                 var d = new Date();
                 var n = d.getTime();
                 // && (Number(localStorage.getItem("thisIndexPA")) == this.index || localStorage.getItem("firstScrollWheelPA") != 1)
+                if (/(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) {
                 if (
                     (this.scrolling == undefined || this.scrolling == false) &&
                     (n - localStorage.getItem("firstScrollTimePA") > 1250 ||
@@ -866,6 +867,10 @@
                         localStorage.setItem("thisIndexPA", this.index);
                     }, 100);
                 } else {
+                }
+                } else {
+                    // Android & Windows and others
+                    var wheelEndPA = 1;
                 }
                 if (this.events.wheel && !this.scrolling && wheelEndPA == 1) {
                     var index = this.index;
