@@ -856,7 +856,7 @@
                 if (/(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) {
                 if (
                     (this.scrolling == undefined || this.scrolling == false) &&
-                    (n - localStorage.getItem("firstScrollTimePA") > 1250 ||
+                    (n - localStorage.getItem("firstScrollTimePA") > 3250 ||
                         !localStorage.getItem("firstScrollTimePA"))
                 ) {
                     localStorage.setItem("thisIndexPA", this.index);
