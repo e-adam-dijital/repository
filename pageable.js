@@ -1,4 +1,5 @@
-    function _instanceof(left, right) {
+console.log("test");    
+function _instanceof(left, right) {
         if (
             right != null &&
             typeof Symbol !== "undefined" &&
